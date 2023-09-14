@@ -318,7 +318,7 @@ fd0a183d1c2357b22c9248158e05b437 pal|cic7101|cpak|rpak # Blues Brothers 2000
 db54ae6343abb5b5855f1fb985f326ed ntsc|cic6102|cpak|rpak # Blues Brothers 2000
 edbc536c534e9946ec3e955a785cbadd ntsc|cic6102|cpak|rpak # Blues Brothers 2000
 2b5c6881c98176f4f17560ded7ef6fd3 ntsc|cic6102|cpak|rpak # Blues Brothers 2000
-86152829275aea9079f359308977c302 pal|ntsc|cic7101|cic6102|cpak|rpak|illegal # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
+86152829275aea9079f359308977c302 pal|cic7101|cpak|rpak # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
 ed865d8799b37f84dd335542fd9ad0db ntsc|cic6102 # BMP View by Count0
 db54cbef35718b8b9ff9f3950f6dcece ntsc|cic6102|eeprom512 # Bob-omb Richard by MrMarioTendo (V1.0_Dut) (SM64 Hack)
 40a39e7019854fa352fd1029c9208885 ntsc|cic6102|eeprom512 # Bob-omb Richard by MrMarioTendo (V1.1_Ger) (SM64 Hack)
@@ -345,8 +345,8 @@ eb49bd93f96e814f719776dfd7cd9cfc ntsc|cic6102 # Bomberman 64 - Arcade Edition
 89c76a4242f3e11f28ed0be25d85d570 ntsc|cic6102|eeprom512|rpak # Bomberman Hero
 7afcf78c2ee9ef08818600b6f62a809a pal|cic7101|eeprom512|rpak # Bomberman Hero
 bd6db8f67dcd70b7fbac871c0e4034f4 pal|cic7101|eeprom512|rpak # Bomberman Hero
-35b838cf4845e80bfc95cad7140e3750 pal|cic7101|cic6102|eeprom512|rpak|illegal # Bomberman Hero
-750c8a8a42f92625ca40c9af48bcaef1 pal|cic7101|cic6102|eeprom512|rpak|illegal # Bomberman Hero
+35b838cf4845e80bfc95cad7140e3750 pal|cic7101|eeprom512|rpak # Bomberman Hero
+750c8a8a42f92625ca40c9af48bcaef1 pal|cic7101|eeprom512|rpak # Bomberman Hero
 84401dfbd206b083d0a2663dbe25a1eb ntsc|cic6102|eeprom512|rpak # Bomberman Hero
 47f19ed3ba3414eba8fc8032403c6507 ntsc|cic6102|eeprom512|rpak # Bomberman Hero
 96ed24d48760ddf58730ff133c8669a2 ntsc|cic6102|eeprom512|rpak # Bomberman Hero (Debug Menu Hack by mezmorizen64)
@@ -579,7 +579,7 @@ b6700ec9f59b14343d7bf2a299fa3579 ntsc|cic6102 # Damage Controller Pak's Manageme
 8fc41947a4220bbf0f494c425b9466f9 ntsc|cic6102|rpak # Dance Dance Revolution - Disney Dancing Museum
 9b82805aa0cc46360994924b739254b3 ntsc|cic6102 # Dark Rift
 1fc0ae901be1d82e2e0dc8e8322576cf pal|cic7101 # Dark Rift
-558474cfe3fc82f6b646de06cf04206d pal|cic7101|cic6102|illegal # Dark Rift
+558474cfe3fc82f6b646de06cf04206d pal|cic7101 # Dark Rift
 c26d09598fe2c7bfa522bedbee602950 ntsc|cic6102 # Dark Rift
 ad7f1bb6f0c27ac464de86df69856d78 ntsc|cic6102|cpak|rpak # Deadly Arts
 11f3f45cb78b88e69d0ccceacd5ab5e5 pal|cic7101|rpak # Defi au Tetris Magique
@@ -860,7 +860,7 @@ bd1a0b73c98257479823e351c073b21c ntsc|cic6102|cpak|rpak # Extreme-G XG2
 243b89689afa68d19a5b39d077a547f1 ntsc|cic6102|eeprom512|rpak # F-1 World Grand Prix
 3b36edf5cac5de54984f9b5f82e7bb4b pal|cic7101|eeprom512|rpak # F-1 World Grand Prix
 fdfd362c6b6e33aa73c901634e3664b4 pal|cic7101|eeprom512|rpak # F-1 World Grand Prix
-6b8e5c5b7fc15df98f98438151f8bbf3 pal|cic7101|cic6102|eeprom512|rpak|illegal # F-1 World Grand Prix
+6b8e5c5b7fc15df98f98438151f8bbf3 pal|cic7101|eeprom512|rpak # F-1 World Grand Prix
 6cd66ffed811a9ebc6fb434c6f3d2b17 pal|cic7101|eeprom512|rpak # F-1 World Grand Prix
 69af2a2303bbe3606d0c60d9292632b9 ntsc|cic6102|eeprom512|rpak # F-1 World Grand Prix
 0c1f282241180d176998d7b52c11c496 ntsc|cic6102|eeprom512|rpak # F-1 World Grand Prix
@@ -878,7 +878,7 @@ f03d86c003648fdeb4c05d2dbb57f357 ntsc|cic6106|sram32k|rpak # F-ZERO PXB 2 by Phi
 f2db3bf386eb4f6fdfda57d049ae063b ntsc|cic6106|sram32k|rpak # F-ZERO X
 0950349a660e9defe059ea6cf4ab2418 pal|cic7106|sram32k|rpak # F-ZERO X
 3d51f598ab1eddf1c42416ce3040b9e9 ntsc|cic6106|sram32k|rpak # F-ZERO X
-02e5836814f05923b8f8117612af3294 pal|cic7101|cic6102|sram32k|rpak|illegal # F-ZERO X
+02e5836814f05923b8f8117612af3294 pal|cic7101|sram32k|rpak # F-ZERO X
 d5c6bb669cfeae36d29173f33b04d993 pal|cic7101|sram32k|rpak # F-ZERO X
 7eac4f18d84b237be88eb1189257dd14 pal|cic7101|sram32k|rpak # F-ZERO X
 1afa0219d56c6b16b3dcf4228f57b0ae pal|cic7101|sram32k|rpak # F-ZERO X
@@ -1462,7 +1462,7 @@ b1e35d37ee50d00787747dfafa0ef945 ntsc|cic6102|eeprom512|rpak # Indy Racing 2000
 b17b4dd3cc83e898e708cee018266db1 ntsc|cic6102|eeprom512 # Insane Edition by Rapitor (Demo) (SM64 Hack)
 db1bb704cbf339c316bc9db849f21bf8 ntsc|cic6102|cpak # International Superstar Soccer '98
 01b8d789fb73fcdde4845993fcbf4ae0 pal|cic7101|cpak # International Superstar Soccer '98
-2a37d85abe593191496d000e6ef38fda pal|ntsc|cic7101|cic6102|cpak|illegal # International Superstar Soccer '98 (Europe) (Beta)
+2a37d85abe593191496d000e6ef38fda pal|cic7101|cpak # International Superstar Soccer '98 (Europe) (Beta)
 4dda9ff8c46a77920db24f6bfa15d414 ntsc|cic6102|cpak|rpak # International Superstar Soccer 2000
 ebb66828a2ddee5547594f2e7c562607 ntsc|cic6102|cpak|rpak # International Superstar Soccer 2000
 477a3c858b7ed2cb1193f3e9d44f8f82 ntsc|cic6102|cpak|rpak # International Superstar Soccer 2000
@@ -1639,7 +1639,7 @@ cdf5c8b9c7f0d25d70288078c16d2524 ntsc|cic6105 # Legend of Zelda, The - Majora's 
 ac39050070a103678f700b37693e3d9b ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
 259311ee96b0d0d6679436220a09d1cb pal|cic7105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
 016f24c11fcb4e2bf5503625eb5e1b32 ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
-02a60169b1ab9ff44298f0ccf444d4a6 pal|cic7101|cic6102|sram32k|rpak|illegal # Legend of Zelda, The - Ocarina of Time
+02a60169b1ab9ff44298f0ccf444d4a6 pal|cic7101|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
 1d6a2d6247cb344577c6794fcbec5d2f ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
 16c6b3887b7e52739377984bc1dff73b ntsc|cic6102|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
 f8adb1c6d6ef0b050b3d2b7aa688580a ntsc|cic6102|sram32k|rpak # Legend of Zelda, The - Ocarina of Time
@@ -1889,7 +1889,7 @@ df40527062e24ddf3679d506793f554a ntsc|cic6102 # Megahawks Inc Musicdisk 1
 83bf88880f99fb77f124ade72bfd1829 ntsc|cic6102 # Mempack to N64 Uploader by Destop V1.0
 679043bd654039693f7ca64e4f873edb ntsc|cic6102 # MGC 2011 Retroactive
 b6e5dbe0e762c9d407690ad138e999f2 ntsc|cic6102|cpak|rpak # Mia Hamm Soccer 64
-3550bf494f5907e191a86297d2eb88a1 pal|ntsc|cic7101|cic6102|cpak|rpak|illegal # Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
+3550bf494f5907e191a86297d2eb88a1 pal|cic7101|cpak|rpak # Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
 f72312d676ca1543db1e801aaf702c90 pal|cic7101|cpak|rpak # Michael Owens WLS 2000
 714c196501cf0fce73af0689170cf44b pal|cic7101|cpak|rpak # Michael Owens WLS 2000
 b1ac7470d1bdfa58a3e7d9b437cc4519 ntsc|cic6105|eeprom512|rpak|tpak # Mickey no Racing Challenge USA
@@ -2276,7 +2276,7 @@ e06e619a7960f96421d2e6d355112e2c ntsc|cic6102 # ObjectVIEWER V1.1 by Kid Stardus
 d272058acf6d5a900dc860866e82ca52 ntsc|cic6102 # Oerjan Intro by Oerjan
 e3fc0211a42de4c57dad8dc1d220f6ed ntsc|cic6102|cpak|rpak # Off Road Challenge
 93efe1c974b2a7f9f19538ea8649a274 pal|cic7101|cpak|rpak # Off Road Challenge
-f1a1452cbfa7bce98c9e72c6e1f70fc8 pal|cic7101|cic6102|cpak|rpak|illegal # Off Road Challenge
+f1a1452cbfa7bce98c9e72c6e1f70fc8 pal|cic7101|cpak|rpak # Off Road Challenge
 dd634790f2886b8d0dd0624b46851c45 ntsc|cic6102|cpak|rpak # Off Road Challenge
 c32ab31d746c885173ef124c17e37fe5 ntsc|cic6102|sram32k|cpak # Ogre Battle 64 - Person of Lordly Caliber
 7c1b2b0271c5408a3a0395103c81bd53 ntsc|cic6102|sram32k # Ogre Battle 64 - Person of Lordly Caliber
@@ -2830,8 +2830,8 @@ f1858074fd0b04b99fdb11b865374ea0 ntsc|cic6102|cpak|rpak # South Park Rally
 0ae0b5e38ff02d7c87f7e022c3fc623c ntsc|cic6102|cpak|rpak # South Park Rally
 5cf3aa767c9645d54133e48251e5f0df ntsc|cic6102|cpak|rpak # South Park Rally (Beta)
 091c2939b4365cf6261c3769e5019e19 ntsc|cic6102|cpak|rpak # South Park Rally (Beta)
-375beef11cff086e6060f571a98ae12b pal|ntsc|cic7101|cic6102|cpak|rpak|illegal # South Park Rally (Europe) (Beta)
-3b7e8509d757bfd594626de502d68d6d pal|ntsc|cic7101|cic6102|cpak|illegal # South Park Rally (Europe) (Beta)
+375beef11cff086e6060f571a98ae12b pal|cic7101|cpak|rpak # South Park Rally (Europe) (Beta)
+3b7e8509d757bfd594626de502d68d6d pal|cic7101|cpak # South Park Rally (Europe) (Beta)
 7b494b0b39cbdbf61d05f7d0c557f26b ntsc|cic6102|eeprom512 # Space Dynamites
 7085e3b5113bf711f5592a193eb44ca7 ntsc|cic6102|cpak|rpak # Space Invaders
 b7268c7ac3e83bcb25b9d53699f6c2c8 ntsc|cic6102|cpak|rpak # Space Invaders
@@ -3284,8 +3284,8 @@ f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Obl
 3b58a13798b90e6f575a6beb26b30ccf pal|cic7101|cpak|rpak|tpak # Turok 3 - Shadow of Oblivion (Beta)
 a2078ab139fbd1e909e719a7a1c28a19 pal|cic7101|cpak|rpak|tpak # Turok 3 - Shadow of Oblivion (Beta)
 a53480ca15de32396a49587a206b655a ntsc|cic6102|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
-3cc5c7d1bbd1d575d9cff4c50ebc62cf pal|ntsc|cic7101|cic6102|cpak|rpak|illegal # Turok 3 - Shadow of Oblivion (Europe) (Beta)
-11cc092c89f489faa7c70ec0566e7b88 pal|ntsc|cic7101|cic6102|cpak|rpak|illegal # Turok 3 - Shadow of Oblivion (Europe) (Beta)
+3cc5c7d1bbd1d575d9cff4c50ebc62cf pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
+11cc092c89f489faa7c70ec0566e7b88 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
 03d67ad8740d56aaed87f99b5d31160f pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
 aff5c2f379910c4bd5b9eb06b3b3cd44 ntsc|cic6102 # Twintris by Twinsen
 5c861b6c26bf90e2c496cbad3ba6ca15 ntsc|cic6102|eeprom512 # Twisted Adventures by Mrivan97 (SM64 Hack)
