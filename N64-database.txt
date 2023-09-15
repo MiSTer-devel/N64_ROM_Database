@@ -705,8 +705,8 @@ bfcf339ff93cf836c2c81b0ba2327a67 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobit
 3eaeb0c22f13d3892a3af0cf2358b3c4 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
 1c38d72215bfc2794d2494dd60ba3e72 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
 4df8e04babc9fbf9d67b72cc3e952c8a ntsc|cic5167|cpak|rpak|tpak # Doshin The Giant 1 Save Fix v1.1 ozidual
-e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102 # Doubutsu Banchou (English Translated, Rev 1)
-05b271a640d3188ed7166c2c6a357934 ntsc|cic6102 # Doubutsu Banchou (Japan) (Proto)
+e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (English Translated, Rev 1)
+05b271a640d3188ed7166c2c6a357934 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (Japan) (Proto)
 a9a7fc2cf020aad343a8b7f048c8a2ed ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
 45fe89869fd049c20280d0a866edebbb ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
 eab162aa7a854e6f2d6c2291db69830b ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
