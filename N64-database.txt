@@ -3440,7 +3440,7 @@ d9d5ad549611cb54efdeb7b1e41f501a ntsc|cic6102|sram32k|rpak # WCW-nWo Revenge
 d0797a7980d2b6a98148cc7ec753e05c pal|cic7101 # Wet Dreams Madeiragames Demo by Immortal
 2cf2c5c249d68bf971a897993fc0cc96 pal|cic7101 # Wet Dreams Main Demo by Immortal
 76dbf368ba53f03002f11082ea0fdcca ntsc|cic6102 # Wet Dreams Part 4 Dynamix
-1e276580a090d5c4972a9c16132ee9fc pal|cic6102 # Wet Dreams Part 4 Dynamix
+1e276580a090d5c4972a9c16132ee9fc pal|cic7101 # Wet Dreams Part 4 Dynamix
 a104cbee34d1a6ab7e127b6b27eadf6f pal|cic7101 # Wet Dreams Readme by Immortal
 d2bfec4e99872372f53b8ca94c65d994 ntsc|cic6102|cpak # Wetrix
 1eb2fd00686d7271df9a50223ab7e7a7 pal|cic7101|cpak # Wetrix
