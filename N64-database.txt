@@ -705,8 +705,8 @@ bfcf339ff93cf836c2c81b0ba2327a67 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobit
 3eaeb0c22f13d3892a3af0cf2358b3c4 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
 1c38d72215bfc2794d2494dd60ba3e72 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
 4df8e04babc9fbf9d67b72cc3e952c8a ntsc|cic5167|cpak|rpak|tpak # Doshin The Giant 1 Save Fix v1.1 ozidual
-e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102 # Doubutsu Banchou (English Translated, Rev 1)
-05b271a640d3188ed7166c2c6a357934 ntsc|cic6102 # Doubutsu Banchou (Japan) (Proto)
+e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (English Translated, Rev 1)
+05b271a640d3188ed7166c2c6a357934 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (Japan) (Proto)
 a9a7fc2cf020aad343a8b7f048c8a2ed ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
 45fe89869fd049c20280d0a866edebbb ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
 eab162aa7a854e6f2d6c2291db69830b ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
@@ -3238,9 +3238,9 @@ e599e0f581e85d3b2028b12df8715bb3 ntsc|cic6102 # TRON Thing by xdaniel
 b8a3c0440d55cd92d2648e22a7341452 ntsc|cic6102|eeprom512 # TsucnenT's Treasures 2 by Yorozuyakun-Pocket (SM64 Hack)
 8aeca34e781bb260dc7da1bb672b6b4a ntsc|cic6102|eeprom512 # TsucnenT's Treasures by Yorozuyakun-Pocket (SM64 Hack)
 171459f1b0e0654b6e00e32b29055f1d ntsc|cic6102|eeprom512|rpak # Tsumi to Batsu - Hoshi no Keishousha
-90185d481bcab776add87b0300348a7c ntsc|cic6102|rpak # Tsumi to Batsu - Hoshi no Keishousha
-357102a9d0e74060692510d66ddda3d1 ntsc|cic6102 # Tsumi to Batsu - Hoshi no Keishousha (Ch) (iQue)
-9c41f0eb1babd3c7db018d7c0c899828 ntsc|cic6102|rpak # Tsumi to Batsu - Hoshi no Keishousha (Fandub)
+90185d481bcab776add87b0300348a7c ntsc|cic6102|eeprom512|rpak # Tsumi to Batsu - Hoshi no Keishousha
+357102a9d0e74060692510d66ddda3d1 ntsc|cic6102|eeprom512|rpak # Tsumi to Batsu - Hoshi no Keishousha (Ch) (iQue)
+9c41f0eb1babd3c7db018d7c0c899828 ntsc|cic6102|eeprom512|rpak # Tsumi to Batsu - Hoshi no Keishousha (Fandub)
 79daea8d37ef9208d66eda3750ed3686 ntsc|cic6102|cpak # Turok - Dinosaur Hunter
 876a32f84965f6c6ed187eab39c875d9 pal|cic7101|cpak # Turok - Dinosaur Hunter
 8a1a52433b2c7e942a803c6e96c31637 pal|cic7101|cpak # Turok - Dinosaur Hunter
