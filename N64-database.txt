@@ -426,6 +426,7 @@ edda6c1e849c2824cd69f2a6abeed135 pal|cic7101|cpak # Castlevania - Legacy of Dark
 3709fd9d3f3b43fac9bae6bec9326851 ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
 a6476a508c3e59c85f117ca1af3002ab ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
 96ede400b4bf97259ffcd16513db09db ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
+317085e9fcd8df3f70f11468e5611418 ntsc|cic6102|eeprom2k # Cave Story (Release Demo 1)
 fcb6e1cf4a6b2d7b8c2d2a6b97a55b65 ntsc|cic6102 # CD64 BIOS Direct-Upgrade
 ff6301997f859802185de47fbeea0e49 ntsc|cic6102 # CD64 BIOS Direct-Upgrade
 e4f0ca7904923c8cf55a2daeffeb6704 ntsc|cic6102 # CD64 BIOS Direct-Upgrade
@@ -628,9 +629,11 @@ e9c48ccf72159338908547faf7ca1406 ntsc|cic6103|eeprom512|cpak|rpak # Diddy Kong R
 f45a23e2258c5037b6f65b46ad96b318 ntsc|cic6102 # Die Hard 64 (Prototype) (Level 2)
 51bdb432abe666f656a5ded8c51d2555 ntsc|cic6102 # Die Hard 64 (Prototype) (Level 3)
 b3214ceb7dcc0b754222d6beeca760c0 ntsc|cic6102|eeprom512 # Die Rache der Anderen - Teil 1 by FrittenFriseurLPs (SM64 Hack)
-94a82792e6be2baafcc2720f0e47821e ntsc|cic6102 # DinoPlanet
+94a82792e6be2baafcc2720f0e47821e ntsc|cic6102|eeprom2k|rpak # DinoPlanet
 0bc4dcaf80ee9f4cbbf134ddd5a7a3c9 ntsc|cic6102|eeprom2k|rpak # Dinosaur Planet (Proto)
-c7a33c090be23b27f4e728a80740a1d5 ntsc|cic6102 # Dinosaur Planet (Prototype With 2022-09-08 Dinomod Enhanced Patch)
+998474433c01894772eaa192f33e875f ntsc|cic6102|eeprom2k|rpak # Dinosaur Planet (Proto, cracked)
+c7a33c090be23b27f4e728a80740a1d5 ntsc|cic6102|eeprom2k|rpak # Dinosaur Planet (Prototype With 2022-09-08 Dinomod Enhanced Patch)
+c58ec0aeba1e46431d680cadd84ba68d ntsc|cic6102|eeprom2k|rpak # Dinosaur Planet (Prototype With 2023-09-12 Dinomod Enhanced Patch)
 8f6303eee648de41fc35c50e0929f04b ntsc|cic6102|cpak|rpak # Disney's Tarzan
 f4bb37f24e604d02eb4b871ef27cc373 pal|cic7101|cpak|rpak # Disney's Tarzan
 6a7a8cc9462a38de73202249baf01178 pal|cic7101|cpak|rpak # Disney's Tarzan
@@ -3466,6 +3469,9 @@ a6fb11368cf36f272f197cc4777eff76 ntsc|cic6102|eeprom512|rpak # Wild Choppers
 29684a6bb8e556e6df97d284cb19ad67 pal|cic7101|cpak|rpak # Wipeout 64
 a351407a0e81ed040ae7da45d7c93d7b ntsc|cic6102|cpak|rpak # Wipeout 64
 8f8497557a59001953a1e40a32a15d5e pal|cic7101|cpak|rpak # Wipeout 64 (Beta)
+b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
+6debed294271420221177b972f240b04 pal|cic7101 # Wizard of the Board
+24da9e65cf49dc2692337db4f69cb7ee ntsc|cic6102 # Wizard of the Board - Sicko Mode
 ea1faa1d43bddb2ad4e35ef45ef8281a ntsc|cic6102 # Wolfenstein 3D - Shareware PC Version by jnmartin84
 2efae6c28a445d1eade19db7cd56199f ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
 31e2442a4b24afcb7c3a01098a85b68f ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
