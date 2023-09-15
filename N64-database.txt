@@ -3334,10 +3334,10 @@ a670c0b9b2668ffda601962e62020e30 ntsc|cic6102 # Vid Res Test by Chilly Willy
 8318d73c63b259bf451812c2d9403fd5 ntsc|cic6102 # Vidrestest by Nintendo
 641c1763d4f6b5e594c2c58592dc8b91 ntsc|cic6102 # View N64 Test Program
 3c32f630f396acb757ed7e3220a333c6 ntsc|cic6102 # View N64 Test Program
-9bbabdedcd717c4eded24f4e52177b96 ntsc|cic6102 # Viewpoint 2064 (Japan) (Proto)
-7ecf0f0bd2236a38e0abd0b65089d94f ntsc|cic6102 # Viewpoint 2064 - No-AA (Hack) v1 ElectronAsh
-a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
-7b06e4fbf15112a88c5f9c182fa1264b ntsc|cic6102 # Viewpoint 2064 T+Eng v1.1 Zoinkity
+9bbabdedcd717c4eded24f4e52177b96 ntsc|cic6102|eeprom512 # Viewpoint 2064 (Japan) (Proto)
+7ecf0f0bd2236a38e0abd0b65089d94f ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-AA (Hack) v1 ElectronAsh
+a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
+7b06e4fbf15112a88c5f9c182fa1264b ntsc|cic6102|eeprom512 # Viewpoint 2064 T+Eng v1.1 Zoinkity
 e562aebae65400e7513283df657edb8e ntsc|cic6102|cpak|rpak # Vigilante 8
 6ec4950b58e97363db4aa7f40f379376 pal|cic7101|cpak|rpak # Vigilante 8
 2e72d91dc5f15e194bf0ac3090eab8bc pal|cic7101|cpak|rpak # Vigilante 8
