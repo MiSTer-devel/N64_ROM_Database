@@ -1941,7 +1941,7 @@ a84104c90794a0ea75a82b3da4513a57 pal|cic7101|eeprom512|rpak # Mission Impossible
 a67f7cb5285c91a528ddbebe0eaaa81f ntsc|cic6102|eeprom512|rpak # Mission Impossible
 4de3044ad2a6080e6d674b96d4d3a227 ntsc|cic6102|eeprom512|rpak # Mission Impossible
 20bb58a076dd2124dac7a899dca6898f ntsc|cic6102|eeprom512|rpak # Mission Impossible
-bcb74c38310ea30c240b6bea2dc97a5f ntsc|cic6102|eeprom16k|rpak # MK64_Amped_Up_v2
+bcb74c38310ea30c240b6bea2dc97a5f ntsc|cic6102|eeprom2k|rpak # MK64_Amped_Up_v2
 f2125a872ba37e5c78501b0743c07ab0 ntsc|cic6102 # MMR by Count0
 e79a27d9a6329bdcad76de21c7037946 ntsc|cic6102 # MMR by Count0
 d022a4adff426e89507abb419a7378e3 ntsc|cic6102 # MOD
