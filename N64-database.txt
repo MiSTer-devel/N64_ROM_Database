@@ -21,21 +21,21 @@ fcbac7d8a990b39b118486b4ac57482a ntsc|cic6102|sram32k|rpak # 1080 Snowboarding
 dbfed347c118f736f3fb7444124416fc ntsc|cic6103|sram32k|rpak # 1080 Snowboarding
 92b6c29b273fa5f717da3a602c331713 ntsc|cic6102|sram32k|rpak # 1080 Snowboarding
 5cc6cd487191733ce5b59e5d2adc1a60 ntsc|cic6103|sram32k|rpak # 1080 Snowboarding
-4552254d8ba93b08fb6a0af0cdda86fe ntsc|cic6102|rpak # 1080 Snowboarding (En,Ja) (LodgeNet)
+4552254d8ba93b08fb6a0af0cdda86fe ntsc|cic6102|sram32k|rpak # 1080 Snowboarding (En,Ja) (LodgeNet)
 2a127857d51f66dc43cab6ea049d1d82 ntsc|cic6102 # 1964 Demo by Steb
 03f81f7a4f0ae2cc4e3c7422d9f79fef ntsc|cic6102 # 2 Blokes & An Armchair - N64 Remix Remix by Tesko
 2629c0685505afedbf612f298fbdccf3 ntsc|cic6102 # 2 Blokes & An Armchair - Nintendo 64 Remix Remix by Tesko
 07fae461cf7d5475d91161a8f6eebf7f ntsc|cic6102 # 2 Blokes and an Armchari Tesko
-9299343e70e61bccd8e6aac071aea1b7 ntsc|cic6102|cpak|rpak|tpak # 3D Model RGB Test Program (Test Program)
+9299343e70e61bccd8e6aac071aea1b7 ntsc|cic6102|eeprom512|cpak|rpak # 3D Model RGB Test Program (Test Program)
 0949de363010f42f01ce766f60c0bf0a ntsc|cic6102 # 3DS Model Conversion by Snake
 ffcb018cb73cf40bc52db39d113c0ff3 ntsc|cic6102 # 3DS Model Conversion by Snake
 1f2fad1fdbe1a47e477cda74d53c1e6b ntsc|cic6102 # 3Dsesam by Skake
-7672b88280c1b6a2bb95ec45e11a3145 ntsc|cic6102|cpak|rpak|tpak # 40 Winks (Aftermarket) (Unl)
-aee60a8609f81120dde97e239d8f2f70 ntsc|cic6102|cpak|rpak # 40 Winks (Proto)
-132510a262f01f09235f35e94314bdb5 pal|cic7101|cpak|rpak # 40 Winks (Prototype)
-abdd350d01d4e6848f17b8915a2f955f pal|cic7101|cpak|rpak # 40 Winks (Prototype)
-8159eeda00357ce9a7132677ae119c9e pal|cic7101|cpak|rpak # 40 Winks (Prototype)
-2ace9d651f897e5079b5a754bd948765 ntsc|cic6102|cpak|rpak|tpak # 40 Winks (Prototype) (Hardware Compatible)
+7672b88280c1b6a2bb95ec45e11a3145 ntsc|cic6102|eeprom512|cpak|rpak # 40 Winks (Aftermarket) (Unl)
+aee60a8609f81120dde97e239d8f2f70 ntsc|cic6102|eeprom512|cpak|rpak # 40 Winks (Proto)
+132510a262f01f09235f35e94314bdb5 pal|cic7101|eeprom512|cpak|rpak # 40 Winks (Prototype)
+abdd350d01d4e6848f17b8915a2f955f pal|cic7101|eeprom512|cpak|rpak # 40 Winks (Prototype)
+8159eeda00357ce9a7132677ae119c9e pal|cic7101|eeprom512|cpak|rpak # 40 Winks (Prototype)
+2ace9d651f897e5079b5a754bd948765 ntsc|cic6102|eeprom512|cpak|rpak # 40 Winks (Prototype) (Hardware Compatible)
 041cdb4c3fd6123f2438d039a5339bfc ntsc|cic6102|eeprom512 # 4th of July 64 by FireMario74 (SM64 Hack)
 806ecb7356980fdfd3b630b258851a19 ntsc|cic6102|eeprom512|cpak # 64 de Hakken!! Tamagotchi Minna de Tamagotchi World
 481a7ba811e3c85d8f48740a192bdd83 ntsc|cic6102|eeprom512|cpak # 64 de Hakken!! Tamagotchi Minna de Tamagotchi World
@@ -50,28 +50,21 @@ aaf25a850b49a75ddc9e6ede28cbcd37 ntsc|cic6102|eeprom512|rpak # 64 Trump Collecti
 64490d1ec830f24bdc2162399ac6a3dc ntsc|cic6102 # 64DD Block Viewer SDK12 by LuigiBlood (V0.3a)
 d930538cb87d78d76b4761891e12f3b5 ntsc|cic6102 # 64DD Block Viewer SDK8 by LuigiBlood
 8dd790c2d8ca95eb07fe32d8285300b1 ntsc|cic6102 # 64DD Block Viewer SDK9 by LuigiBlood
-db58e0fa8ad87fec1cddcf1159a01610 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh (V0.4a)
-17ff3b1b942266714be9a770f4aed1c5 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh (V5.3g)
 3f13b9312566e5d3bbb0a4b2a398eb20 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh
 8951e2bc67d7e36ff684aa267c2ae563 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh
 10602e603814507880a2eea113de89d4 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh
 67ca7ee0f976db9eea683eec19358818 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh
 de0d651a40e1c3b1adfef4bec8752875 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh
+db58e0fa8ad87fec1cddcf1159a01610 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh (V0.4a)
+17ff3b1b942266714be9a770f4aed1c5 ntsc|cic6102 # 64DD Disk Dumper by LuigiBlood & marshallh (V5.3g)
 ead69a6212a5628c1178f0b5997865f3 ntsc|cic6102 # 64DD Disk Viewer by LuigiBlood
-f08b3f4a3d0d817d07b12b1a328838d8 ntsc|cic6102 # 64DD IPL
-b4891d8c08890281c680929f71768fca ntsc|cic8303 # 64DD IPL
-082ffe637e1c04d14fe3393156294fbc ntsc|cic8303 # 64DD IPLROM BIOS (for UltraHLE)
+f08b3f4a3d0d817d07b12b1a328838d8 ntsc|cic6102|cpak|rpak # 64DD IPL
+b4891d8c08890281c680929f71768fca ntsc|cic8303|cpak|rpak # 64DD IPL
+082ffe637e1c04d14fe3393156294fbc ntsc|cic8303|cpak|rpak # 64DD IPLROM BIOS (for UltraHLE)
 9104a221f54784ddef83d140431c985f ntsc|cic6102 # 64DD Test 1 Homebrew by LuigiBlood (by LuigiBlood)
 c5956065fcd942ab86c93367b797842f ntsc|cic6102 # 64DD Test 2 Homebrew by LuigiBlood & OzOnE
 80dbdbe9e6f544b7f00ca94dd91532bd ntsc|cic6102 # 64DD Test 3 Homebrew by LuigiBlood & OzOnE
 0a0dbf1db4b06aa654a2d75227821ee7 ntsc|cic6102 # 64Doom - Doom Port Jnmartin84 2020-04-11
-df09ff79199855182ed5afa1c1dee1de ntsc|cic6102 # 64drive Menu (V1.11b)
-114e02a494c652097aea0c750aac909a ntsc|cic6102 # 64drive Menu (V1.11c)
-5373460a1e3df29ec88f91be14837bad ntsc|cic6102 # 64drive Menu (V1.12a)
-59c832b97dfd91e31da4ef6c79fa9205 ntsc|cic6102 # 64drive Menu (V1.12b)
-c89e973952eb14b0be52d9e7164f3fd9 ntsc|cic6102 # 64drive Menu (V1.12c)
-304b9bace7dbb388105eaa4a781020b5 ntsc|cic6102 # 64drive Menu (V1.12d)
-6cb7e7132ab155f8eaca089367aa27ab ntsc|cic6102 # 64drive Menu (V1.12e)
 17a7d77d5eb10819923d94edb6316da7 ntsc|cic6102 # 64drive Menu
 a931aad496f9eba002744c02c8fb56af ntsc|cic6102 # 64drive Menu
 57173b83dba2cfefd05b2bfc97304990 ntsc|cic6102 # 64drive Menu
@@ -85,6 +78,13 @@ cf767a7a923f97cd24dc2dc86ab4a1e7 ntsc|cic6102 # 64drive Menu
 8c803b26e9ade7a8c69d8cda93dd54a7 ntsc|cic6102 # 64drive Menu
 93c24b100b9f8d0cef2ab9d436288585 ntsc|cic6102 # 64drive Menu
 ee4d06dc914cef4914223a19de3b1af3 ntsc|cic6102 # 64drive Menu
+df09ff79199855182ed5afa1c1dee1de ntsc|cic6102 # 64drive Menu (V1.11b)
+114e02a494c652097aea0c750aac909a ntsc|cic6102 # 64drive Menu (V1.11c)
+5373460a1e3df29ec88f91be14837bad ntsc|cic6102 # 64drive Menu (V1.12a)
+59c832b97dfd91e31da4ef6c79fa9205 ntsc|cic6102 # 64drive Menu (V1.12b)
+c89e973952eb14b0be52d9e7164f3fd9 ntsc|cic6102 # 64drive Menu (V1.12c)
+304b9bace7dbb388105eaa4a781020b5 ntsc|cic6102 # 64drive Menu (V1.12d)
+6cb7e7132ab155f8eaca089367aa27ab ntsc|cic6102 # 64drive Menu (V1.12e)
 cf8d8deecf27ccb0a13af043011d179b ntsc|cic6102 # 64drive USB Input Demo
 0dc026b3f971e60e0498f18fb7059751 ntsc|cic6102 # 64gb Checker
 48f24bfc6dad044488d13832def2a129 ntsc|cic6102 # 77a by Count0
@@ -124,14 +124,14 @@ db3401b5b12c4a0835cb9cde930d3577 ntsc|cic6102|eeprom512|cpak # AeroGauge
 1eb49d93d73bf2865ab68fefb1672247 ntsc|cic6102|eeprom512|cpak # AeroGauge (Kiosk Demo)
 2a3eb42abbe683a0e78e7770293a1848 ntsc|cic6102 # AGBD - Gameboy ROM-SRAM Dumper (MGC Edition) (V20120323_for_64drive)
 23716d7c8f2b22f014581520c412f6fb ntsc|cic6102|eeprom512|cpak # AI Shougi 3
-07e9ff4d9e57aeade888f08d912e9422 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage
-1fa86e2152f16a66235538826c97816c pal|cic7101|cpak # Aidyn Chronicles - The First Mage
-eae7dfd4679ec487ab0e292f97f782fb ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage
+07e9ff4d9e57aeade888f08d912e9422 ntsc|cic6102|sram32k|cpak # Aidyn Chronicles - The First Mage
+1fa86e2152f16a66235538826c97816c pal|cic7101|sram32k|cpak # Aidyn Chronicles - The First Mage
+eae7dfd4679ec487ab0e292f97f782fb ntsc|cic6102|sram32k|cpak # Aidyn Chronicles - The First Mage
 45aee9ae64d338bc6a106498a5f90f60 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
 06b9992af56c7c71731b6b4285b7302a ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
 dc2eef29878ce045c19660b512c54383 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
-7bafbfe7c3c42d467c75e3d4301cb239 pal|cic7101|cpak # Aidyn Chronicles - The First Mage (Europe) (Beta)
-fd93efafc5293f1005f3360da5f6b335 pal|cic7101|cpak # Aidyn Chronicles - The First Mage (Europe) (Beta)
+7bafbfe7c3c42d467c75e3d4301cb239 pal|cic7101|sram32k|cpak # Aidyn Chronicles - The First Mage (Europe) (Beta)
+fd93efafc5293f1005f3360da5f6b335 pal|cic7101|sram32k|cpak # Aidyn Chronicles - The First Mage (Europe) (Beta)
 7abf974850a32ef2079540e77129eb4f pal|cic7101|eeprom512|cpak|rpak # Airboarder 64
 0f4b24962e1df592eb489769030bf367 ntsc|cic6102|eeprom512|cpak|rpak # Airboarder 64
 f4bf3f3ca20f8d7460a7b3947c74bbd2 pal|cic7101|eeprom512|cpak|rpak # Airboarder 64
@@ -171,8 +171,8 @@ f31273696ed63a13a380b94c33e321de pal|cic7101|cpak|rpak # All-Star Baseball 2000
 fd855b1eff2455b3863702423b1c327d ntsc|cic6102|cpak|rpak # All-Star Baseball 2000
 6d9d648fde28e6cbca05923c1d694bff ntsc|cic6102|cpak|rpak # All-Star Baseball 2001
 a54651a60a62200af483ac4d1cd31fd9 ntsc|cic6102|cpak|rpak # All-Star Baseball 2001
-78b2e12113efe615e3031eb03c3e3bd6 ntsc|cic6102 # Alleycat 64 by Dosin
-863786a16713014b29262c02d58350ce ntsc|cic6102 # Alleycat 64 by Dosin
+78b2e12113efe615e3031eb03c3e3bd6 ntsc|cic6102|eeprom512 # Alleycat 64 by Dosin
+863786a16713014b29262c02d58350ce ntsc|cic6102|eeprom512 # Alleycat 64 by Dosin
 f8d2533696166a50ccfacef56c07d67c ntsc|cic6102 # ALT64 - Alternative ED64 Menu + GS Beta by Saturnu
 b0ad2d5da432f3c10d0c429b86db16ec ntsc|cic6102 # ALT64 - Alternative ED64 Menu + GS by Saturnu
 151ec75ca8dcffe5ad4425e892c7593b ntsc|cic6102 # ALT64 - Alternative ED64 Menu - 64DD Conversion ROMS Support by Saturnu
@@ -181,15 +181,15 @@ f607ef35ecbe0c699b88d867c57e9118 ntsc|cic6102 # ALT64 - Alternative ED64 Menu - 
 af50aecd7fd9595070751e41b64c6c5f ntsc|cic6102 # ALT64 - Alternative ED64 Menu - 64DD Conversion ROMS Support by Saturnu
 dbf0ddfe220a4208ed2f5f92b719c13a ntsc|cic6102 # ALT64 - Alternative ED64 Menu - 64DD Conversion ROMS Support by Saturnu
 689da8b64c510c42341c4f314e12605b ntsc|cic6102 # ALT64 - Alternative ED64 Menu - 64DD Conversion ROMS Support by Saturnu
-6176235e7fb49653ce2c494d82096e6f ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.5_Old Font_20131121)
-861e90549af4756bd63fdd6c3a727607 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.8.7b2_20141014) (Font Fix)
-7bc5c6aad3fd637d80a22d35a0a7ab17 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.8.7b3_20140826_Test_ED64v3 Support)
 0ec3ebe7037fa17d359dc714d0db8ad5 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
 bee9bb7528a92a85115e63f8dcb0ebcd ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
 ccde20cf94661d734d4e7e6005fa795a ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
 dba4111c5a679b2a2f8ecaa9d1bdc428 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
 caf9d5ae8c067d30db58eb72071840ee ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
 bb5c5189c8310c998e00090e0506f531 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu
+6176235e7fb49653ce2c494d82096e6f ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.5_Old Font_20131121)
+861e90549af4756bd63fdd6c3a727607 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.8.7b2_20141014) (Font Fix)
+7bc5c6aad3fd637d80a22d35a0a7ab17 ntsc|cic6102 # ALT64 - Alternative ED64 Menu by Saturnu (V0.1.8.7b3_20140826_Test_ED64v3 Support)
 b8e34dc718fa8308cfd3570a88f9e57e ntsc|cic6102 # Analogue Test Utility by WT_Riker
 68bbdde28c8c48a290d08f798092db8a ntsc|cic6102 # Analogue Test Utility by WT_Riker
 ec34efc533127d43a03722e7f5769ee5 ntsc|cic6102 # Anim01 Demo by Acclaim & marshallh
@@ -235,8 +235,8 @@ ccb926a8b5a4c3046684952990bc6cea ntsc|cic6102|eeprom512|cpak # Baku Bomberman
 62bc93ef83507ba2c04682523ff5bc77 ntsc|cic6102|eeprom512|cpak # Baku Bomberman
 e20c0e9b3c81724906c52365f13707de ntsc|cic6102|eeprom512|cpak|rpak # Baku Bomberman 2
 663095a374cab9001b64a49e65a91b35 ntsc|cic6102|eeprom512|cpak|rpak # Bakuretsu Muteki Bangai-O
-e8f70ff4feb9a2aebc8e58646462f7e0 ntsc|cic6102|rpak # Bakuretsu Muteki Bangai-O
-2f9337b69218ac73fac3659ae29360fd ntsc|cic6102|rpak # Bakuretsu Muteki Bangai-O
+e8f70ff4feb9a2aebc8e58646462f7e0 ntsc|cic6102|eeprom512|rpak # Bakuretsu Muteki Bangai-O
+2f9337b69218ac73fac3659ae29360fd ntsc|cic6102|eeprom512|rpak # Bakuretsu Muteki Bangai-O
 011efbf9ea0e0bd3a05a074cd692ef5f ntsc|cic6102|cpak # Bakushou Jinsei 64 - Mezase! Resort Ou
 53b515a2072cd509ccdfdebca4640784 ntsc|cic6102|cpak # Bakushou Jinsei 64 - Mezase! Resort Ou
 37bd3da4d62b6d1ef9431250930a7e84 ntsc|cic6103|eeprom512|rpak # Banjo to Kazooie no Daibouken
@@ -336,8 +336,8 @@ abc14b18b2104346464a85c4647cf52c pal|cic7101|eeprom512|cpak # Bomberman 64
 fff4193540d85b16b094a7071fb1aa1b pal|cic7101|eeprom512|cpak # Bomberman 64
 10a9f7aa1cdffc3593d762c282186bb3 pal|cic7101|eeprom512|cpak # Bomberman 64
 b6c85d0fe10694513fbe18fd1b00c60f ntsc|cic6102|eeprom512|cpak # Bomberman 64 (Japan)
-eb49bd93f96e814f719776dfd7cd9cfc ntsc|cic6102 # Bomberman 64 - Arcade Edition
-16b0ba92d5b9599999813575a1ff0471 ntsc|cic6102 # Bomberman 64 - Arcade Edition
+eb49bd93f96e814f719776dfd7cd9cfc ntsc|cic6102|eeprom512 # Bomberman 64 - Arcade Edition
+16b0ba92d5b9599999813575a1ff0471 ntsc|cic6102|eeprom512 # Bomberman 64 - Arcade Edition
 42bce2db7ca5fdb600970e46a232075f ntsc|cic6102|eeprom512|cpak # Bomberman 64 - Arcade Edition Analog
 330abe3f0b9d7ef6a850ec076813c268 ntsc|cic6102|eeprom512|cpak # Bomberman 64 - Arcade Edition Translated 1_2 Analog
 05ed6569d8828392d513a12103b2d420 ntsc|cic6102|eeprom512|cpak|rpak # Bomberman 64 - The Second Attack!
@@ -411,21 +411,21 @@ e546783c59f7c1271079734953c26ee2 pal|cic7101|cpak|rpak # Carmageddon 64 (Eng-Spa
 7763b86b87b8ec15db332b8f88a73ec5 pal|cic7101|cpak|rpak # Carmageddon 64 (Eng-Spa-Fre-Ita)
 47f58ec817b8ad16c742ec096c497563 ntsc|cic6102|cpak # Carnivale - Cenzo's Adventure (Proto)
 12a5118f862cc39f84dcab2b04a87b0b ntsc|cic6102 # Cass' Gueule 64
-40468c83839e9d2d5e244baace51c3b7 ntsc|cic6102|cpak # Castlevania
-93e6bbe56e72fcf05909aac9655782b2 pal|cic7101|cpak # Castlevania
-7aab9118431f3d3f26ce13d75381e85c ntsc|cic6102|cpak # Castlevania
-f2a41de94782e88643c366293c089c5a ntsc|cic6102|cpak # Castlevania
-92d3de1f7bd64e7ce9bb95f56fea75ab pal|cic7101|cpak # Castlevania
-e4a7275ad5fb79326aa461c0a0dc7f87 pal|cic7101|cpak # Castlevania
-fb3a22c6f615d4aadcad1fc32df15cf2 ntsc|cic6102|cpak # Castlevania
-a456670fab9b07e79b667dfb2bccde10 ntsc|cic6102|cpak # Castlevania
-d2ca4f5d97b17c83415aeb9d08fc2c06 ntsc|cic6102|cpak # Castlevania
-e832c792a32368767923ba70f7e65e3a ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
-edda6c1e849c2824cd69f2a6abeed135 pal|cic7101|cpak # Castlevania - Legacy of Darkness
-42fa40dcdde25fb779a9752f18df5fac pal|cic7101|cpak # Castlevania - Legacy of Darkness
-3709fd9d3f3b43fac9bae6bec9326851 ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
-a6476a508c3e59c85f117ca1af3002ab ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
-96ede400b4bf97259ffcd16513db09db ntsc|cic6102|cpak # Castlevania - Legacy of Darkness
+40468c83839e9d2d5e244baace51c3b7 ntsc|cic6102|eeprom512|cpak # Castlevania
+93e6bbe56e72fcf05909aac9655782b2 pal|cic7101|eeprom512|cpak # Castlevania
+7aab9118431f3d3f26ce13d75381e85c ntsc|cic6102|eeprom512|cpak # Castlevania
+f2a41de94782e88643c366293c089c5a ntsc|cic6102|eeprom512|cpak # Castlevania
+92d3de1f7bd64e7ce9bb95f56fea75ab pal|cic7101|eeprom512|cpak # Castlevania
+e4a7275ad5fb79326aa461c0a0dc7f87 pal|cic7101|eeprom512|cpak # Castlevania
+fb3a22c6f615d4aadcad1fc32df15cf2 ntsc|cic6102|eeprom512|cpak # Castlevania
+a456670fab9b07e79b667dfb2bccde10 ntsc|cic6102|eeprom512|cpak # Castlevania
+d2ca4f5d97b17c83415aeb9d08fc2c06 ntsc|cic6102|eeprom512|cpak # Castlevania
+e832c792a32368767923ba70f7e65e3a ntsc|cic6102|eeprom512|cpak # Castlevania - Legacy of Darkness
+edda6c1e849c2824cd69f2a6abeed135 pal|cic7101|eeprom512|cpak # Castlevania - Legacy of Darkness
+42fa40dcdde25fb779a9752f18df5fac pal|cic7101|eeprom512|cpak # Castlevania - Legacy of Darkness
+3709fd9d3f3b43fac9bae6bec9326851 ntsc|cic6102|eeprom512|cpak # Castlevania - Legacy of Darkness
+a6476a508c3e59c85f117ca1af3002ab ntsc|cic6102|eeprom512|cpak # Castlevania - Legacy of Darkness
+96ede400b4bf97259ffcd16513db09db ntsc|cic6102|eeprom512|cpak # Castlevania - Legacy of Darkness
 317085e9fcd8df3f70f11468e5611418 ntsc|cic6102|eeprom2k # Cave Story (Release Demo 1)
 fcb6e1cf4a6b2d7b8c2d2a6b97a55b65 ntsc|cic6102 # CD64 BIOS Direct-Upgrade
 ff6301997f859802185de47fbeea0e49 ntsc|cic6102 # CD64 BIOS Direct-Upgrade
@@ -461,7 +461,7 @@ a123c6abf1476bfb8a5bf1abac0d8ecc ntsc|cic6102 # CD64 BIOS EEPROM-Burner V1.11
 576b4648f289c62d4def74c6b829c878 ntsc|cic6102 # CD64 BIOS EEPROM-Burner V1.21
 2c7ee01031137729285c2fe7b99ceb0d ntsc|cic6102 # CD64 BIOS EEPROM-Burner V1.23
 e0158debc2a4ac5f3ca4c397a87a52ef ntsc|cic6102 # CD64 BIOS EEPROM-Burner V1.30
-40b61520947486966443aca5ded9e718 ntsc|cic6102 # CD64 Memory Test
+40b61520947486966443aca5ded9e718 ntsc|cic6102|eeprom512 # CD64 Memory Test
 fd94978b728dd42346b20cb4ecd6adb0 pal|cic7101|cpak # Centre Court Tennis
 25d344031c83930927329cb51e98d818 pal|cic7101|cpak # Centre Court Tennis
 19045e3758889fb3cfba9af0bcecf3c4 pal|cic7101|cpak # Centre Court Tennis
@@ -496,11 +496,11 @@ a9be1dc95afed788f9bf19d906d3bfe5 ntsc|cic6102|eeprom512|rpak # Chopper Attack
 a62b36efd935a24e910751043c9a1a83 ntsc|cic6102|eeprom512|rpak # Chopper Attack
 a52e3bd87910691ece9ee5c2d2a4d709 ntsc|cic6102|eeprom512|cpak # Choro Q 64
 f57224b5d8b3e1c11d1b63b957840535 ntsc|cic6102|eeprom512|cpak # Choro Q 64
-20822520f1f6e4975a09d94070c31a41 ntsc|cic6102|eeprom512|cpak # Choro Q 64 2 - Hacha Mecha Grand Prix Race T+Eng v1.0 Zoinkity
+20822520f1f6e4975a09d94070c31a41 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Choro Q 64 2 - Hacha Mecha Grand Prix Race T+Eng v1.0 Zoinkity
 ccc7ac18bbc930f7214c07d4a9c60995 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Choro Q 64 II - Hacha Mecha Grand Prix Race
 fd7c425b1da120e978668a7f3456bcb2 ntsc|cic6102|cpak # Chou Kuukan Night Pro Yakyuu King
 fef22aea9b8182cd13833d4989f91a58 ntsc|cic6102|cpak # Chou Kuukan Night Pro Yakyuu King
-05053f83b8904aa9bf2b1700ae7504d8 ntsc|cic6102|eeprom512|cpak|rpak # Chou Kuukan Night Pro Yakyuu King 2
+05053f83b8904aa9bf2b1700ae7504d8 ntsc|cic6102|flash128k|cpak|rpak # Chou Kuukan Night Pro Yakyuu King 2
 17fc2888b48de2935d8c0825125833c0 ntsc|cic6102|eeprom512|rpak # Chou Snobo Kids (Japan)
 f0e4db0bc21d9326aa6e7ad08e1009f5 ntsc|cic6102|eeprom512|rpak # Chou Snobow Kids
 69a815168805ec6835c99aa55a65892d ntsc|cic6102|eeprom512|rpak # Chou Snobow Kids
@@ -522,7 +522,7 @@ d2e2479cbd746604f063abafa83162b9 pal|cic7101 # Clay Fighter 63 1-3
 ece6182135e16b08dc8886c09be3f74a pal|cic7101 # Clay Fighter 63 1-3
 5c8e40f7195632175e82e1dcc58872a5 ntsc|cic6102 # Clay Fighter 63 1-3 (Beta)
 d0b1312c05bf5976d798efd5d6ffccc2 ntsc|cic6102 # Cliffi's Little Intro by Cliffi
-78a08221d11a664846f62329f8643d5b ntsc|cic6102 # Cliffi's Little Intro by Cliffi
+78a08221d11a664846f62329f8643d5b ntsc|cic6102|eeprom512 # Cliffi's Little Intro by Cliffi
 24066da301c3e6f86966debfb892551f ntsc|cic6102 # Coco Demo
 6acfe5e9d130d75d3244fe5a6d653bb2 ntsc|cic6102|flash128k|rpak # Command & Conquer
 3aa1241b8817192cf2edfe4d05338523 pal|cic7101|flash128k|rpak # Command & Conquer
@@ -538,7 +538,7 @@ e32935103684c70d786b2646abc17475 ntsc|cic6102 # Congratulations Demo for SPLiT b
 f6c19d5e4bcdf1a81c0170972503640e pal|cic7105|eeprom2k|rpak # Conker's Bad Fur Day
 d9e3573455cc3f2807d8ff2d7aaee6e8 ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur Day (Debug Version)
 4717e553f308dc0d5d6dd46483dffa04 ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur Day (Debug Version) (Decrypted)
-40685883857459bba16a0fe9f68e7489 ntsc|cic6105|rpak # Conker's Bad Fur Day (Demo) (V_ECTS_Decrypted)
+40685883857459bba16a0fe9f68e7489 ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur Day (Demo) (V_ECTS_Decrypted)
 224ea06134b002c55d68f0bf0e7f2ade ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur Day (Demo) (V_ECTS_Decrypted)
 baad8f1d9ba5279e4085f0a8564b8e79 ntsc|cic6102|eeprom512|rpak # Control Multi by Dragonsbrethren (GE Hack)
 b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
@@ -588,8 +588,8 @@ ad7f1bb6f0c27ac464de86df69856d78 ntsc|cic6102|cpak|rpak # Deadly Arts
 70d0a555a727a3ff9bd24990f591a103 ntsc|cic6102|eeprom512 # Dein - Pilzinsel64 - 3. Level - Winter in Konkrastadt (SM64 Hack)
 ecffd6cf071cbc4d91606b5d9f22a699 ntsc|cic6102|eeprom2k|rpak # Densha de Go! 64
 98cbdafdea696da20ac1d1eb5ede92ff ntsc|cic6102|eeprom2k|rpak # Densha de Go! 64
+527a117bebff661f3546522200e63dab ntsc|cic5167|eeprom2k|rpak # Densha de Go! 64 (Localization Patch v1.01)
 620f0b67a91f7f74151bc5be745b7110 ntsc|cic6102 # Densha de Go! 64 T+Eng v1
-527a117bebff661f3546522200e63dab ntsc|cic5167|eeprom2k|rpak|tpak # Densha de Go! 64 (Localization Patch v1.01)
 206ad17edf71ea3c322fa5858ce107f0 ntsc|cic6102|flash128k|cpak # Derby Stallion 64
 76f40c0b400800f2084d48cb0eb80272 ntsc|cic6102|flash128k|cpak # Derby Stallion 64 (Beta)
 790bf6a8d1d03e43fc966b35a9419e1b ntsc|cic6102|cpak|rpak # Destruction Derby 64
@@ -604,9 +604,9 @@ e09272dcb2a26b97d20f198dd8729abc ntsc|cic6102 # Dexanoid R1 by Protest Design
 f5284557f228c69f0ddc948bb5f736a5 ntsc|cic6102 # Dexanoid R1 by Protest Design
 7f16e3d550597d9d7dd05ebd42b64048 ntsc|cic6102|sram96k|rpak # Dezaemon 3D
 a60c9ca7724355dd9e9d660bbf6d053c ntsc|cic6102|sram96k|rpak # Dezaemon 3D
-42795ab487bef5081fbf181936e8243b ntsc|cic6102|sram96k|rpak # Dezaemon 3D (Dezaemon 3D + DD merged + DezaPelicans by Zoinkity)
-1b2fd7ee5cd134a7b40ffe43ca8151fd ntsc|cic6102|sram96k|rpak # Dezaemon 3D (Dezaemon 3D + DD merged by Zoinkity)
-8cda20889e299ac8e823e3c070236c09 ntsc|cic6102|sram96k|rpak # Dezaemon 3D+DD Zoinkity
+42795ab487bef5081fbf181936e8243b ntsc|cic6102|sram96k|cpak|rpak # Dezaemon 3D (Dezaemon 3D + DD merged + DezaPelicans by Zoinkity)
+1b2fd7ee5cd134a7b40ffe43ca8151fd ntsc|cic6102|sram96k|cpak|rpak # Dezaemon 3D (Dezaemon 3D + DD merged by Zoinkity)
+8cda20889e299ac8e823e3c070236c09 ntsc|cic6102|sram96k|cpak|rpak # Dezaemon 3D+DD Zoinkity
 016c11a9dd1b5000d148e4e102a466e0 ntsc|cic6102 # DFSdemo by Nintendo
 1d9b9a0c2d78184704103875fc21fca4 ntsc|cic6103|eeprom512|cpak|rpak # Diddy Kong Racing
 d32fba309153bccc5f21bbe3b511fc4f pal|cic7103|eeprom512|cpak|rpak # Diddy Kong Racing
@@ -650,8 +650,8 @@ b0fb08722feba34bd6898c45bef1bdc3 ntsc|cic6102 # Display List Ate My Mind Demo by
 985a740c28d96cf97cb5a90f07faeff9 ntsc|cic6102 # Dolphin Ctrl Unknown Test
 604765dabc45a77779f8a8c0b260ebf0 ntsc|cic6102 # Don't Be Square
 a4a45436f7f05292764f729fad79c501 ntsc|cic6102|eeprom512|cpak # Donald Duck - Goin' Quackers (En,Fr,De,Es,It)
-87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|cpak # Donald Duck - Quack Attack
-0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|cpak # Donald Duck - Quack Attack
+87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
+0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
 bbb17d7f2b43830b77dfb69457ee4ccd pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
 ee207a2a00807d5d707744f9746ef09c ntsc|cic5101|eeprom512 # Donchan Puzzle Hanabi de Doon! (Aleck64)
 e2560ccb178e5cbcd0c25951c7c20cf6 ntsc|cic6105|eeprom2k|rpak # Donkey Kong 64
@@ -661,7 +661,7 @@ e149d6b09953706294ef745b01d59dbe ntsc|cic6105|eeprom2k|rpak # Donkey Kong 64
 5cf51bd244dbc2037e21cd90d3424ebb pal|cic7101|eeprom2k|rpak # Donkey Kong 64 (Boot&Save)
 81240037b77b6a0d1e7ca0e707483092 ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Kiosk Demo)
 6218e4c8b0ad79a2fcb8fa9f0d23a13a ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Kiosk Demo)
-1b71f2ea22e2f1e648d0bcbd94c108bf ntsc|cic6102|rpak # Donkey Kong 64 (LodgeNet)
+1b71f2ea22e2f1e648d0bcbd94c108bf ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (LodgeNet)
 86b549808e8657fd9372597a593a06e6 pal|cic7101|eeprom2k|rpak # Donkey Kong 64 (Save)
 d396105de0805ba4cf3924bed65889f0 ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Save)
 a74573c0a652e6e61ba33bb56a8c2208 ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 Extended Edition (Hack)
@@ -678,6 +678,7 @@ ecdb6842292a7f53d85d06b029aa88a2 ntsc|cic6102|cpak # Doom 64
 e7a9b128c80fc8d98f047edade25e9fd ntsc|cic6102|cpak # Doom 64 (Beta)
 d5fbabc6a01ecff5dd5c303a94f30955 ntsc|cic6102 # Doom II - Hell on Earth
 fec0cfc3a10d04a8473231050eb79abc ntsc|cic6102 # Doom Plutonia (Doom PC Port)
+448725a760325eff5ff33a4a5d172b6f ntsc|cic6102 # Doom Shareware
 3d5844fdcda555dc7a394c4458861a96 ntsc|cic6102 # Doom Shareware by Chilly Willy (Release 1)
 4c095d8b872d38c6d6a88509c95bdb0a ntsc|cic6102 # Doom Shareware by Chilly Willy (Release 2)
 221bf17bb97940916396b647f0359253 ntsc|cic6102 # Doom Shareware by jnmartin84 (Test01 64Doom Port Dev)
@@ -693,10 +694,9 @@ ba576384c580f6664dd5cffdf7d8244a ntsc|cic6102 # Doom Shareware by jnmartin84 (Te
 060b48b88d3801690ac6d642e9849b2d ntsc|cic6102 # Doom Shareware by jnmartin84 (Test11 64Doom Port Dev)
 28a55d3f5457e11d17125687a9057c64 ntsc|cic6102 # Doom Shareware by jnmartin84 (Test12 64Doom Port)
 2e6e85bbf15034597ca8822feb8365e5 ntsc|cic6102 # Doom Shareware by jnmartin84 (Test12.1 64Doom Port)
-448725a760325eff5ff33a4a5d172b6f ntsc|cic6102 # Doom Shareware
 605982cb0d775bbe740d511950976bb6 ntsc|cic6102 # Doom TNT (Doom PC Port)
 a73121fbeae4f9bafabe52d48c8b3cb6 ntsc|cic6102|eeprom512 # Doraemon - Nobita to 3tsu no Seireiseki
-45f31977eb296a6ecaa8ca89a0872ce4 ntsc|cic6102 # Doraemon - Nobita to 3tsu no Seireiseki
+45f31977eb296a6ecaa8ca89a0872ce4 ntsc|cic6102|eeprom512 # Doraemon - Nobita to 3tsu no Seireiseki
 b5f74bc38af1cc91fbbbd94869a3f350 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobita to Hikari no Shinden
 89f4be1c814723de05c8d0020b6044da ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobita to Hikari no Shinden
 34e4de6d0a90822128669a435c8f55e2 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobita to Hikari no Shinden
@@ -705,7 +705,7 @@ bfcf339ff93cf836c2c81b0ba2327a67 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobit
 520b22c4c56d47d1144e1b05f1484e14 ntsc|cic6102|eeprom2k|rpak # Doraemon 2 - Nobita to Hikari no Shinden
 3eaeb0c22f13d3892a3af0cf2358b3c4 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
 1c38d72215bfc2794d2494dd60ba3e72 ntsc|cic6102|eeprom2k|rpak # Doraemon 3 - Nobita no Machi SOS!
-4df8e04babc9fbf9d67b72cc3e952c8a ntsc|cic5167|cpak|rpak|tpak # Doshin The Giant 1 Save Fix v1.1 ozidual
+4df8e04babc9fbf9d67b72cc3e952c8a ntsc|cic5167|cpak|rpak # Doshin The Giant 1 Save Fix v1.1 ozidual
 e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (English Translated, Rev 1)
 05b271a640d3188ed7166c2c6a357934 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (Japan) (Proto)
 a9a7fc2cf020aad343a8b7f048c8a2ed ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no Mori
@@ -715,15 +715,15 @@ eab162aa7a854e6f2d6c2291db69830b ntsc|cic6102|flash128k|cpak|rtc # Doubutsu no M
 3b5cf7191949aa20af10b28777282ce9 ntsc|cic6102 # DP Test by Nintendo
 695e1d3ac7610dbbe8b023bfb880eab6 ntsc|cic6102|eeprom512 # Dr. Mario 64
 2dad57e9d8e4f4164bfc76370983d79b ntsc|cic6102|eeprom512 # Dr. Mario 64 (Ch) (iQue)
-f73b619defd76e2f873b9fe72a8043eb ntsc|cic6102 # Dr. Mario 64 (LodgeNet)
+f73b619defd76e2f873b9fe72a8043eb ntsc|cic6102|eeprom512 # Dr. Mario 64 (LodgeNet)
 7a3b9d4e39a18389a265ffa5d861eac7 ntsc|cic6102 # Dragon King by CrowTRobo
 de46bcfc8e2bcd9bfd66abf3e0dd8a39 ntsc|cic6102 # Dragon King by CrowTRobo
 013516134774103a6f0a0dc98421abf2 pal|cic7101 # Dragon Sword 64 (Europe) (Proto)
 a5fd41368b2e044bf26a29c6ecd708c1 ntsc|cic6102 # Dragon Sword 64 (Proto)
-65ad3871ec2917d08189bdaf873bc37c ntsc|cic6102 # DS1 Manager V1.0 by R. Bubba Magillicutty
-07429249cda176835c03d82a87502e58 ntsc|cic6102 # DS1 Manager V1.1 by R. Bubba Magillicutty
-5c8ddd5b1ee3773bc1a687cd9ee1b66a ntsc|cic6102 # DS1 Manager V1.1 by R. Bubba Magillicutty
-82b7abff9941d78da55c5ecf2a40f507 ntsc|cic6102 # DS1 SRAM Manager V1.1 by _Sage_
+65ad3871ec2917d08189bdaf873bc37c ntsc|cic6102|eeprom512 # DS1 Manager V1.0 by R. Bubba Magillicutty
+07429249cda176835c03d82a87502e58 ntsc|cic6102|eeprom512 # DS1 Manager V1.1 by R. Bubba Magillicutty
+5c8ddd5b1ee3773bc1a687cd9ee1b66a ntsc|cic6102|eeprom512 # DS1 Manager V1.1 by R. Bubba Magillicutty
+82b7abff9941d78da55c5ecf2a40f507 ntsc|cic6102|eeprom512 # DS1 SRAM Manager V1.1 by _Sage_
 9436e5d5576ef0a549c7d2f5abdc48b5 ntsc|cic6102|cpak # Dual Heroes
 d8a431ebcbec368bd67eaee7de1743d0 pal|cic7101|cpak # Dual Heroes
 7ccd72ea073d939e936639d2af079611 ntsc|cic6102|cpak # Dual Heroes
@@ -740,7 +740,7 @@ c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|eeprom512|rpak # Duck Dodgers Star
 18c1417bc7992e81f1c85572f3ad5d2a ntsc|cic6102|cpak|rpak # Duke Nukem - ZER0 H0UR
 bdf61e45b81fb1c3a538046526b0f793 pal|cic7101|cpak|rpak # Duke Nukem - ZER0 H0UR (Invincibility by mezmorizen64)
 8922b3f67941e51491ea02accf2a309c ntsc|cic6102|cpak|rpak # Duke Nukem - ZER0 H0UR (Invincibility by mezmorizen64)
-f7630da74adce0c778f2bd5b5b0f4392 ntsc|cic6102|cpak|rpak|tpak # Duke Nukem - Zero Hour (Beta)
+f7630da74adce0c778f2bd5b5b0f4392 ntsc|cic6102|cpak|rpak # Duke Nukem - Zero Hour (Beta)
 c798acb3cb6bd23f70e2a2169ed11df5 ntsc|cic6102|cpak|rpak # Duke Nukem 64
 471e897ce79758a6317f796a6a1c29c1 pal|cic7101|cpak|rpak # Duke Nukem 64
 70ce465ae8cfc5ef2a3497556f799a5f pal|cic7101|cpak|rpak # Duke Nukem 64
@@ -768,9 +768,9 @@ ec7fc0e8e7aa23755b2d2f382e7aebc9 ntsc|cic6102|eeprom512 # Easy Worlds by Pilzins
 2f26fbf61ca5d4448e213a76cc58ad33 ntsc|cic6102|eeprom512 # Easy Worlds by Pilzinsel64 + Chaos + Multiplayer Edition (SM64 Hack)
 0c4aa28b0265225f9e9d3678ef4a03ff ntsc|cic6102|eeprom512 # Easy Worlds by Pilzinsel64 + Chaos Edition (SM64 Hack)
 98e7f0178f7223dd586b358cd9c16cf7 ntsc|cic6102|eeprom512 # Easy Worlds by Pilzinsel64 + Multiplayer Edition (SM64 Hack)
-2be02116a0b8848621ea1ce25d35165f ntsc|cic6102|cpak|rpak # ECW Hardcore Revolution
-5663f8b4a2fa1c640e902fb66ff7aa61 pal|cic7101|cpak|rpak # ECW Hardcore Revolution
-f9a00956c58bd1940c1c430f992e7ac8 pal|cic7101|cpak|rpak # ECW Hardcore Revolution
+2be02116a0b8848621ea1ce25d35165f ntsc|cic6102|sram32k|cpak|rpak # ECW Hardcore Revolution
+5663f8b4a2fa1c640e902fb66ff7aa61 pal|cic7101|sram32k|cpak|rpak # ECW Hardcore Revolution
+f9a00956c58bd1940c1c430f992e7ac8 pal|cic7101|sram32k|cpak|rpak # ECW Hardcore Revolution
 ef89d9a74354a4362a580fdb4d85bbd4 ntsc|cic6102|cpak|rpak # ECW Hardcore Revolution (Beta)
 7ba1c4b6c58602a4331434b94b7054cf ntsc|cic6102 # EDGB Transfer Pak Mod und Loader App 2 by Saturnu
 dcf9ec28d001338cccf75e0624353f11 ntsc|cic6102 # EDGB Transfer Pak Mod und Loader App by Saturnu
@@ -795,12 +795,6 @@ afcc65680659127f44e15b7665d277f5 ntsc|cic6102 # Elmo's Number Journey
 c3b27a496adf81b86380b96d0746e5af ntsc|cic6102 # Everdrive ED64 MemPak Tool
 00a73ff71ec0a4925479a5c27553a7ab ntsc|cic6102 # Everdrive ED64 Plus (Chinese Copy of ED64)
 636f368e404d54a039ed3eee4a8ef33e ntsc|cic6102 # Everdrive ED64 ROM Test64
-46b01f3fc8b7eae5a71d3b51797d0694 ntsc|cic6102 # Everdrive OS64 (V2.xx)
-d530bd3dd2fe8321a7f1b61d66a91965 ntsc|cic6102 # Everdrive OS64 (V2.xx)
-380b2a7684dd90da505543323501faf8 ntsc|cic6102 # Everdrive OS64 (V2.xx)
-6fd1cf4efc89c0c2c2757e440db505bc ntsc|cic6102 # Everdrive OS64 (V2.xx)
-bdc70b5352b124846167ab5cdbddb16f ntsc|cic6102 # Everdrive OS64 (V2.xx)
-8daa863db999277d6699ed3b5df68d83 ntsc|cic6102 # Everdrive OS64 (V2.xx)
 c0d07b0e28262affbc2c64ec09a3e2a8 ntsc|cic6102 # Everdrive OS64
 2542647280eee23e54919614b34c622e ntsc|cic6102 # Everdrive OS64
 2a65fc987972c248c88e815f59a0cbe6 ntsc|cic6102 # Everdrive OS64
@@ -834,6 +828,12 @@ a8b244b93e8a53209f0bb72bd4f7918a ntsc|cic6102 # Everdrive OS64
 971b31860b864157bfd488150474ffab ntsc|cic6102 # Everdrive OS64
 17dfbefc48875f5405146e167d0244f4 ntsc|cic6102 # Everdrive OS64
 43ac712113647926c1747fbdf88dfd13 ntsc|cic6102 # Everdrive OS64
+46b01f3fc8b7eae5a71d3b51797d0694 ntsc|cic6102 # Everdrive OS64 (V2.xx)
+d530bd3dd2fe8321a7f1b61d66a91965 ntsc|cic6102 # Everdrive OS64 (V2.xx)
+380b2a7684dd90da505543323501faf8 ntsc|cic6102 # Everdrive OS64 (V2.xx)
+6fd1cf4efc89c0c2c2757e440db505bc ntsc|cic6102 # Everdrive OS64 (V2.xx)
+bdc70b5352b124846167ab5cdbddb16f ntsc|cic6102 # Everdrive OS64 (V2.xx)
+8daa863db999277d6699ed3b5df68d83 ntsc|cic6102 # Everdrive OS64 (V2.xx)
 07da4c7f3c9d3e709663e299cf895d47 ntsc|cic6102 # Evil Australians v3 gameblabla
 a70c5f0b2683a5c62bbb5c0ed4d73f7a ntsc|cic6103|eeprom2k|cpak|rpak # Excitebike 64
 546fc435b8c686a7fbc60335000cd6d7 pal|cic7103|eeprom2k|cpak|rpak # Excitebike 64
@@ -842,7 +842,7 @@ a70c5f0b2683a5c62bbb5c0ed4d73f7a ntsc|cic6103|eeprom2k|cpak|rpak # Excitebike 64
 22f21554325fd0d24c279fb6320701a1 ntsc|cic6102|eeprom2k|cpak|rpak # Excitebike 64
 f868535d8a36df305f3be83a28ad145f ntsc|cic6103|eeprom2k|cpak|rpak # Excitebike 64 (Ch) (iQue)
 7fcd7b02d8fff45d57a949cec0ec3caf ntsc|cic6103|eeprom2k|cpak|rpak # Excitebike 64 (Kiosk Demo)
-5c61605171f5c9aad546e0cb20205c2b ntsc|cic6102|rpak # Excitebike 64 (LodgeNet)
+5c61605171f5c9aad546e0cb20205c2b ntsc|cic6102|eeprom2k|cpak|rpak # Excitebike 64 (LodgeNet)
 11dedbf1f82f0cb4a159d41b760005a1 ntsc|cic6102 # Explode Demo by NaN
 f4d463c897a47eed867391fb3c4d234f ntsc|cic6102|cpak|rpak # Extreme-G
 ec794322f78c4507193b77a33993c49e pal|cic7101|cpak|rpak # Extreme-G
@@ -871,9 +871,9 @@ fdfd362c6b6e33aa73c901634e3664b4 pal|cic7101|eeprom512|rpak # F-1 World Grand Pr
 5270ee0e5d246852067e84a0fbbb3b59 ntsc|cic6102|eeprom512|rpak # F-1 World Grand Prix
 c9118ea95c4835262dd65f1b1fc3933e pal|cic7101|eeprom512|rpak # F-1 World Grand Prix (Prototype)
 d28ec054916677c3004b31785dec928d pal|cic7101|eeprom512|rpak # F-1 World Grand Prix (Prototype)
-bc748c9bca3f222e599414bc20aca4d7 pal|cic7101|eeprom512|rpak # F-1 World Grand Prix II
-6f77e5e5f6cbb0bf683280672a09347c pal|cic7101|rpak # F-1 World Grand Prix II
-04964f981f3dc7458555e3263b57aef6 pal|cic7101|rpak # F-1 World Grand Prix II
+bc748c9bca3f222e599414bc20aca4d7 pal|cic7101|eeprom2k|rpak # F-1 World Grand Prix II
+6f77e5e5f6cbb0bf683280672a09347c pal|cic7101|eeprom2k|rpak # F-1 World Grand Prix II
+04964f981f3dc7458555e3263b57aef6 pal|cic7101|eeprom2k|rpak # F-1 World Grand Prix II
 c0941e23038c74d773c2f351cda10921 ntsc|cic6106|sram32k|rpak # F-ZERO CXR Ultimate Rush by customracer209 (Hack)
 16a1442134ebf3bef63240883cb2aaba ntsc|cic6106|sram32k|rpak # F-ZERO PXB - Part 1 by Philippe Brodier (Hack)
 f03d86c003648fdeb4c05d2dbb57f357 ntsc|cic6106|sram32k|rpak # F-ZERO PXB 2 by Philippe Brodier (Hack)
@@ -895,7 +895,7 @@ cb284c77f60be2f283fc1b9c05069e0f ntsc|cic6102|sram32k|rpak # F-ZERO X
 ec26d0f66e92ff4cbc76c8c6dd6804f4 ntsc|cic6106|sram32k|rpak # F-ZERO X (Fzeroman's Misc2) (Hack)
 6206753cf2c79aa488774c6ae966d351 ntsc|cic6106|sram32k|rpak # F-ZERO X (Fzeroman's Misc3) (Hack)
 ad5559b98175303c06a995c44fbb6757 ntsc|cic6102|sram32k|rpak # F-ZERO X (GameShark)
-4480d3bad5a5b414532b183ce6b9b164 ntsc|cic6102|rpak # F-Zero X (LodgeNet)
+4480d3bad5a5b414532b183ce6b9b164 ntsc|cic6102|sram32k|rpak # F-Zero X (LodgeNet)
 68c6f68dfd259913d7f076d1f435f729 ntsc|cic6102|sram32k|rpak # F-ZERO X (Sex V1.0 Hack)
 64efbaef8cb58d32242a9d53ea45571a ntsc|cic6102|sram32k|rpak # F-ZERO X (Sex V1.1 Hack)
 0319006163e31c99040f45b2fc069ab5 ntsc|cic6106|sram32k|rpak # F-ZERO X - 10th Anniversary (Hack) Philippe Brodier
@@ -940,15 +940,15 @@ c2c3e314b45a0270bbe8934eb57b015a ntsc|cic6106|sram32k|rpak # F-ZERO X - UchihaSD
 210e299172ce48b627ec3ecb119fff3a ntsc|cic6106|sram32k|rpak # F-ZERO X - UchiX Side A (Hack) UchihaSDA
 b9b8b33bc29c5d8061f1335d421bd7d7 ntsc|cic6106|sram32k|rpak # F-ZERO X - UchiX Side B (Hack) UchihaSDA
 3afd65b614e3cd1fc5f46572c92a670e ntsc|cic6106|sram32k|rpak # F-ZERO X DXP (Hack)
-81037257e1325d395b3eafd4d10aaffe ntsc|cic5167|rpak # F-Zero X Expansion Kit
+81037257e1325d395b3eafd4d10aaffe ntsc|cic5167|sram32k|rpak # F-Zero X Expansion Kit
 d964349ec96e6ed8fccc2b5762c1ba12 ntsc|cic5167|sram32k|rpak # F-Zero X Expansion Kit v2 LuigiBlood, Zoinkity
 10ec73ff07d151e7c148e06e5add054d ntsc|cic6106|sram32k|rpak # F-ZERO X Generation - Cups 1 & 2 (previously Two Zero Thirteen) by Effendi (Hack)
 dc0e425ebabed83135f40e2af72eac27 pal|cic7101|cpak|rpak # F1 Racing Championship
 8b8c83c545e9bc13701b01202af1ac64 ntsc|cic6102|cpak|rpak # F1 Racing Championship
 38bcc05d540b4a512c024070dbcf7d1b pal|cic7101|cpak|rpak # F1 Racing Championship
-a4ae7fc8281ff67200bc6aaa7bc1224e ntsc|cic6102|cpak|rpak # F1 Racing Championship (Beta)
+a4ae7fc8281ff67200bc6aaa7bc1224e ntsc|cic6102|eeprom512|cpak|rpak # F1 Racing Championship (Beta)
 37f958bf9d21860af5c72ae12e9a57c4 ntsc|cic6102|cpak # Famista 64
-04718210cd059c090955652cc45fd976 ntsc|cic6102 # Famista 64
+04718210cd059c090955652cc45fd976 ntsc|cic6102|cpak # Famista 64
 188093934e98ebb4b087e9e19f6099be ntsc|cic6102|cpak # FIFA - Road to World Cup 98
 3d9db611ffbd7b8292f95630f17d435e pal|cic7101|cpak # FIFA - Road to World Cup 98
 1ea2a3071998684b83b4fc0b3514333b ntsc|cic6102|cpak # FIFA - Road to World Cup 98 - World Cup heno Michi
@@ -1003,8 +1003,8 @@ dca4a6e3a6fd78b211576f4e4e85abcb ntsc|cic6102 # Freekworld BBS Intro by Rene
 bb369ee08d3557bc3637b7833d047458 ntsc|cic6102 # Freekworld New Intro by Ste
 fa73b69c9d87631506ec810161dcfa80 ntsc|cic6102 # Friendship Demo by Renderman
 b904053311cf7866568a15bf815fbef8 ntsc|cic6102 # Friendship Demo by Renderman
-74f7699867312aa9e43e0797ade063cd ntsc|cic6102|cpak # Frogger 2 (Alpha)
-889a13034a7a89ffab06de10ddd69a9b ntsc|cic6102|cpak # Frogger 2 (Prototype 1)
+74f7699867312aa9e43e0797ade063cd ntsc|cic6102|eeprom512|cpak # Frogger 2 (Alpha)
+889a13034a7a89ffab06de10ddd69a9b ntsc|cic6102|eeprom512|cpak # Frogger 2 (Prototype 1)
 fbbc4f6f2ff6e387b98db8d9886c07e4 ntsc|cic6102 # Ftest by Nintendo
 a08c0fd9e30d2ed90d0acd753a612d76 ntsc|cic6102 # Funnelcube v1 Marshall
 0818e83b197fdb746baf64840d8a502e ntsc|cic6102|sram32k|cpak # Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!
@@ -1012,14 +1012,14 @@ a3f2e468056968df53a52bb4608907be ntsc|cic6102|sram32k|cpak # Fushigi no Dungeon 
 2e841fcbc561aa63e15c2b7eeea79f5d pal|cic7101|cpak|rpak # G.A.S.P!! Fighter's NEXTream
 2b108762a412ee9832b2ee8abb623db7 ntsc|cic6102|cpak|rpak # G.A.S.P!! Fighter's NEXTream
 190d2ce11bc5a61d4fae70d1c0be068b ntsc|cic6102 # Game Boy 64 (Illegal Mode Enabled)
-8ae6a3fd5eacf11fceaeff3c48f01b71 pal|cic7101 # Game Boy 64 + Super Mario 3
+8ae6a3fd5eacf11fceaeff3c48f01b71 pal|cic7101|cpak|rpak # Game Boy 64 + Super Mario 3
 9e72d797e737663fa0d36bd39a779014 ntsc|cic6102 # Game Index N64 Intro High Society
 3a447218149ea08ad0c49076bf4d3c16 ntsc|cic6102 # Game Index N64 Intro High Society
 5d8812e1dd55b9068351f3a368d852ff ntsc|cic6102 # GameBooster 64 V1.1 (Unl)
 7e7c1d48d431ad01a33cc88d7b919221 ntsc|cic6102 # GameBooster 64 V1.1 (Unl)
-13b0b904c2f69f12b2bf959e4c6ea1cd ntsc|cic6102 # GameBooster 64 V1.1 (Unl)
+13b0b904c2f69f12b2bf959e4c6ea1cd ntsc|cic6102|cpak|rpak # GameBooster 64 V1.1 (Unl)
 18e43451c4a00d144bad19898ab29f9c ntsc|cic6102 # GameBooster 64 V1.1 (Unl)
-03c304e5eeb854e6e7570712f1959ca2 pal|cic7101 # GameBooster 64 V1.1 (Unl) (Sound)
+03c304e5eeb854e6e7570712f1959ca2 pal|cic7101|cpak|rpak # GameBooster 64 V1.1 (Unl) (Sound)
 9c7bbd38f3bdd73c8c40b800a548eccc ntsc|cic6102 # GameShark Pro (Unl)
 e3ba6b290e50aedbf6b246914e866c0d ntsc|cic6102 # GameShark Pro V2.0 (Unl)
 8d0a9c2597ea6f7d338d3cd78a5cb2e8 ntsc|cic6102 # GameShark Pro V3.3 (Apr 2000) (Unl)
@@ -1037,16 +1037,16 @@ d7f395e0b511381b3ca72c6dc101e998 ntsc|cic6102|cpak|rpak # Ganbare Goemon - Neo M
 27bd15dd3615d72d5199b6e3b98ad144 ntsc|cic6102|cpak|rpak # Gauntlet Legends
 b94843d064dca3a9f2dbcba6499af774 pal|cic7101|cpak|rpak # Gauntlet Legends
 3ad8da36ae02c86d46c4b4d04fe136f2 ntsc|cic6102|cpak|rpak # Gauntlet Legends
-5811649144dadfbf314f7bb343ccb608 ntsc|cic6102|rpak # Gauntlet Legends (LodgeNet)
+5811649144dadfbf314f7bb343ccb608 ntsc|cic6102|cpak|rpak # Gauntlet Legends (LodgeNet)
 da0834c59c5dd113326f1a93580e9511 ntsc|cic6102 # GB Lite
-d7ed5813244f0a7b993579e51824e905 ntsc|cic6102 # GB64 - Transfer Pak Tool by Saturnu (Beta) (V0.6+Camera RAM Write Enabled)
 18e33bed7a6bdd9371013f20d897749e ntsc|cic6102 # GB64 - Transfer Pak Tool by Saturnu (Beta)
 a9e6225af5687384c1b52b7a95a6520a ntsc|cic6102 # GB64 - Transfer Pak Tool by Saturnu (Beta)
 7dc73e9584b8877fdf5120a4353179ea ntsc|cic6102 # GB64 - Transfer Pak Tool by Saturnu (Beta)
-31bd90325cddedfd4a108548dc33e68f pal|cic7101 # GBlator for CD64
-15646b070a980b82e775e8771b6ee8af pal|cic7101 # GBlator for CD64
-25588b42c5446f8084981646bbbf142b ntsc|cic6102 # GBlator for NTSC Dr V64
-e0d76f710e5bc84a048311322516cbcc pal|cic7101 # GBlator for PAL Dr V64
+d7ed5813244f0a7b993579e51824e905 ntsc|cic6102 # GB64 - Transfer Pak Tool by Saturnu (Beta) (V0.6+Camera RAM Write Enabled)
+31bd90325cddedfd4a108548dc33e68f pal|cic7101|cpak|rpak # GBlator for CD64
+15646b070a980b82e775e8771b6ee8af pal|cic7101|cpak|rpak # GBlator for CD64
+25588b42c5446f8084981646bbbf142b ntsc|cic6102|cpak|rpak # GBlator for NTSC Dr V64
+e0d76f710e5bc84a048311322516cbcc pal|cic7101|cpak|rpak # GBlator for PAL Dr V64
 d4e0b1929db4fa1e5e711bf57241e23e ntsc|cic6102 # gbptest
 80eaa9a10bc8629570a404c2632e4b24 ntsc|cic6102 # Genesis Script VM by Conle
 18875c5a8028394f13100c27007c367d ntsc|cic6102|eeprom512|cpak|rpak # Getter Love!!
@@ -1074,10 +1074,10 @@ df2e40e7b204caaf1880537d3e57e462 ntsc|cic6102 # Glover (Prototype)
 a7b2cf78361392884000317a1220aa39 ntsc|cic6102|eeprom512 # Glover 2 (Proto 1)
 661f550f1512d72e2ee3e51d5ddd6967 ntsc|cic6102|eeprom512 # Glover 2 (Proto 2)
 be8df27f7ee04aabbd4c4d93a134dfdd ntsc|cic6102|eeprom512 # Glover 2 (Prototype) (Spellings)
+7b6762b47bdc3234cd121b232f92316a ntsc|cic6102 # GNUBoy64
 e493406174824ca580e9e0dcf78703b3 ntsc|cic6102 # GNUBoy64 (V1.1(maybe)+ED64 Support) (Guick'n'Dirty)
 c49a9d7b1db80e0eed69f2283017aa5c ntsc|cic6102 # GNUBoy64 (V1.1_N64 Myth)
 813eea20db8153d1cd52314a8dcbb330 ntsc|cic6102 # GNUBoy64 (VSVN_r7)
-7b6762b47bdc3234cd121b232f92316a ntsc|cic6102 # GNUBoy64
 9560e9c7ccf3d2b9d1c7d7b1e4bdd716 ntsc|cic6102|eeprom512 # God Knows Who! by NDT (Demo)
 b3a7e06f58874fd7cb3e24ae0c7d0554 ntsc|cic6102|cpak|rpak # Goemon's Great Adventure
 3c272c0ac60f00728840f3980b59f76e ntsc|cic6102|cpak # Golden Nugget 64
@@ -1355,7 +1355,7 @@ fce469eb67c522a9d5022eb01dc8a795 ntsc|cic6102|eeprom512|rpak # GoldenEye Legend 
 adf413e4228b6b909aad7bbd2ae530f7 ntsc|cic6102|eeprom512|rpak # Goldeneye NoInvert2P
 1603c04c1d33c3e6e7602e06bf9bf167 ntsc|cic6102|eeprom512|rpak # Goldeneye NoInvert2P3P
 ea0521262d310a30b445565c7dc6731c ntsc|cic6102|eeprom512|rpak # Goldeneye NoInvert2P3P4P
-0ad7fd0a65c490f8f8359ef73176d58c ntsc|cic6105|eeprom2k|cpak|rpak|tpak # GoldenEye X
+0ad7fd0a65c490f8f8359ef73176d58c ntsc|cic6105|eeprom2k|cpak|rpak # GoldenEye X
 3526cc52437a357b64d9ddb6e255063b ntsc|cic6102|eeprom512 # Goombas Easter Egg Hunt - Easter Special! by Kaze (SM64 Hack)
 968ed43005ffd6d637cda34ee231921b ntsc|cic6102|eeprom512 # Grand Star Demo 1 by MarioGame2222 (SM64 Hack)
 51540c3c8685764ee70d929bdc879e00 ntsc|cic6102|eeprom512 # Green Stars, The by Kampel125 (SM64 Hack)
@@ -1382,8 +1382,8 @@ bd1e97fc7949dd37bae7d46c7ad8dbaf ntsc|cic6102|sram32k # Harvest Moon 64
 76075a690a61cd134d00728da8d1d00b ntsc|cic6102|sram32k # Harvest Moon 64
 2cade965bbf269460401aef7c83ac942 ntsc|cic6102 # Heavy 64 Demo by Destop
 c5d2f493837d091d401a135d1464dea8 ntsc|cic6102|eeprom512 # Heiwa Pachinko World 64
-2bd2b13d868d18c4ee7056107ae7e748 ntsc|cic6102 # Heiwa Pachinko World 64
-ff5e12ea761d2ec18ed9f0842c23478e ntsc|cic6102 # Heiwa Pachinko World 64
+2bd2b13d868d18c4ee7056107ae7e748 ntsc|cic6102|eeprom512 # Heiwa Pachinko World 64
+ff5e12ea761d2ec18ed9f0842c23478e ntsc|cic6102|eeprom512 # Heiwa Pachinko World 64
 928553af7a3ad2e70fdaea7b1de94cd3 ntsc|cic6102 # Heiwa Pachinko World 64
 48b8419cfdcf9cafa84912c5f39fbe85 ntsc|cic6102 # hello
 9d545de3a036c27f2fcc7a5ec97342f6 ntsc|cic6102|cpak|rpak # Hercules - The Legendary Journeys
@@ -1408,7 +1408,7 @@ e3299486f1b9ca7460b41abfaeb0dc3a ntsc|cic5101 # Hi Pai Paradise (Aleck 64) EverD
 8f73978d7ba53e8db716d41dca075f72 ntsc|cic6102 # Hi Pai Paradise 2
 e3ce3b5ae1010317201f0a699507f93b ntsc|cic6102 # High Society Intro High Society
 fc81d0295e787813b456885b8b3b60b9 ntsc|cic6102 # HIPTHRUST by MooglyGuy
-f59095ace14aa71c3566ecab5eedc391 ntsc|cic6102 # HiRes CFB Demo
+f59095ace14aa71c3566ecab5eedc391 ntsc|cic6102|eeprom512 # HiRes CFB Demo
 c1614a9cf8873f5a5fb0a472338b3537 ntsc|cic6102|cpak|rpak # Hiryuu no Ken Twin
 19f2d6787b961a057d146ca7419f0850 ntsc|cic6102|cpak|rpak # Hiryuu no Ken Twin
 0107ca1390e39161d06d7e0dc8ccbc04 ntsc|cic6102|cpak|rpak # Hiryuu no Ken Twin
@@ -1430,7 +1430,7 @@ b19814531b54de13a5a3c8f33a26940d ntsc|cic6102|cpak|rpak # Hot Wheels Turbo Racin
 18255467d0e4fb2637742891bf6301ce ntsc|cic6102|cpak|rpak # Hot Wheels Turbo Racing
 689464c7e2c5a886c41ee1575d01ff96 ntsc|cic6102 # HS N64 Index Intro by Stage
 c745707c1d0ca45b3f7b7f10cf5e8798 ntsc|cic6102 # HS N64 Index Intro by Stage
-5125519b579ff74d6ca3f6ca6197732a ntsc|cic6102 # HSD Quick Intro
+5125519b579ff74d6ca3f6ca6197732a ntsc|cic6102|eeprom512 # HSD Quick Intro
 906e30b87ffa92fc2f3dc88e6e2458f1 pal|cic7101|cpak|rpak # HSV Adventure Racing
 708614b53791a96ccc3b6780bf7559b4 pal|cic7101|cpak|rpak # HSV Adventure Racing
 7858b385ca7a49f49927558a8eb1593a ntsc|cic6102|cpak # Human Grand Prix - New Generation
@@ -1449,7 +1449,7 @@ b274781bce29568c09c63f25861e0892 pal|cic7101|cpak|rpak # Hydro Thunder
 92a7a5779326e8be7dbfa8da5e8995fe pal|cic7101|cpak|rpak # Hydro Thunder
 fc3d1e1f7dc6d808d7b7d1cd1df1e90a ntsc|cic6102|cpak|rpak # Hydro Thunder
 36d2909f30c2583420cafe7a592fa02c ntsc|cic6102|cpak|rpak # Hydro Thunder
-569b253544f7c6643b669b252971d99e ntsc|cic6102|rpak # Hydro Thunder (LodgeNet)
+569b253544f7c6643b669b252971d99e ntsc|cic6102|cpak|rpak # Hydro Thunder (LodgeNet)
 63121519fcfbe600f9c99825f87b0a16 ntsc|cic6102|cpak # Hyper Olympics in Nagano 64
 4bf58cb7f500261c09b1781d1f385678 ntsc|cic6102 # I4LZRLEVideo
 6236903ac87f47bde99527df9b435694 ntsc|cic6102|eeprom512|rpak # Ice World by Monkeyface (GE Hack)
@@ -1501,9 +1501,9 @@ ca3efa3cbbb3277158d558f97f38ccff ntsc|cic6102 # J.League Tactics Soccer
 22ead2a5d1dbd6b6c5134861c3fa6f6e ntsc|cic6102 # J.League Tactics Soccer
 494bc36fd9bbead94db0a2a8df7c76e3 ntsc|cic6102|cpak # Jangou Simulation Mahjong Do 64
 b2a7ed231111d0d54f73c1b8f4641ba6 ntsc|cic6102|cpak # Jangou Simulation Mahjong Do 64
-80262256f5aa05d48f89c516be16420a ntsc|cic5167 # Japan Pro Golf Tour 64
-d02f4df5c9ba0f5a10a2434af11f5cf1 ntsc|cic6102 # Japan Pro Golf Tour 64 (64drive 1.12d Compatible V1.0)
-ceeecd40d732920a54d984c801cd0a7d ntsc|cic5167 # Japan Pro Golf Tour 64 Zoinkity
+80262256f5aa05d48f89c516be16420a ntsc|cic5167|cpak|rpak # Japan Pro Golf Tour 64
+d02f4df5c9ba0f5a10a2434af11f5cf1 ntsc|cic6102|cpak|rpak # Japan Pro Golf Tour 64 (64drive 1.12d Compatible V1.0)
+ceeecd40d732920a54d984c801cd0a7d ntsc|cic5167|cpak|rpak # Japan Pro Golf Tour 64 Zoinkity
 8d658b22c3a078fb269c60403e746126 ntsc|cic6102 # Jeopardy!
 2cd8e0fe59281f12c2a07863b0d7daf4 ntsc|cic6102 # Jeopardy!
 5341e5f23c12d64465a82cae82779c2d ntsc|cic6102|cpak|rpak # Jeremy McGrath Supercross 2000
@@ -1516,25 +1516,25 @@ dbd2453acf406cb6623ec5534e6f4b1e ntsc|cic6102|cpak|rpak # Jeremy McGrath Supercr
 dc597c216d8c0d0ab765cfcf41578891 ntsc|cic6102|flash128k|rpak # Jet Force Gemini
 b4b50ea6e1366adc53d30ee527dc78f3 ntsc|cic6102|flash128k|rpak # Jet Force Gemini
 21ba2aa8489ceb9d833c19bcb800914e ntsc|cic6102|flash128k|rpak # Jet Force Gemini
-a43fb11b4dff63f07942cbe304b0e899 ntsc|cic6105|rpak # Jet Force Gemini (Kiosk Demo)
-cfe93dea250048880f415fc5bc7188e2 ntsc|cic6105|rpak # Jet Force Gemini (Kiosk Demo)
-ece76545ef6166fc358b723976940496 ntsc|cic6102|rpak # Jet Force Gemini (Kiosk Demo) (Save)
+a43fb11b4dff63f07942cbe304b0e899 ntsc|cic6105|flash128k|rpak # Jet Force Gemini (Kiosk Demo)
+cfe93dea250048880f415fc5bc7188e2 ntsc|cic6105|flash128k|rpak # Jet Force Gemini (Kiosk Demo)
+ece76545ef6166fc358b723976940496 ntsc|cic6102|flash128k|rpak # Jet Force Gemini (Kiosk Demo) (Save)
 ae0209caed6ce40202a03f63ced3c9ce ntsc|cic6105|flash128k|rpak # Jet Force Gemini - Trainer and Co-Op (Hack) Hextator 20110327
 ab47eebe65205ccf6f65061712622a46 ntsc|cic6105|flash128k|rpak # Jet Force Gemini by Hextator (Hack)
 bdb94de66131461f86d44bfbe3ebe749 ntsc|cic6105|flash128k|rpak # Jet Force Gemini No Invert Controls
 92243298c590b34624600118fd0a7bf6 ntsc|cic6102|cpak # Jikkyou G1 Stable
 0b23a35c92631eb43c3624fb02a704f8 ntsc|cic6102|cpak # Jikkyou G1 Stable
-5c5817c3ee7b37bd5a361a0ad685f7a0 ntsc|cic6102|sram32k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
-e25ed5ef85d35a1825623fa707c690b0 ntsc|cic6102|sram32k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
-6c2fc62c51cf5b2500d039701c5631fb ntsc|cic6102|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
-6db7ce2a2adee2f9349d9955f21f933a ntsc|cic6102|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
+5c5817c3ee7b37bd5a361a0ad685f7a0 ntsc|cic6102|flash128k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
+e25ed5ef85d35a1825623fa707c690b0 ntsc|cic6102|flash128k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
+6c2fc62c51cf5b2500d039701c5631fb ntsc|cic6102|flash128k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
+6db7ce2a2adee2f9349d9955f21f933a ntsc|cic6102|flash128k|cpak|rpak # Jikkyou J.League 1999 - Perfect Striker 2
 c0e20e3c3f54c7c99c59a4073c7b7e52 ntsc|cic6102|cpak # Jikkyou J.League Perfect Striker
 041b568646e67e1f2438c02b124ad0da ntsc|cic6102|cpak # Jikkyou J.League Perfect Striker
 a00ec16e3c026e15cd348bce769f5fb3 ntsc|cic6102|cpak # Jikkyou J.League Perfect Striker
 1e4a393ece65e79abc6889eed5de2282 ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pro Yakyuu - Basic Ban 2001
 6b3236da3b4d6bbd6fe09a681572ad6b ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pro Yakyuu - Basic Ban 2001
-fb6552f2ec15c1e26c1475fd3be3f06e ntsc|cic6102|sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 2000
-34f8e81787a38fb13da82f8b0778c788 ntsc|cic6102|sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 2000
+fb6552f2ec15c1e26c1475fd3be3f06e ntsc|cic6102|sram32k|cpak|rpak|tpak # Jikkyou Powerful Pro Yakyuu 2000
+34f8e81787a38fb13da82f8b0778c788 ntsc|cic6102|sram32k|cpak|rpak|tpak # Jikkyou Powerful Pro Yakyuu 2000
 cda998d5331efeb7a74828418421da7f ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pro Yakyuu 4
 3027a65511d72747c43a0cbcc270e90e ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pro Yakyuu 4
 112795f8e116b7a5de0ec8539018f686 ntsc|cic6102|cpak # Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta)
@@ -1543,9 +1543,9 @@ ceedb3a8f38322df81f7977abfdcca71 ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pr
 089550181e0669eb6654defb4e3aae96 ntsc|cic6102|sram32k|cpak # Jikkyou Powerful Pro Yakyuu 5
 74653839b98ab6a5ab3b74ea6e6861b9 ntsc|cic6102|cpak # Jikkyou Powerful Pro Yakyuu 5
 f3f892ebc5f974d17f0479403c281732 ntsc|cic6102|cpak # Jikkyou Powerful Pro Yakyuu 5
-9bee96faad2a190f29b2d0befa4cf87e ntsc|cic6102|sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
-bc9eab43d67f353255b0f1036df7e992 ntsc|cic6102|sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
-d6afbbb9105478b41602e463a5d454bd ntsc|cic6102|sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
+9bee96faad2a190f29b2d0befa4cf87e ntsc|cic6102|sram32k|cpak|rpak|tpak # Jikkyou Powerful Pro Yakyuu 6
+bc9eab43d67f353255b0f1036df7e992 ntsc|cic6102|sram32k|cpak|rpak|tpak # Jikkyou Powerful Pro Yakyuu 6
+d6afbbb9105478b41602e463a5d454bd ntsc|cic6102|sram32k|cpak|rpak|tpak # Jikkyou Powerful Pro Yakyuu 6
 7c0cb7f01eaa30650da4c6830b9299c1 ntsc|cic6102|cpak # Jikkyou World Soccer - World Cup France '98
 d1c5fa04a17fb4aa05fc7c32d571b88e ntsc|cic6102|cpak # Jikkyou World Soccer - World Cup France '98
 e58dde374e1eccf8e3efe654f2611afd ntsc|cic6102|cpak # Jikkyou World Soccer - World Cup France '98
@@ -1586,7 +1586,7 @@ ad60140b324eff846262cac08f28df3e pal|cic7101|eeprom2k|rpak # Kirby 64 - The Crys
 ee0ce2a14bcffffdc339c1c062ae6a4d ntsc|cic6103|eeprom2k|rpak # Kirby 64 - The Crystal Shards
 15c90a45158e94e416dbc2d0ae2e1d1b ntsc|cic6102|eeprom2k|rpak # Kirby 64 - The Crystal Shards
 81e5e5d998216cc0ecad741b13647f0e ntsc|cic6102|eeprom2k|rpak # Kirby 64 - The Crystal Shards
-3e5e44cec8f3b16aceb2c622c233c47e ntsc|cic6103|rpak # Kirby 64 - The Crystal Shards (LodgeNet)
+3e5e44cec8f3b16aceb2c622c233c47e ntsc|cic6103|eeprom2k|rpak # Kirby 64 - The Crystal Shards (LodgeNet)
 fb954312a91610db318addb14785537d ntsc|cic6103|eeprom2k|rpak # Kirby 64 - The Crystal Shards Analog Controls
 4cd0f7a32e1c4797cf46a8c4931a0b9f ntsc|cic6102|rpak # Knife Edge - Nose Gunner
 22774fcaa13cf0eed6400d632790c411 pal|cic7101|rpak # Knife Edge - Nose Gunner
@@ -1602,12 +1602,12 @@ e2b745ca8eaea052ffe8897e54ccf644 pal|cic7103|eeprom2k|cpak|rpak # Kobe Bryant in
 904b34c650a93b017b09d3e8888cf6b3 ntsc|cic6102|eeprom2k|cpak|rpak # Kobe Bryant's NBA Courtside
 d628b830d984b02450edc445a9c6c2df ntsc|cic6103|eeprom2k|cpak|rpak # Kobe Bryant's NBA Courtside
 d1103bc65cbb0b39eb7b44d15ddf3f93 ntsc|cic5101|eeprom512 # Kuru Kuru Fever (Aleck64)
-37a73750f84bf5cae0fbec2eba033a26 ntsc|cic6102|cpak|rpak|tpak # Kyojin no Doshin (64drive 1.12d Compatible V1.0)
-a7f0268ba5dd49db0117e9c2214d5eb7 ntsc|cic6102|cpak|rpak|tpak # Kyojin no Doshin (Demo) (64drive 1.12d Compatible V1.0)
-318ecad8366785fbccccae62f1c8bfa2 ntsc|cic6102|rpak # Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (64drive 1.12d Compatible V1.0)
-c3dab980b1ed28f98b8a5de0d2e654d5 ntsc|cic5167 # Kyojin no Doshin 1
-f9aa89a81a34262df3695f092b9eca23 ntsc|cic5167 # Kyojin no Doshin 1 (Kiosk Demo)
-9f8baba5c495a9f7b6dcbc3408a73b47 ntsc|cic5167|rpak # Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou
+37a73750f84bf5cae0fbec2eba033a26 ntsc|cic6102|cpak|rpak # Kyojin no Doshin (64drive 1.12d Compatible V1.0)
+a7f0268ba5dd49db0117e9c2214d5eb7 ntsc|cic6102|cpak|rpak # Kyojin no Doshin (Demo) (64drive 1.12d Compatible V1.0)
+318ecad8366785fbccccae62f1c8bfa2 ntsc|cic6102|cpak|rpak # Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (64drive 1.12d Compatible V1.0)
+c3dab980b1ed28f98b8a5de0d2e654d5 ntsc|cic5167|cpak|rpak # Kyojin no Doshin 1
+f9aa89a81a34262df3695f092b9eca23 ntsc|cic5167|cpak|rpak # Kyojin no Doshin 1 (Kiosk Demo)
+9f8baba5c495a9f7b6dcbc3408a73b47 ntsc|cic5167|cpak|rpak # Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou
 b23003df72a5dbc7230e1e56f9ce28f3 ntsc|cic6102 # LaC's MOD Player - The Temple Gates
 902fb78b041a9e607537d76b8b889bd4 ntsc|cic6102 # LaC's Universal Bootemu V1.0
 6f71cf14f2a108874774cf2ece1f6e87 ntsc|cic6102 # LaC's Universal Bootemu V1.1
@@ -1626,7 +1626,7 @@ ef2d9101667e07ef0432909b250eec31 pal|cic7105|flash128k|rpak # Legend of Zelda, T
 8546a0288c74ee492bcb733886564599 pal|cic7101|flash128k|rpak # Legend of Zelda, The - Majora's Mask
 3129f9049029839a2c155947a89cebf4 ntsc|cic6102|flash128k|rpak # Legend of Zelda, The - Majora's Mask
 6780c0003c31fb805b6c2efd00b2991f pal|cic7105|flash128k|rpak # Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)
-1a522db3e8b113e87fee2f18e51bc61e ntsc|cic6105|rpak # Legend of Zelda, The - Majora's Mask (LodgeNet)
+1a522db3e8b113e87fee2f18e51bc61e ntsc|cic6105|flash128k|rpak # Legend of Zelda, The - Majora's Mask (LodgeNet)
 a27a1cb07755cbc69891da5b3951d271 pal|cic7105|flash128k|rpak # Legend of Zelda, The - Majora's Mask (Navi)
 4939875de8ccff8c795f779cc1bb6fdc ntsc|cic6105|flash128k|rpak # Legend of Zelda, The - Majora's Mask (Navi)
 63d941e703ca0ef5e2eaaf31d691a131 ntsc|cic6105|flash128k|rpak # Legend of Zelda, The - Majora's Mask (OoT Music)
@@ -1660,7 +1660,7 @@ f6ed7182f8e905ecc2e504a363a9865e ntsc|cic6105|sram32k|rpak # Legend of Zelda, Th
 0a29aee7136fd9f9ec68a18aae4964ba ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (Ch) (Traditional) (iQue)
 f22b36031e1a7e5ec58f309c597e1262 pal|cic7105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (GameCube)
 6b2691162d7b90dbd10e108c811325e3 pal|cic7105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)
-4806c610da714a533af83961e293f7db ntsc|cic6105|rpak # Legend of Zelda, The - Ocarina of Time (LodgeNet)
+4806c610da714a533af83961e293f7db ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (LodgeNet)
 d9405f7377fc11514f5ad8007eb49c51 ntsc|cic6105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (Room121 Hack)
 f2e87e48951d44d4a26f22b5d50f1051 pal|cic7105|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (zpc1)
 0931be727b35e4d3e62d9c2e8fb7ffbc pal|cic7101|sram32k|rpak # Legend of Zelda, The - Ocarina of Time (zpfc)
@@ -1695,7 +1695,7 @@ f25fd2664ea164e0000e8ad3aca3b6c0 ntsc|cic6102|cpak|rpak # LEGO Racers
 8333b9ca156f21140242350ba63c3326 ntsc|cic6102|cpak|rpak # LEGO Racers (Have All Lego-Bricks & Tracks by cOLD187)
 a65c305a3d11ca56ec047d862dc8d643 pal|cic7101|rpak # Les Razmoket - La Chasse Aux Tresors
 919ead2d21a316cf08750849a60e1894 ntsc|cic6102|cpak # Let's Smash Tennis
-8b47dddc3b8065a33aabd62598a024c7 ntsc|cic6102 # Light Force First N64 Demo by Fractal
+8b47dddc3b8065a33aabd62598a024c7 ntsc|cic6102|eeprom512 # Light Force First N64 Demo by Fractal
 ff3178d91dfb2ac6de1b21f13a5e634e ntsc|cic6102 # Liner V1.00 by Colin Phillipps of Memir
 b67e853240ca80f11899bde8742e1942 ntsc|cic6102 # Liner V1.00 by Colin Phillipps of Memir
 737ef43485c57de9cbe2006d7d99c306 ntsc|cic6102 # Liner V1.02 by Colin Phillipps of Memir
@@ -1783,41 +1783,41 @@ c9846ae2238bb47c1aec7b4cd76fa844 ntsc|cic6102 # MAME 64 Demo
 37cd0ec5d4128567f9ba4f0b143d9132 ntsc|cic6102 # MAME 64 V1.0
 bba0e4867c17a14ec6242c9db0c30161 ntsc|cic6102 # MAME 64 V1.0
 1845c9502e01bd8aaea86a08a041b0ae ntsc|cic6102 # Mandelbrot Zoomer by RedBox
-246dd7f02a436725c6ee5fafd93907d7 ntsc|cic6102 # Manic Miner - Hidden Levels by RedboX
-6500bea6c5c8ce445333803771161b7a ntsc|cic6102 # Manic Miner by RedboX
+246dd7f02a436725c6ee5fafd93907d7 ntsc|cic6102|cpak # Manic Miner - Hidden Levels by RedboX
+6500bea6c5c8ce445333803771161b7a ntsc|cic6102|cpak # Manic Miner by RedboX
 f22bace9f67776b4c8e817a8f96e48f2 ntsc|cic6102|eeprom512 # Mario and the Magic Wand (Demo) (SM64 Hack)
-86482f9e82a1d5600b6481a78dda5141 ntsc|cic6102 # Mario Artist - Communication Kit (64drive 1.12d Compatible V1.0)
-225d974f74402152809b33676c3dc313 ntsc|cic6102|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
-da36dcff0586350c66d3235b21101fe8 ntsc|cic6102|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
-e88f66826a444c7dff57f428d27a186f ntsc|cic6102 # Mario Artist - Polygon Studio (64drive 1.12d Compatible V1.0)
-512b2f31df67fe1d7352c3b8d84033f6 ntsc|cic6102 # Mario Artist - Polygon Studio (64drive 1.12d Compatible V1.1)
-5e83ffcaa83d47639969c1176b822a3b ntsc|cic8303 # Mario Artist - Polygon Studio T+Eng v2 LuigiBlood
-b4a720dfc6f6d5b9db7089f71ea7393b ntsc|cic6102|tpak # Mario Artist - Talent Studio (64drive 1.12d Compatible V1.0)
-ba5b40df3dc3742583f4986e287e72ba ntsc|cic6102|tpak # Mario Artist - Talent Studio (64drive 1.12d Compatible V1.1)
-46946fcaf6b00839fa96bc5894d82f9d ntsc|cic8303 # Mario Artist - Talent Studio T-Eng v2b LuigiBlood
-d93786dc42c8aee0e87c7edf5b13825d ntsc|cic5167|tpak # Mario Artist Paint Studio v2.1 LuigiBlood
-fc0567621d5780172471a9b51f06492e ntsc|cic5167 # Mario Artist Polygon Studio v3 LuigiBlood
-cd4acef57f60c6df16b74019beebbbf4 ntsc|cic5167|tpak # Mario Artist Talent Studio v2.1 LuigiBlood
-4e2883582336704946a932d92b4d38ba ntsc|cic5167 # Mario Artist: Communication Kit
-1ec5a61fec93dafc8c778a892f673ec7 ntsc|cic5167|tpak # Mario Artist: Paint Studio
-7a41ee5b1b66f65f097c3983aea4a8b5 ntsc|cic5167 # Mario Artist: Paint Studio
-92e5dad9ded5b0b5597b441e3deed824 ntsc|cic5167 # Mario Artist: Polygon Studio
-a91aa83cf0ad4d87a17bcf8c52b26e1e ntsc|cic5167|tpak # Mario Artist: Talent Studio
-852e70eb7406909772b4b24ae8db228f ntsc|cic5167 # Mario Artist: Talent Studio
+86482f9e82a1d5600b6481a78dda5141 ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Communication Kit (64drive 1.12d Compatible V1.0)
+225d974f74402152809b33676c3dc313 ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
+da36dcff0586350c66d3235b21101fe8 ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
+e88f66826a444c7dff57f428d27a186f ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Polygon Studio (64drive 1.12d Compatible V1.0)
+512b2f31df67fe1d7352c3b8d84033f6 ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Polygon Studio (64drive 1.12d Compatible V1.1)
+5e83ffcaa83d47639969c1176b822a3b ntsc|cic8303|cpak|rpak|tpak # Mario Artist - Polygon Studio T+Eng v2 LuigiBlood
+b4a720dfc6f6d5b9db7089f71ea7393b ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Talent Studio (64drive 1.12d Compatible V1.0)
+ba5b40df3dc3742583f4986e287e72ba ntsc|cic6102|cpak|rpak|tpak # Mario Artist - Talent Studio (64drive 1.12d Compatible V1.1)
+46946fcaf6b00839fa96bc5894d82f9d ntsc|cic8303|cpak|rpak|tpak # Mario Artist - Talent Studio T-Eng v2b LuigiBlood
+d93786dc42c8aee0e87c7edf5b13825d ntsc|cic5167|cpak|rpak|tpak # Mario Artist Paint Studio v2.1 LuigiBlood
+fc0567621d5780172471a9b51f06492e ntsc|cic5167|cpak|rpak|tpak # Mario Artist Polygon Studio v3 LuigiBlood
+cd4acef57f60c6df16b74019beebbbf4 ntsc|cic5167|cpak|rpak|tpak # Mario Artist Talent Studio v2.1 LuigiBlood
+4e2883582336704946a932d92b4d38ba ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Communication Kit
+1ec5a61fec93dafc8c778a892f673ec7 ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Paint Studio
+7a41ee5b1b66f65f097c3983aea4a8b5 ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Paint Studio
+92e5dad9ded5b0b5597b441e3deed824 ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Polygon Studio
+a91aa83cf0ad4d87a17bcf8c52b26e1e ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Talent Studio
+852e70eb7406909772b4b24ae8db228f ntsc|cic5167|cpak|rpak|tpak # Mario Artist: Talent Studio
 2507bde952edcff2d03d19507a609bb1 ntsc|cic6102|eeprom512 # Mario Choir by StupidMarioBros1Fan (SM64 Hack)
 776180883d42e7664aa1246752890d0f ntsc|cic6102|eeprom512 # Mario Christmas 64 (SM64 Hack)
-fb04e5e2954c3841d41ae19e9a30550c ntsc|cic6102|sram32k|rpak|tpak # Mario Golf
-c50aedf6130a128386166122dd725e29 pal|cic7101|sram32k|rpak|tpak # Mario Golf
-242ecdc0bbdacd2059312e7585430d4c pal|cic7101|sram32k|rpak|tpak # Mario Golf
-d27c150a041893941398acbac85156a2 ntsc|cic6102|sram32k|rpak|tpak # Mario Golf
-811a45cd17e24959e3b24b099c15d09e ntsc|cic6102|sram32k|rpak|tpak # Mario Golf
-01db8b0d7486672ff7acd115f2f75103 ntsc|cic6102|sram32k|rpak|tpak # Mario Golf
-1089e8550f6f6ddf3499e26963be0a56 ntsc|cic6102|rpak # Mario Golf (LodgeNet)
-3d00824a4e0ba77e3dc6efb496bbf8aa pal|cic7101|sram32k|rpak|tpak # Mario Golf (Z64-Save)
-b8f8f3224bbeb5f7f9166d6293835cc2 ntsc|cic6102|sram32k|rpak|tpak # Mario Golf (Z64-Save)
-298ff1b0c1a3cebbed39bde9ffc14b2a ntsc|cic6102|sram32k|rpak|tpak # Mario Golf 64
-4a747a9896d40ba087ee5e5ac2622539 ntsc|cic6102|sram32k|rpak|tpak # Mario Golf 64
-c28a3668beba36a01ff772d3b049378b ntsc|cic6102|sram32k|rpak|tpak # Mario Golf 64
+fb04e5e2954c3841d41ae19e9a30550c ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf
+c50aedf6130a128386166122dd725e29 pal|cic7101|sram32k|cpak|rpak|tpak # Mario Golf
+242ecdc0bbdacd2059312e7585430d4c pal|cic7101|sram32k|cpak|rpak|tpak # Mario Golf
+d27c150a041893941398acbac85156a2 ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf
+811a45cd17e24959e3b24b099c15d09e ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf
+01db8b0d7486672ff7acd115f2f75103 ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf
+1089e8550f6f6ddf3499e26963be0a56 ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf (LodgeNet)
+3d00824a4e0ba77e3dc6efb496bbf8aa pal|cic7101|sram32k|cpak|rpak|tpak # Mario Golf (Z64-Save)
+b8f8f3224bbeb5f7f9166d6293835cc2 ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf (Z64-Save)
+298ff1b0c1a3cebbed39bde9ffc14b2a ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf 64
+4a747a9896d40ba087ee5e5ac2622539 ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf 64
+c28a3668beba36a01ff772d3b049378b ntsc|cic6102|sram32k|cpak|rpak|tpak # Mario Golf 64
 df655155f02346c32aaef7634b4db2a7 ntsc|cic6102|eeprom512|cpak # Mario Kart 64
 920e0ff127056de091ddb79935cba195 pal|cic7101|eeprom512|cpak # Mario Kart 64
 1924ce05710c980dfa0e4da9e6bdd86a ntsc|cic6102|eeprom512|cpak # Mario Kart 64
@@ -1860,14 +1860,14 @@ d000565591e4bf48b726ba08638f98d4 ntsc|cic6105|eeprom2k|rpak # Mario Party 3
 1fad6d0717660e0015652e42e97744f5 ntsc|cic6106|eeprom2k|rpak # Mario Party 3
 c3abfe98f6f657bce28359f0fb346a3f ntsc|cic6102|eeprom512|rpak # Mario Party 3
 0f6519621cdf8a2d1522319117bd07f0 ntsc|cic6102|eeprom512|rpak # Mario Party 3 (Beta)
-151faddf433483158dc0146e1a709735 ntsc|cic6102|rpak # Mario Party 3 (LodgeNet)
+151faddf433483158dc0146e1a709735 ntsc|cic6102|eeprom2k|rpak # Mario Party 3 (LodgeNet)
 d23c7f5b37950c20e005b9f2915f1ff6 ntsc|cic6103|flash128k|rpak # Mario Story
-b88dda31177e7416fc7b5f45c431c46d ntsc|cic6102|eeprom2k|rpak|tpak # Mario Tennis
-f4bd0326cf8be19a9b585cb0062bd85c pal|cic7101|eeprom2k|rpak|tpak # Mario Tennis
-e2db991ad6e7339e4c2756d1868ffd57 ntsc|cic6102|rpak # Mario Tennis (LodgeNet)
-926c7c2e4f7fc4ae787726910a78cff9 ntsc|cic6102|eeprom2k|rpak|tpak # Mario Tennis (Save)
-56a4f669d278e913bde33fac57cf0a2f ntsc|cic6102|eeprom2k|rpak|tpak # Mario Tennis 64
-623a299d99982407818606eaa9b0dd89 ntsc|cic6102|eeprom2k|rpak|tpak # Mario Tennis 64 (Country Check)
+b88dda31177e7416fc7b5f45c431c46d ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Mario Tennis
+f4bd0326cf8be19a9b585cb0062bd85c pal|cic7101|eeprom2k|cpak|rpak|tpak # Mario Tennis
+e2db991ad6e7339e4c2756d1868ffd57 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Mario Tennis (LodgeNet)
+926c7c2e4f7fc4ae787726910a78cff9 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Mario Tennis (Save)
+56a4f669d278e913bde33fac57cf0a2f ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Mario Tennis 64
+623a299d99982407818606eaa9b0dd89 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Mario Tennis 64 (Country Check)
 dd7e23708ea7927754c80e0f719d3cf0 ntsc|cic6102|eeprom512 # Mario vs. Bowser (SM64 Hack)
 c367dba2cc678138896530689ae25e25 ntsc|cic6102|eeprom512 # Mario's Future (Demo) (SM64 Hack)
 693aa5b2e5dee22331e0759742422290 ntsc|cic6102|eeprom512 # Mario's Lonely Holidays 64 (SM64 Hack)
@@ -1897,16 +1897,16 @@ b6e5dbe0e762c9d407690ad138e999f2 ntsc|cic6102|cpak|rpak # Mia Hamm Soccer 64
 f72312d676ca1543db1e801aaf702c90 pal|cic7101|cpak|rpak # Michael Owens WLS 2000
 714c196501cf0fce73af0689170cf44b pal|cic7101|cpak|rpak # Michael Owens WLS 2000
 b1ac7470d1bdfa58a3e7d9b437cc4519 ntsc|cic6105|eeprom512|rpak|tpak # Mickey no Racing Challenge USA
-07fd6a00073aa347a5b57ec385f9d7d0 ntsc|cic6105|eeprom512|rpak|tpak # Mickey's Speedway USA
-915a1a5bf14ff9eeebcff1802498c946 pal|cic7105|eeprom512|rpak|tpak # Mickey's Speedway USA
-e8b5a6c3be8db6f777a5213aa5e020f3 ntsc|cic6102|eeprom512|rpak|tpak # Mickey's Speedway USA
-e33a15ed284780e3fdb8460be09ff22f ntsc|cic6105|eeprom512|rpak|tpak # Mickey's Speedway USA (Debug Info Showing by mezmorizen64)
+07fd6a00073aa347a5b57ec385f9d7d0 ntsc|cic6105|eeprom512|cpak|rpak|tpak # Mickey's Speedway USA
+915a1a5bf14ff9eeebcff1802498c946 pal|cic7105|eeprom512|cpak|rpak|tpak # Mickey's Speedway USA
+e8b5a6c3be8db6f777a5213aa5e020f3 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Mickey's Speedway USA
+e33a15ed284780e3fdb8460be09ff22f ntsc|cic6105|eeprom512|cpak|rpak|tpak # Mickey's Speedway USA (Debug Info Showing by mezmorizen64)
 442f58063e0c2b384aa37e8b549a38b3 ntsc|cic6102|cpak|rpak # Micro Machines 64 Turbo
 1b8155cf2df7c48ccb533ac0e7c02030 pal|cic7101|cpak|rpak # Micro Machines 64 Turbo
 9e49eb92a7cd3cff482ac667c4b1b6bb pal|cic7101|cpak|rpak # Micro Machines 64 Turbo
 9fb9f2ca197790e2eda3a7cdb643476d pal|cic7101|cpak|rpak # Micro Machines 64 Turbo
 33200acda7e0d56c7e429ea9ec323b69 ntsc|cic6102|cpak|rpak # Micro Machines 64 Turbo
-9ef25511a54efbf68f2e9a89160f2fb2 ntsc|cic6102 # Midway's Greatest Arcade Hits - Volume 1 (LodgeNet)
+9ef25511a54efbf68f2e9a89160f2fb2 ntsc|cic6102|cpak # Midway's Greatest Arcade Hits - Volume 1 (LodgeNet)
 1ddded2d4e603acf21eca340083547fc ntsc|cic6102|cpak # Midway's Greatest Arcade Hits Volume 1
 69d761a3a095d4ff8265b0b189de7ee9 ntsc|cic6102|cpak # Midway's Greatest Arcade Hits Volume 1
 d4d446504bb8f3bef41605325e1f265d ntsc|cic6102|cpak|rpak # Mike Piazza's Strike Zone
@@ -1969,7 +1969,7 @@ fee9b6d0b58012a64a1600cea660387d ntsc|cic6102|cpak|rpak # Mortal Kombat 4
 58732cd6cbb0e67d0cc8bf6aa5719724 ntsc|cic6102|cpak|rpak # Mortal Kombat 4
 088c8a2c1dedd7582a5b61c01dac19bc pal|cic7101|cpak|rpak # Mortal Kombat 4 (Hit Anywhere)
 e23ffa56c4d829de85c89c2b2fb2c3c3 ntsc|cic6102|cpak|rpak # Mortal Kombat 4 (Hit Anywhere)
-2e830c4514ce5af54aa37544ee0b81a4 ntsc|cic6102|rpak # Mortal Kombat 4 (LodgeNet)
+2e830c4514ce5af54aa37544ee0b81a4 ntsc|cic6102|cpak|rpak # Mortal Kombat 4 (LodgeNet)
 9d1ba05ff91de759287ac0459c1d5057 ntsc|cic6102|cpak|rpak # Mortal Kombat Mythologies - Sub-Zero
 d6ced9d0526cb8491decaabe4c3a3f46 pal|cic7101|cpak|rpak # Mortal Kombat Mythologies - Sub-Zero
 4079d0a199f39fd83a9f1626b4d94698 pal|cic7101|cpak|rpak # Mortal Kombat Mythologies - Sub-Zero
@@ -2038,7 +2038,7 @@ d41beeb1931c1669d6a8f41ebdac0a62 ntsc|cic6102 # N64 Stars Demo
 1d161b2748f3b4eeaec4554bab0dff13 ntsc|cic6102 # N64 Stars Demo
 ea269ef7dd03e210a5ba3ffd83a62850 ntsc|cic6102 # N64 Test Demo by xdaniel
 7f757661ef3b8fe042c33fc8c9a85d2b ntsc|cic6102 # N64 Tristar BIOS
-207fdbd1d5b3990a8fe741e1e9e67d84 ntsc|cic6102|cpak|rpak|tpak # N64DD IPLROM
+207fdbd1d5b3990a8fe741e1e9e67d84 ntsc|cic6102|cpak|rpak # N64DD IPLROM
 afec3035542c724e61b6ca2eb9ea07e4 ntsc|cic6102 # N64DD IPLROM (Devkit Version)
 d34ad3c8b0eecc8a571da1535c3fccb6 ntsc|cic6102 # N64NICCC
 50d000c98f901f5ad88f80619e965ac4 ntsc|cic6102 # N64prev Quick Previewer by Nintendo
@@ -2098,34 +2098,15 @@ f151caeba8006e2b088d9170f7f218de pal|cic7101|cpak|rpak # NBA Live 99
 b55f20ad703f03dd2e1390b9a06e870e ntsc|cic6102|cpak # NBA Showtime - NBA on NBC
 ddced60f724761fd14b9d13ea9275ec5 ntsc|cic6102|cpak # NBA Showtime - NBA on NBC
 90f997025e98821647095ee021b92412 ntsc|cic6102|cpak # NBA Showtime - NBA on NBC (Country Check)
-b7f080eeafc6a6b6fc17e9805644ee72 ntsc|cic6102 # NBC First Intro by CALi
+b7f080eeafc6a6b6fc17e9805644ee72 ntsc|cic6102|eeprom512 # NBC First Intro by CALi
 74d90aa10197ac6ba38315b87f560381 ntsc|cic6102 # NBC-LFC Kings of Porn Vol 01
 bc5a708964fd302b6f327eada10c80c6 ntsc|cic6102 # NBC-LFC Kings of Porn Vol 01
 be67e3c346e71b63a8544b91e9f026a5 ntsc|cic6102 # NBCG Special Edition
 f7c8f881b566e0da1a0616fa38e80708 ntsc|cic6102 # NBCG's Kings of Porn Demo
 5f01541f80cb97ad1e827f072b63bad7 ntsc|cic6102 # NBCG's Tag Gallery 01 by CALi
-7eadd06f5663dadfd44fb5dfc40a1268 ntsc|cic6102 # NBCrew 2 Demo
-2ece451a1250fcfa54eca3e042ca2338 ntsc|cic6102|cpak|rpak|tpak # NDDT Monitor v1
+7eadd06f5663dadfd44fb5dfc40a1268 ntsc|cic6102|eeprom512 # NBCrew 2 Demo
+2ece451a1250fcfa54eca3e042ca2338 ntsc|cic6102|cpak|rpak # NDDT Monitor v1
 88fc4de8168d5dd2989cdd551342d207 ntsc|cic6102 # NEO Myth N64 Menu Demo V0.1
-0dfe959e9649660ef93f1f840acf1372 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V1.0-rc3)
-89cbb0a40813a342b3ef35da4a7fd133 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1)
-f98e18cab2856b552b1e05868b1d7ed2 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1MF)
-ab5f58ea64e05afaa44aa1d639ed3bf5 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1MF_PAL)
-4e99a0a16abfd3d7c51c50abd189f800 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1SD)
-a51cf7ad96ea74c30235a554da446868 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1SD_PAL)
-060ed1d49b58123036a84aa5075e2964 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1_PAL)
-c41773149d541c49a44b526bb727a37c ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2)
-c01b9b7571fd0f92088911d70b51ff41 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2MF)
-2dde6db806b608fd8cfd3fd69d3f61e4 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2SD)
-241181eb5b9635dfc1f85275ccd57138 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3)
-c472470750f3bef54cb1f9e487146fae ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3MF)
-8572cfe1581b6120569dcaf886e2a2e0 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3SD)
-b3dc9f49ef698ca6b252e5919c233c0b ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1)
-47b295f6bd82deae6003602622f82263 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1MF)
-c6940f5431e0ded0bd4f039c206b3a0b pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1MF_PAL)
-3569c471eff0145c0921f6bdc74a418c ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1SD)
-eb457710be6d446736fb8936a19e30a1 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1SD_PAL)
-155dbb28f7d746aefc3f2b0501d4b72b pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1_PAL)
 95201bfe05fd51d92ef4029be76f90ea ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy
 8c5306d77a1cacde6e31563aaa944d7b ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy
 f049e4059d5ba6377195db87b6562554 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy
@@ -2174,6 +2155,25 @@ e4bef767990c93d9dc4aeced9faca004 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Will
 e978a73eb00a73e049d2ce80fcb37ea5 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy
 f7784aa66b695d06441d4fcef94931fa ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy
 d99654a14bbc65b28f7768bcf8b78a97 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy
+0dfe959e9649660ef93f1f840acf1372 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V1.0-rc3)
+89cbb0a40813a342b3ef35da4a7fd133 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1)
+f98e18cab2856b552b1e05868b1d7ed2 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1MF)
+ab5f58ea64e05afaa44aa1d639ed3bf5 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1MF_PAL)
+4e99a0a16abfd3d7c51c50abd189f800 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.0b1SD)
+a51cf7ad96ea74c30235a554da446868 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1SD_PAL)
+060ed1d49b58123036a84aa5075e2964 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.0b1_PAL)
+c41773149d541c49a44b526bb727a37c ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2)
+c01b9b7571fd0f92088911d70b51ff41 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2MF)
+2dde6db806b608fd8cfd3fd69d3f61e4 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b2SD)
+241181eb5b9635dfc1f85275ccd57138 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3)
+c472470750f3bef54cb1f9e487146fae ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3MF)
+8572cfe1581b6120569dcaf886e2a2e0 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.3b3SD)
+b3dc9f49ef698ca6b252e5919c233c0b ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1)
+47b295f6bd82deae6003602622f82263 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1MF)
+c6940f5431e0ded0bd4f039c206b3a0b pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1MF_PAL)
+3569c471eff0145c0921f6bdc74a418c ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V2.4b1SD)
+eb457710be6d446736fb8936a19e30a1 pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1SD_PAL)
+155dbb28f7d746aefc3f2b0501d4b72b pal|cic7101 # Neo N64 Myth Menu by Chilly Willy (V2.4b1_PAL)
 945039a4380c8118b4f9615dab712f78 ntsc|cic6102|eeprom2k|rpak # Neon Genesis Evangelion
 9659ed0a63c33ea9aa99225db7cc767a ntsc|cic6102|eeprom2k|rpak # Neon Genesis Evangelion
 94dded2ecd9129aea3a9222f320c229d ntsc|cic6102 # NeoN64 by Halley's Comet Software (V1.2a)
@@ -2205,7 +2205,7 @@ d8224e37f9bcb5effa3be46765bde764 ntsc|cic6102|sram32k|cpak # New Tetris, The
 c341bf6f4c8fbcae1c777b3a73bc1263 ntsc|cic6102|sram32k|cpak # New Tetris, The
 59592dbcd1ccf80f8f92fd78a5bc5992 ntsc|cic6102|sram32k|cpak # New Tetris, The
 3abbb52d8debe1b579a2737baf3e5199 ntsc|cic6102|sram32k|cpak # New Tetris, The
-e61d0483e273300ad2123d1ff36215ad ntsc|cic6102 # New Tetris, The (LodgeNet)
+e61d0483e273300ad2123d1ff36215ad ntsc|cic6102|sram32k|cpak # New Tetris, The (LodgeNet)
 f1bcbfe26e8f51fda0135bce64831341 ntsc|cic6102|cpak|rpak # NFL Blitz
 d065aa1788445afb5c7b93d2c11b2f0b ntsc|cic6102|cpak|rpak # NFL Blitz
 cbe21dc90a0c8c2c767a49dbbcc4d719 ntsc|cic6102|cpak|rpak # NFL Blitz - Special Edition
@@ -2243,8 +2243,8 @@ dbcd8cef507bf14cb32eea70f8d6b8b9 ntsc|cic6102|cpak|rpak # Nightmare Creatures
 b88e8a3b000d4b75dcca1147d74ec366 ntsc|cic6102 # Nintama Rantarou 64 Game Gallery
 38954d39901cd1ff64128d54aac1df46 ntsc|cic6102 # Nintama Rantarou 64 Game Gallery T+Eng v1.0 Zoinkity
 11d341680d025338eac636f5727429e4 ntsc|cic6102 # Nintendo 64 Modem (Japan) (Add-on)
-120134d4066a6828ab628f42cf373b59 ntsc|cic6102|cpak|rpak|tpak # Nintendo 64DD IPL (Japan) (v1.0) (Beta)
-c9eb0cc708d102f0fa39a4c2526221ff ntsc|cic6102|cpak|rpak|tpak # Nintendo 64DD IPL (Japan) (v1.1) (Beta)
+120134d4066a6828ab628f42cf373b59 ntsc|cic6102|cpak|rpak # Nintendo 64DD IPL (Japan) (v1.0) (Beta)
+c9eb0cc708d102f0fa39a4c2526221ff ntsc|cic6102|cpak|rpak # Nintendo 64DD IPL (Japan) (v1.1) (Beta)
 739f5426873487d0669a3515bc2957f2 ntsc|cic8401 # Nintendo 64DD Tool IPL (Japan) (Beta)
 e773dd737ddde910dae0165ac4002fb8 ntsc|cic6103|sram32k|rpak # Nintendo All-Star! Dairantou Smash Brothers
 cf3c09a93b56ec521ad5f16448d071a8 ntsc|cic6102|sram32k|rpak # Nintendo All-Star! Dairantou Smash Brothers
@@ -2268,11 +2268,11 @@ cc3ec0bcc3c52b2876ec18ff2a95acda pal|cic7101|cpak|rpak # Nuclear Strike 64 (Germ
 88f1560ac6b17816ba48ec5e96b976d1 ntsc|cic6102 # NuFan Demo by Kid Stardust
 816822416b295b86c538cfaf023fa106 ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64
 3ddb53d5f13b24b1f7edbb0a7ce0622b ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64
-5c6f7f27f5c6e833c03d3d587f3f4c12 ntsc|cic6102|cpak|rpak|tpak # Nushi Tsuri 64
-177afc935c173aa79f7a38bd3e07c60b ntsc|cic6102|cpak|rpak|tpak # Nushi Tsuri 64
-780c3024989d207af33d62633b0db9e3 ntsc|cic6102|cpak|rpak|tpak # Nushi Tsuri 64
-0cbbf1bc0bf51f099e6f924e75a60d5b ntsc|cic6102|sram32k|rpak|tpak # Nushi Tsuri 64 - Shiokaze ni Notte
-46f8e6d62435f76a92ce78a17caabef1 ntsc|cic6102|rpak|tpak # Nushi Tsuri 64 - Shiokaze ni Notte
+5c6f7f27f5c6e833c03d3d587f3f4c12 ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64
+177afc935c173aa79f7a38bd3e07c60b ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64
+780c3024989d207af33d62633b0db9e3 ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64
+0cbbf1bc0bf51f099e6f924e75a60d5b ntsc|cic6102|sram32k|cpak|rpak|tpak # Nushi Tsuri 64 - Shiokaze ni Notte
+46f8e6d62435f76a92ce78a17caabef1 ntsc|cic6102|cpak|rpak|tpak # Nushi Tsuri 64 - Shiokaze ni Notte
 8e4ec78049b85ac27e336965d4cda771 ntsc|cic6102 # NUTS - Nintendo Ultra64 Test Suite by MooglyGuy
 a86e81bd1292338d4eb8821c3fac5fde pal|cic7101|cpak|rpak # O.D.T.
 2889360dbc4e3454de13186ba4bc77d8 ntsc|cic6102|cpak|rpak # O.D.T.
@@ -2301,7 +2301,7 @@ b12c94926932e816dd4b7c109d9531b5 ntsc|cic6103|flash128k|rpak # Paper Mario
 99e2137d502cda0a8da1f64e0861bee5 ntsc|cic6103|flash128k|rpak # Paper Mario
 d7140464df7790fe81d8a460158ef946 ntsc|cic6102|flash128k|rpak # Paper Mario (Ch) (iQue)
 a189f2bf328fa2f90ae10f58413e9fbf pal|cic7103|flash128k|rpak # Paper Mario (Europe) (En,Fr,De,Es)
-f9762aa940c306e8468ca7a03a5c8ae1 ntsc|cic6103|rpak # Paper Mario (LodgeNet)
+f9762aa940c306e8468ca7a03a5c8ae1 ntsc|cic6103|flash128k|rpak # Paper Mario (LodgeNet)
 7499ef33f93643a5ea44e54a0c8c5194 ntsc|cic6102|cpak|rpak # Paperboy
 9081c1053f3d3c29e539be244611e0d5 pal|cic7101|cpak|rpak # Paperboy
 984cf13b79a934fb66873f777d7da7f9 ntsc|cic6102|cpak|rpak # Paperboy
@@ -2312,9 +2312,9 @@ f0666473fe53962b825626f95ea43308 ntsc|cic6102|cpak|rpak # Paperboy
 58b554fd6ab4f381967963ff024cc977 ntsc|cic6102 # Pause Demo by RedboX
 c89c42c62132fdcdc8441c063fc9d3b0 ntsc|cic6102 # PC-Engine 64
 900d97d2ed8508f9b05f4960528ee550 ntsc|cic6102 # PC-Engine 64
-0c80805dba7fe7c38923949f0e3a00ef ntsc|cic6102|eeprom2k|cpak|tpak # PD Ultraman Battle Collection 64
-7c166a89462d3b0edaf6d3ffbad6fc4f ntsc|cic6102|eeprom2k|cpak|tpak # PD Ultraman Battle Collection 64
-935761bbaed5642000d3e572232fd1e1 ntsc|cic6102|eeprom2k|cpak|tpak # PD Ultraman Battle Collection 64
+0c80805dba7fe7c38923949f0e3a00ef ntsc|cic6102|eeprom2k|cpak|rpak|tpak # PD Ultraman Battle Collection 64
+7c166a89462d3b0edaf6d3ffbad6fc4f ntsc|cic6102|eeprom2k|cpak|rpak|tpak # PD Ultraman Battle Collection 64
+935761bbaed5642000d3e572232fd1e1 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # PD Ultraman Battle Collection 64
 afb9f9583a7f66df1f3c22a19efaf4cf ntsc|cic6102|eeprom512 # Peach's Christmas Invitation by Kaze Emanuar (SM64 Hack)
 3ef7e0f8ae53f37b1ef380729b0fadec ntsc|cic6102|eeprom512|cpak # Penny Racers
 bb4e9a60bb87415ea2aa3bf10454f75b pal|cic7101|eeprom512|cpak # Penny Racers
@@ -2399,7 +2399,7 @@ fe68d6fe6e752ded40ce03b262b1724d ntsc|cic6102|eeprom512 # Pilotwings 64
 81c5785f3b52ab9df69d0358290f6e40 pal|cic7101|eeprom512 # Pilotwings 64
 2619bb9f19dff59116be7b31ff5bb529 ntsc|cic6102|eeprom512 # Pilotwings 64
 9ff3462eb1c96a762927cde3411dd48c ntsc|cic6102|eeprom512 # Pilotwings 64
-e5f60b6e0ad4dc5df0cd391c0ae48ed2 ntsc|cic6102 # Pilotwings 64 (LodgeNet)
+e5f60b6e0ad4dc5df0cd391c0ae48ed2 ntsc|cic6102|eeprom512 # Pilotwings 64 (LodgeNet)
 9418ff7aff1d6a238cfc9bc871aebf46 ntsc|cic6102 # Pip's Pong by Mr. Pips
 6ab5cbf031be21422549305f8b5ef05b ntsc|cic6102 # Pip's Porn Pack 1 by Mr. Pips
 145066b4423a4859072633d09aa4b728 ntsc|cic6102 # Pip's Porn Pack 2 by Mr. Pips
@@ -2421,19 +2421,19 @@ e176bcab16a8ee08031c471786c6cbc3 ntsc|cic6102 # Pip's World Game 2 by Mr. Pips
 7f75e7acdb70e625a7934a609188ba92 ntsc|cic6102 # Pipendo by Mr. Pips
 a0a9aa058d92133fbd645fd5b66166f5 ntsc|cic6102 # Planet Console Intro
 2dc0a8fff7404c5dca8e52167a1a340c ntsc|cic6102 # Planet Console Intro
-e3022c72f687af3ae7d11c9e8f800596 ntsc|cic6102 # Plasma Demo
+e3022c72f687af3ae7d11c9e8f800596 ntsc|cic6102|eeprom512 # Plasma Demo
 bfa6156c49c71794363627316697b33c ntsc|cic6102 # Plasma Demo
 44a088715994f9dc902620d64c4c7995 ntsc|cic6103|flash128k # Pocket Monsters Snap
 49b1d827b19d337bdff3ec84d0ff38b0 ntsc|cic6103|flash128k # Pocket Monsters Snap
 bcb7fd952663de141a4c0f92f47eae09 ntsc|cic6102|flash128k # Pocket Monsters Snap
 5b02e719b7e25f01d582163990d930d7 ntsc|cic6102|flash128k # Pocket Monsters Snap (GameShark)
-9af0e6e2d57b75dc6737a42e8d859f9f ntsc|cic6103|sram32k|tpak # Pocket Monsters Stadium
-16eaa8e286196da7ca1e74519826478b ntsc|cic6102|sram32k|tpak # Pocket Monsters Stadium
-960c918380b920af5da0b251e5a96173 ntsc|cic6102|sram32k|tpak # Pocket Monsters Stadium (Boot)
-876e420937100ada29e24a1ba14e7ef9 ntsc|cic6103|flash128k|tpak # Pocket Monsters Stadium 2
-77ea7af2c29867691a92559230b2503e ntsc|cic6102|flash128k|tpak # Pocket Monsters Stadium 2
-3cf70b62c41bead5d284e09729cee17f ntsc|cic6102|flash128k|tpak # Pocket Monsters Stadium 2
-d7843adf341a278c3498252888f028bc ntsc|cic6103|flash128k|tpak # Pocket Monsters Stadium Kin Gin
+9af0e6e2d57b75dc6737a42e8d859f9f ntsc|cic6103|sram32k|cpak|rpak|tpak # Pocket Monsters Stadium
+16eaa8e286196da7ca1e74519826478b ntsc|cic6102|sram32k|cpak|rpak|tpak # Pocket Monsters Stadium
+960c918380b920af5da0b251e5a96173 ntsc|cic6102|sram32k|cpak|rpak|tpak # Pocket Monsters Stadium (Boot)
+876e420937100ada29e24a1ba14e7ef9 ntsc|cic6103|flash128k|cpak|rpak|tpak # Pocket Monsters Stadium 2
+77ea7af2c29867691a92559230b2503e ntsc|cic6102|flash128k|cpak|rpak|tpak # Pocket Monsters Stadium 2
+3cf70b62c41bead5d284e09729cee17f ntsc|cic6102|flash128k|cpak|rpak|tpak # Pocket Monsters Stadium 2
+d7843adf341a278c3498252888f028bc ntsc|cic6103|flash128k|cpak|rpak|tpak # Pocket Monsters Stadium Kin Gin
 0580d092411d93768165fc9b11de1825 ntsc|cic6102|flash128k # Pokemon Puzzle League
 7f3f94806a0659571b341c4fac61c375 pal|cic7101|flash128k # Pokemon Puzzle League
 0bc0baf1763c3ecafae27bd29b9b6a93 pal|cic7101|flash128k # Pokemon Puzzle League
@@ -2450,33 +2450,33 @@ fb328e85d19fe2bb7356b894300b6adf pal|cic7103|flash128k # Pokemon Snap
 fabd0aff44678565fbdf51a47865a65d pal|cic7101|flash128k # Pokemon Snap (GameShark)
 68a7b61e975b05d2087edc794e564588 ntsc|cic6102|flash128k # Pokemon Snap (GameShark)
 f055591f3aaf3b33b6543b840a469e12 pal|cic7103|flash128k # Pokemon Snap (Italy)
-1b1469b4a0a7b3335eceb922afab4ee3 ntsc|cic6103 # Pokemon Snap (LodgeNet)
+1b1469b4a0a7b3335eceb922afab4ee3 ntsc|cic6103|flash128k # Pokemon Snap (LodgeNet)
 eb85c743d6d493cd33b989eeee1d8c37 ntsc|cic6102|flash128k # Pokemon Snap (Save)
 a49cfa649f3256c2d5a24116ea8cab2d ntsc|cic6102|flash128k # Pokemon Snap (Save-PAL)
 ce4fe6b3e417a4ac44ceb2bc1da34134 ntsc|cic6103|flash128k # Pokemon Snap Station
 448ace87e5031355b49396d409a2d124 ntsc|cic6102|flash128k # Pokemon Snap Station
-a3ba6e7fec8007f6d8ea8f6c149e2991 ntsc|cic6103|flash128k|tpak # Pokemon Stadium
-ee1ea398024c438b2c0c697c52743f3e pal|cic7103|flash128k|tpak # Pokemon Stadium
-309dd1e3e15eb05db3dbaf8f7526989e pal|cic7103|flash128k|tpak # Pokemon Stadium
-66bfe148957e166076b1e95bdf666368 pal|cic7103|flash128k|tpak # Pokemon Stadium
-91fd5e9cd7df26c807d9483d3ecd940e pal|cic7103|flash128k|tpak # Pokemon Stadium
-39e77b8f14c199278ef6244fd6c814fd pal|cic7103|flash128k|tpak # Pokemon Stadium
-c46f3ea6516798a35f6a88d0c8c0b313 pal|cic7103|flash128k|tpak # Pokemon Stadium
-2324e443494509c30e2bc7b36aae721b ntsc|cic6103|flash128k|tpak # Pokemon Stadium
-6dacf78830612a742613b7eb936155db ntsc|cic6103|flash128k|tpak # Pokemon Stadium
-358a19e0f67b755eeaf33d0392ff091c pal|cic7101|flash128k|tpak # Pokemon Stadium
-e26c7b415586e34e43cdc6eb94637fac pal|cic7101|flash128k|tpak # Pokemon Stadium
-c8f73183fc2fbc2f70aa004057a6cfa4 pal|cic7101|flash128k|tpak # Pokemon Stadium
-08a176ef48cfaaa80c2b5d44bc41bae7 pal|cic7101|flash128k|tpak # Pokemon Stadium
-c8579d7acb651c407d25278405097634 ntsc|cic6102|flash128k|tpak # Pokemon Stadium
-1c55bb2aedbe1496bc62137d2805bba8 ntsc|cic6102|flash128k|tpak # Pokemon Stadium
-e4c527f2131538dc6fa001ac4f660ea3 ntsc|cic6103|flash128k|tpak # Pokemon Stadium 2
-f6e1d14820722a2e4b19abd75bd36915 pal|cic7103|flash128k|tpak # Pokemon Stadium 2
-6daea8ac733aa25786258e59c66cc41f pal|cic7103|flash128k|tpak # Pokemon Stadium 2
-a520487710f03b07ec5198012e999e17 pal|cic7103|flash128k|tpak # Pokemon Stadium 2
-84c36c736cd4174efff4dcb00675367c pal|cic7103|flash128k|tpak # Pokemon Stadium 2
-75f8863ec9fe67ada62e5eef4cb464c7 pal|cic7103|flash128k|tpak # Pokemon Stadium 2
-549df30e85f949c101fe96b980338636 ntsc|cic6103|flash128k|tpak # Pokemon Stadium Kaizo (Hack) v1 SinisterHoodedFigure
+a3ba6e7fec8007f6d8ea8f6c149e2991 ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+ee1ea398024c438b2c0c697c52743f3e pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+309dd1e3e15eb05db3dbaf8f7526989e pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+66bfe148957e166076b1e95bdf666368 pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+91fd5e9cd7df26c807d9483d3ecd940e pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+39e77b8f14c199278ef6244fd6c814fd pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+c46f3ea6516798a35f6a88d0c8c0b313 pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+2324e443494509c30e2bc7b36aae721b ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+6dacf78830612a742613b7eb936155db ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium
+358a19e0f67b755eeaf33d0392ff091c pal|cic7101|flash128k|cpak|rpak|tpak # Pokemon Stadium
+e26c7b415586e34e43cdc6eb94637fac pal|cic7101|flash128k|cpak|rpak|tpak # Pokemon Stadium
+c8f73183fc2fbc2f70aa004057a6cfa4 pal|cic7101|flash128k|cpak|rpak|tpak # Pokemon Stadium
+08a176ef48cfaaa80c2b5d44bc41bae7 pal|cic7101|flash128k|cpak|rpak|tpak # Pokemon Stadium
+c8579d7acb651c407d25278405097634 ntsc|cic6102|flash128k|cpak|rpak|tpak # Pokemon Stadium
+1c55bb2aedbe1496bc62137d2805bba8 ntsc|cic6102|flash128k|cpak|rpak|tpak # Pokemon Stadium
+e4c527f2131538dc6fa001ac4f660ea3 ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+f6e1d14820722a2e4b19abd75bd36915 pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+6daea8ac733aa25786258e59c66cc41f pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+a520487710f03b07ec5198012e999e17 pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+84c36c736cd4174efff4dcb00675367c pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+75f8863ec9fe67ada62e5eef4cb464c7 pal|cic7103|flash128k|cpak|rpak|tpak # Pokemon Stadium 2
+549df30e85f949c101fe96b980338636 ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium Kaizo (Hack) v1 SinisterHoodedFigure
 cace7407236b247be27e4c4e467c3929 ntsc|cic6102|cpak|rpak # Polaris SnoCross
 90075222f9e509de1266f94d4c29b034 ntsc|cic6102|cpak|rpak # Polaris SnoCross
 1ea99f89f0b58c71ffc49d79f9e4df10 ntsc|cic6102 # Pom '99 Hackers Against Rap & Disco
@@ -2510,7 +2510,7 @@ f3c2045019ec86c95a042bee75383fac ntsc|cic6102|cpak # Pro Mahjong Kiwame 64
 4e0a43543a8224989fd3b4aae19f02fd ntsc|cic6102|cpak # Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen
 50861086809fcbe0ebb6bb7baf641258 ntsc|cic6102 # Psychodelic Demo by Ste
 c81e605eb73f412272d27bff9bf8e622 ntsc|cic6102 # Psychodelic Demo by Ste
-f287dca0c0b01a3f03c3aeacd31faea1 ntsc|cic6102|eeprom512|rpak|tpak # Puyo Puyo 4 - Puyo Puyo Party
+f287dca0c0b01a3f03c3aeacd31faea1 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Puyo Puyo 4 - Puyo Puyo Party
 c52514e687e1e130357b9f47f91caa0e ntsc|cic6102|eeprom512|rpak # Puyo Puyo Sun 64
 759934eeb21987d29bc462f721b8cd55 ntsc|cic5167|rpak # Puyo Puyo Sun 64
 17bb18d528e868105b5d99db30bc379b ntsc|cic6102|cpak|rpak # Puzzle Bobble 64
@@ -2561,7 +2561,7 @@ f42bc7b9290e3ebc7c0378a52380ec21 ntsc|cic6102|cpak|rpak # Rampage 2 - Universal 
 f0e4080f89633f49d147077a3cd84f64 pal|cic7101|cpak|rpak # Rampage 2 - Universal Tour
 c269a29a4e517558f2c486cd015f0aa3 ntsc|cic6102|cpak|rpak # Rampage 2 - Universal Tour
 9d0f01dc3c2bff4fca13a6c213dbe1b3 ntsc|cic6102|cpak|rpak # Rampage 2 - Universal Tour
-fbb0c5525afb6c2dda0a93792b81c78c ntsc|cic6102|rpak # Rampage 2 - Universal Tour (LodgeNet)
+fbb0c5525afb6c2dda0a93792b81c78c ntsc|cic6102|cpak|rpak # Rampage 2 - Universal Tour (LodgeNet)
 140dcd906d966195bf7956fce59ed11d ntsc|cic6102 # Rape Kombat Trilogy Beta1 (Mortal Kombat Hack)
 333c93635a67cecda88400f99644fb82 ntsc|cic6102|cpak # Rat Attack
 2caccb2acc6e9ef2734ef633961676a6 pal|cic7101|cpak # Rat Attack
@@ -2585,7 +2585,7 @@ e40fae10f7d5716c75e9884b5a28a0ed ntsc|cic6102|cpak|rpak # Re-Volt
 977c19010576be7e5eeb0a9f4ecbbd20 ntsc|cic6102|cpak|rpak # Ready 2 Rumble Boxing
 4ac5a2e06ab76ce0e665cdd9d640f340 pal|cic7101|cpak|rpak # Ready 2 Rumble Boxing
 d683e3fc2e6869ea0b40fcb98a0166ba ntsc|cic6102|cpak|rpak # Ready 2 Rumble Boxing
-eacc1f51fb5030680a87712a4c52a2e5 ntsc|cic6102|rpak # Ready 2 Rumble Boxing (LodgeNet)
+eacc1f51fb5030680a87712a4c52a2e5 ntsc|cic6102|cpak|rpak # Ready 2 Rumble Boxing (LodgeNet)
 437bc9de3ad44dd5c0f6a5837865c609 pal|cic7101|cpak|rpak # Ready 2 Rumble Boxing (P1 Untouchable)
 0af431711047f06765ddec81a8527e75 ntsc|cic6102|cpak|rpak # Ready 2 Rumble Boxing (P1 Untouchable)
 b77a7945a090c581e7aeae7576b044d9 ntsc|cic6102|cpak|rpak # Ready 2 Rumble Boxing - Round 2
@@ -2608,10 +2608,10 @@ a713a3c0807e436ec51ae62bbc3f7060 ntsc|cic6102|cpak|rpak # Road Rash 64 (Beta 2)
 0b97abbc70f8ae980384497f4ab1f79b pal|cic7101|cpak|rpak # Roadsters Trophy
 53ce027a931c8ea41b833b2705398190 ntsc|cic6102|cpak|rpak # Roadsters Trophy
 14502e19245a919febc045f5194e1549 ntsc|cic6102|cpak|rpak # Roadsters Trophy
-6bad98db75fe5b01a7b8c3c03c0afd46 ntsc|cic6102|eeprom2k|tpak # Robot Ponkotsu 64 - 7tsu no Umi no Caramel
-23b2854f7e0af8e1f6915e44a168dde7 ntsc|cic6102|eeprom2k|tpak # Robot Ponkottsu 64 - 7tsu no Umi no Caramel
+6bad98db75fe5b01a7b8c3c03c0afd46 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Robot Ponkotsu 64 - 7tsu no Umi no Caramel
+23b2854f7e0af8e1f6915e44a168dde7 ntsc|cic6102|eeprom2k|cpak|rpak|tpak # Robot Ponkottsu 64 - 7tsu no Umi no Caramel
 ce90b4bf03613fef5830b0516f27b0c7 ntsc|cic6102 # Robotech - Crystal Dreams (Beta)
-6b56dd907e6c23607662e45f80571f3c ntsc|cic6102 # Robotech - Crystal Dreams (Beta) (Customize Menu by Zoinkity)
+6b56dd907e6c23607662e45f80571f3c ntsc|cic6102|cpak # Robotech - Crystal Dreams (Beta) (Customize Menu by Zoinkity)
 2a687f794fe5dbb5c1ee2230d4c09260 ntsc|cic6102 # Robotech - Crystal Dreams (Proto 1)
 350c654fcb011edccd7b70df73007bb5 ntsc|cic6102|cpak # Robotron 64
 c35f94d6f871ec82fc705487e6bb9be9 pal|cic7101|cpak # Robotron 64
@@ -2651,7 +2651,7 @@ f0737a2682d5f3ee75c10d8d76e2184e ntsc|cic6102|cpak # Rugrats in Paris - The Movi
 eed9684279b28617f653407e1207cc85 pal|cic7101|cpak|rpak # Rush 2 - Extreme Racing USA
 c6cfa22e8213bb90ae69754777d245f1 pal|cic7101|cpak|rpak # Rush 2 - Extreme Racing USA
 3a7dbb2def5de3726d846f46b7703208 pal|cic7101|cpak|rpak # Rush 2 - Extreme Racing USA
-a0b1c1e1567a6e34c8586164312dd275 ntsc|cic6102|rpak # Rush 2 - Extreme Racing USA (LodgeNet)
+a0b1c1e1567a6e34c8586164312dd275 ntsc|cic6102|cpak|rpak # Rush 2 - Extreme Racing USA (LodgeNet)
 f72e092a479c35dbc469b23deeadab5c ntsc|cic6102|cpak|rpak # S.C.A.R.S.
 6d1b5fb44d5e8c92bdcbff165b320b7a pal|cic7101|cpak|rpak # S.C.A.R.S.
 8baabdba93dd8e5310b0e4ea83d40a11 pal|cic7101|cpak|rpak # S.C.A.R.S.
@@ -2722,17 +2722,17 @@ bf19453249d879c94d55725106009f18 ntsc|cic6102|eeprom512 # Shining Stars by Pieor
 1a9b2450b28b611ed844c380e47898e7 ntsc|cic6102|eeprom512 # Shy Guy 64 by The Ankle Destroyer (SM64 Hack)
 6fe16e57ae1006560b394ac035869d07 ntsc|cic6102|cpak # Sim City 2000
 917c5a275cf10a526891743439d2970a ntsc|cic6102|cpak # Sim City 2000
-553b998b6b41704e2501c58ea44cfb10 ntsc|cic5167 # Sim City 64
-b062cd3f2e074c812b9425de4ce830c4 ntsc|cic6102 # Sim City 64 (64drive 1.12d Compatible V1.0)
-bf3a62a2b10cdb51d11f4d6ae2821a45 ntsc|cic5167 # Sim City 64 v0.6.38 ozidual
-ce5eeb8d265caf02158b8cb2cd395678 ntsc|cic5167 # Sim City 64 v1.1 Fixed RTC ozidual
+553b998b6b41704e2501c58ea44cfb10 ntsc|cic5167|cpak|rpak # Sim City 64
+b062cd3f2e074c812b9425de4ce830c4 ntsc|cic6102|cpak|rpak # Sim City 64 (64drive 1.12d Compatible V1.0)
+bf3a62a2b10cdb51d11f4d6ae2821a45 ntsc|cic5167|cpak|rpak # Sim City 64 v0.6.38 ozidual
+ce5eeb8d265caf02158b8cb2cd395678 ntsc|cic5167|cpak|rpak # Sim City 64 v1.1 Fixed RTC ozidual
 fd3afcd61cb899a0e290e74dcc69e56d ntsc|cic6102 # SimCopter 64 (Proto)
 6f804ab901fdc64abe6c5ec90f278367 ntsc|cic6102|cpak # Simon for N64 V0.1a by Jean-Luc Picard
 17efda444970cba77f7025c2ac831eb0 ntsc|cic6102 # Simple Music Player by Chilly Willy (V1.1_20100823_for MIDIs)
 6fec0523f0d960edd47d7c42cf95001e ntsc|cic6102 # Simple Music Player by Chilly Willy (V1.1_20100823_for MP3s & OGGs)
 abe068a3e6029f7f81a30a02b5cd807a ntsc|cic6102 # Simple N64 Test Demo by xdaniel
 00fcd137d8e32f28efdb132648a1a26a ntsc|cic6102 # SimpleCW
-ba950364bd3ffea66cf0c2817a6d6423 ntsc|cic6102 # Sinus
+ba950364bd3ffea66cf0c2817a6d6423 ntsc|cic6102|eeprom512 # Sinus
 4fb6a852eb686f11b8ce922c0440a55b ntsc|cic6102 # Sitero Demo by Renderman
 e6684575f037e4e2a39a27b8b659cd0d ntsc|cic6102|eeprom512|rpak # Skedar Multi by Zoinkity (GE Hack)
 519674a00c649a6dd2cb906537e1033b ntsc|cic6102|eeprom512 # Sky Sanctuary, The by IllumiNavi (SM64 Hack)
@@ -2895,7 +2895,7 @@ c9c07659642ced6f5a9a7c9722e9578f ntsc|cic6102|eeprom512|rpak # Star Fox 64
 34e9f936aa35ad3ce7bf9510d3582ebc ntsc|cic6101|eeprom512|rpak # Star Fox 64 (Boost)
 5021f1af1b39e0f69535d91b30d674ba ntsc|cic6101|eeprom512|rpak # Star Fox 64 (Energy)
 3ef8126d971894a42ce0987d4f7021fb ntsc|cic6101|eeprom512|rpak # Star Fox 64 (Infinite Health by Viper187&mezmorizen64)
-c6c0e8803e3945b093273b31176addec ntsc|cic6102|rpak # Star Fox 64 (LodgeNet)
+c6c0e8803e3945b093273b31176addec ntsc|cic6102|eeprom512|rpak # Star Fox 64 (LodgeNet)
 da6bcc854ebb4bfcfa510d75b5e8a73c ntsc|cic6101|eeprom512|rpak # Star Fox 64 (No Damage-Unbreakable Wings)
 584c033f4a2e8400686071804203b9da ntsc|cic6101|eeprom512|rpak # Star Fox 64 (No Damage-Unbreakable Wings)
 5015ee1aa20ffbcc322f8d95e77f11a9 ntsc|cic6102|eeprom512 # Star Legend 64 by Skelux (V0.4Beta) (SM64 Hack) (Free Roaming Camera by Skelux)
@@ -2932,7 +2932,7 @@ aa61af32fb27174bc82dc00eac43c326 pal|cic7101|eeprom512|rpak # Star Wars - Rogue 
 3a584ec1e4702d942961e57c3f277d31 ntsc|cic6102|eeprom512|rpak # Star Wars - Rogue Squadron
 8a3ffc580f1670e181a7381528d0af92 pal|cic7101|eeprom512|rpak # Star Wars - Rogue Squadron (Language Select Hack)
 e532cb9c0b856303e798053b451f55ba ntsc|cic6102|eeprom512|rpak # Star Wars - Rogue Squadron (Language Select)
-623764a5ea326b27c81f85b658b7dbfa ntsc|cic6102|rpak # Star Wars - Rogue Squadron (LodgeNet)
+623764a5ea326b27c81f85b658b7dbfa ntsc|cic6102|eeprom512|rpak # Star Wars - Rogue Squadron (LodgeNet)
 d9757f336352188b19e177406eadaaf2 ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire
 96a1815de62246a71ccdcfb77bce0f33 pal|cic7101|eeprom512 # Star Wars - Shadows of the Empire
 74bfb0e8c44cbb8c114441e83acfc492 ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire
@@ -2942,7 +2942,7 @@ d0ab827244add3708b5a260c974bd44c ntsc|cic6102|eeprom512 # Star Wars - Shadows of
 5a93c8c69a891f002d53aea661f7b96d ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire
 c6ea1730007382a59b3c20596353c070 ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire
 3faf57a504ffc29548e682f81da5071c ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire (Aftermarket) (Unl)
-ac7e6b42817f7055c2cbe5a27db0db8e ntsc|cic6102 # Star Wars - Shadows of the Empire (Prototype)
+ac7e6b42817f7055c2cbe5a27db0db8e ntsc|cic6102|eeprom512 # Star Wars - Shadows of the Empire (Prototype)
 061d31b72c8391ab805287fdbc0b3f99 ntsc|cic6102|eeprom512|rpak # Star Wars - Shutsugeki! Rogue Chuutai
 ce492a08e19219f8b643969136695e30 ntsc|cic6102|eeprom512 # Star Wars - Teikoku no Kage
 14cfa04a4b377246bbc6f99009418e93 ntsc|cic6102|eeprom512|rpak # Star Wars Episode I - Battle for Naboo
@@ -2969,7 +2969,7 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 12086e237340e0034924407da8f69484 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
 7b551edf84d631ed68d6474d890e23e0 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
 9296ea2c78a6b10bb01fd14e14fc729e ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta) (Country Code)
-b43afe4b69defb0b93a169d69656e5e4 pal|cic7101 # StarCraft 64 (Prototype)
+b43afe4b69defb0b93a169d69656e5e4 pal|cic7101|flash128k|rpak # StarCraft 64 (Prototype)
 56dbe619d844734edf74d93695766bb6 ntsc|cic6102|flash128k|rpak # StarCraft 64 - Proof-of-Concept 2 by Zoinkity (SC Hack)
 9cc45fa5de629785bdba3b295b21da30 ntsc|cic6102|eeprom512 # Starshot - Space Circus Fever
 0387107e11e46b20d4b5249132a5f4db pal|cic7101|eeprom512 # Starshot - Space Circus Fever
@@ -2984,8 +2984,8 @@ eaccb41413232195ee782fa519457876 ntsc|cic6102|eeprom512 # Stuff (SM64 Hack)
 5c574dba3bba88389596f4a8fc346dca ntsc|cic6102 # styx
 aa077ed70a39f3c4e564ab922239c90e ntsc|cic6102 # Summer64 Demo by Lem
 83504a5c5390b16b94145d520f5495b3 ntsc|cic6102 # Summer64 Demo by Lem
-befbace21e50db237da611dcbe99a8a6 ntsc|cic6102|eeprom512|cpak|tpak # Super B-Daman - Battle Phoenix 64
-cb49aa66c56b4224ed60d7ca20295eed ntsc|cic6102|cpak|tpak # Super B-Daman - Battle Phoenix 64
+befbace21e50db237da611dcbe99a8a6 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Super B-Daman - Battle Phoenix 64
+cb49aa66c56b4224ed60d7ca20295eed ntsc|cic6102|eeprom512|cpak|rpak|tpak # Super B-Daman - Battle Phoenix 64
 6fac470a6b533e1a4e972405e9fb185d ntsc|cic6102|eeprom512 # Super Banjo-Kazooie 64 by UED (VBeta_Eng) (SM64 Hack)
 3ef67d1af8346d9969ed703e24ae0d2b ntsc|cic6102|eeprom512 # Super Banjo-Kazooie 64 by UED (VDemo)(SM64 Hack)
 290431a6bcddf5b3e76a3b0613939a1b ntsc|cic6102|eeprom512 # Super Banjo-Tooie 64 by Kaze Emanuar & UED (SM64 Hack)
@@ -3025,16 +3025,16 @@ b97518793c3bc825af9d3555d56ea26a ntsc|cic6102|eeprom512 # Super Mario 64
 c65d0ef1370808a3244967583a2df632 ntsc|cic6102|eeprom512 # Super Mario 64 (Enable Hidden Scroller Hack)
 c8e1fc91678a7b6c30257abc5be41907 ntsc|cic6102|eeprom512 # Super Mario 64 (Free Roaming Camera by Skelux)
 b87d883c0a3f996f390a9a1b2147d36b ntsc|cic6102|eeprom512 # Super Mario 64 (Invincible)
-126e25fde464bead0749e97e9b9a2c7d ntsc|cic6102 # Super Mario 64 (LodgeNet)
+126e25fde464bead0749e97e9b9a2c7d ntsc|cic6102|eeprom512 # Super Mario 64 (LodgeNet)
 cc055a7b702a43c46aa675b39c599ada ntsc|cic6102|eeprom512 # Super Mario 64 (No Cap Hack)
 edd38ca28220d3c80ec2d76f9f9ca662 ntsc|cic6102|eeprom512 # Super Mario 64 (Silver Mario Hack)
 c83b098ea3c9dd3f18884b9f437bc358 ntsc|cic6102|eeprom512 # Super Mario 64 (Speed)
-9ceab61fa6c19d8afb423183d3f4e020 ntsc|cic6102|eeprom512 # Super Mario 64 2Player
 81ce61e4132239d279203247e54653a0 ntsc|cic6102|eeprom512 # Super Mario 64 - Disk Version (Prototype)
 4a3a6911423a263530d59dad32d1f96a ntsc|cic6102|eeprom512 # Super Mario 64 - Extended Edition (SM64 Hack)
 e4cef5d60823aad65656f870de44754c ntsc|cic6102|eeprom512|rpak # Super Mario 64 - Shindou Edition
 1619c0413acfbe08dd06d5cab87b7a25 ntsc|cic6102|eeprom512|rpak # Super Mario 64 - Shindou Edition
 ad00f10173112bf89f110a179d0ebe63 ntsc|cic6102|eeprom512 # Super Mario 64 1.5 - Ztar Attack by TheGael95 (C3 Demo) (Rev1) (SM64 Hack)
+9ceab61fa6c19d8afb423183d3f4e020 ntsc|cic6102|eeprom512 # Super Mario 64 2Player
 5a9fbbd980a0dd17eed6fd636fabb608 ntsc|cic6102|eeprom512 # Super Mario 64 by HatchetMinecrafter (SM64 Hack)
 e3e9008d0b8ab0e070cfc858b10f3118 ntsc|cic6102|eeprom512 # Super Mario 64 by Tamkis (V02a) (SM64 Hack)
 548dba023266b3766d95b4e07a5495b1 ntsc|cic6102|eeprom512 # Super Mario 64 Debug (Improved Version + Pong of Death by Frauber) (SM64 Hack) (nemu64)
@@ -3076,8 +3076,8 @@ f91b51a0c081015f3c078b571b25e5d5 ntsc|cic6102|eeprom512 # Super Mario Warp Zone 
 98beefacdf5040c2620892fcbd70d726 ntsc|cic6102|eeprom512 # Super Peachy 64 - Open Source by The Ankle Destroyer (SM64 Hack)
 6308a29ae0d73b0111c900534310516d ntsc|cic5101 # Super Real Mahjong VS (Aleck 64) EverDrive Patched
 1491679ea3fee03bb8f304b46f5ff129 ntsc|cic6102|eeprom512|rpak # Super Robot Spirits
-27dc3ec364f4e34600ad2ee9cfa53ca8 ntsc|cic6102|sram32k|cpak|tpak # Super Robot Taisen 64
-467a6885f99b64745ee83966677dfdaf ntsc|cic6102|sram32k|cpak|tpak # Super Robot Taisen 64
+27dc3ec364f4e34600ad2ee9cfa53ca8 ntsc|cic6102|sram32k|cpak|rpak|tpak # Super Robot Taisen 64
+467a6885f99b64745ee83966677dfdaf ntsc|cic6102|sram32k|cpak|rpak|tpak # Super Robot Taisen 64
 761ac6ec32de56ab580a8c16943376cf ntsc|cic6102|eeprom512 # Super Simple Flips 64 by FireMario74 (SM64 Hack)
 e5190a8d893a752e06671d280655a1c6 ntsc|cic6103|sram32k|rpak # Super Smash Bros Plus (SSB Hack)
 59d930d6275b110b7e6531bc1a4eabd3 ntsc|cic6103|sram32k|rpak # Super Smash Bros.
@@ -3091,7 +3091,7 @@ cf1e25e473e5592e3fa5069a2108bdfb ntsc|cic6102|sram32k|rpak # Super Smash Bros.
 4bc4f47eb05c24b8bcfd3abc08661d76 ntsc|cic6103|sram32k|rpak # Super Smash Bros. (All Damage)
 e69550e4e288c6e7fd14b74c0f97aad0 ntsc|cic6103|sram32k|rpak # Super Smash Bros. (Ch) (iQue)
 0ae7c86ce3106cb6f0d0f7075cb446f6 ntsc|cic6102|sram32k|rpak # Super Smash Bros. (GameShark)
-4453d497a8b6011c49b87a0844d535de ntsc|cic6103|rpak # Super Smash Bros. (LodgeNet)
+4453d497a8b6011c49b87a0844d535de ntsc|cic6103|sram32k|rpak # Super Smash Bros. (LodgeNet)
 3544d8ed76e52077b06fe14a88dc8722 ntsc|cic6103|sram32k|rpak # Super Smash Bros. (No Damage)
 466ec72896538c8e18fd7bacdc15e1f6 ntsc|cic6103|sram32k|rpak # Super Smash Bros. - 19XXTE by Jorgasms (SSB Hack)
 012176dd81f60ebe43d83e72ddcf9583 ntsc|cic6103|sram32k|rpak # Super Smash Bros. by Dark (SSB Hack)
@@ -3126,7 +3126,7 @@ bf75f1ca914dba12b0e79bf4937c0984 ntsc|cic6102 # T-Shirt Demo by Neptune and Stev
 5d099eeb268d055f0b9a759265b0bf6d pal|cic7101|eeprom512|rpak # Taz Express
 1ea07e758dc7b6e07638f4395b7919f7 pal|cic7101|rpak # Taz Express
 14cda3f1522ac3fccb58b4cb726abd81 pal|cic7101|rpak # Taz Express
-7e6f78c1d623d5b890b807e3d47d9ec8 ntsc|cic6102 # Taz Express (Prototype)
+7e6f78c1d623d5b890b807e3d47d9ec8 ntsc|cic6102|rpak # Taz Express (Prototype)
 65f2b6cb3afbc3282916b89173e938a7 pal|cic7101|cpak|rpak # Telefoot Soccer 2000
 81420232f5449f8846bb5c5f3d51ab27 pal|cic7101|cpak|rpak # Telefoot Soccer 2000
 dfaf71db8e8627dff197934846ae0849 ntsc|cic6102|eeprom512 # Temple Explorer - Blue Kappa Temple by BroDute (SM64 Hack)
@@ -3229,8 +3229,8 @@ bb422c9c1dc33e04f568dcab0ab83ee7 ntsc|cic6102|cpak|rpak # Toy Story 2 - Buzz Lig
 d5e61ace4b5962e446322e65c7babff3 pal|cic7101|cpak|rpak # Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission!
 365c8a32b4cc3d211b7458440d830f0e pal|cic7101|cpak|rpak # Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission!
 9050eab516d3d28c066b2ea47ee7887d ntsc|cic6102 # TR64 Demo by FIres and Icepir8
-239f75f416854b37c54e35ba43f93373 ntsc|cic6102|eeprom512|rpak|tpak # Transformers - Beast Wars Metals 64
-78fbb50f03e7f98b7da310ad66043b59 ntsc|cic6102|rpak|tpak # Transformers - Beast Wars Transmetal
+239f75f416854b37c54e35ba43f93373 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Transformers - Beast Wars Metals 64
+78fbb50f03e7f98b7da310ad66043b59 ntsc|cic6102|eeprom512|cpak|rpak|tpak # Transformers - Beast Wars Transmetal
 d8d58f69b0fe1d3f74adca35942d31d5 ntsc|cic6102|cpak|rpak # Triple Play 2000
 fe95df74409f3b0a37b86a6646d09c4d ntsc|cic6102 # Tristar and Lightforce Quake Intro by Ayatollah & Mike
 67ada7e66c071a3b4fd4edc0c5f2bb25 ntsc|cic6102 # TRON Demo
@@ -3285,13 +3285,13 @@ a0c7e7087e5856691b2ae42d261a737a ntsc|cic6102|cpak|rpak # Turok 2 - Seeds of Evi
 b4515d4cb78ad023293e4af5e299da78 ntsc|cic6102|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 f88630ca78e2466fcf78202554a389fd pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
-3b58a13798b90e6f575a6beb26b30ccf pal|cic7101|cpak|rpak|tpak # Turok 3 - Shadow of Oblivion (Beta)
-a2078ab139fbd1e909e719a7a1c28a19 pal|cic7101|cpak|rpak|tpak # Turok 3 - Shadow of Oblivion (Beta)
+3b58a13798b90e6f575a6beb26b30ccf pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
+a2078ab139fbd1e909e719a7a1c28a19 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 a53480ca15de32396a49587a206b655a ntsc|cic6102|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 3cc5c7d1bbd1d575d9cff4c50ebc62cf pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
 11cc092c89f489faa7c70ec0566e7b88 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
 03d67ad8740d56aaed87f99b5d31160f pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
-aff5c2f379910c4bd5b9eb06b3b3cd44 ntsc|cic6102 # Twintris by Twinsen
+aff5c2f379910c4bd5b9eb06b3b3cd44 ntsc|cic6102|eeprom512 # Twintris by Twinsen
 5c861b6c26bf90e2c496cbad3ba6ca15 ntsc|cic6102|eeprom512 # Twisted Adventures by Mrivan97 (SM64 Hack)
 821ff7ce6f7611227fc58be48d782e7b ntsc|cic6102|eeprom512 # Twisted Adventures by Mrivan97 (SM64 Hack)
 09c5b24c24fa99a0aa88165510d28748 ntsc|cic6102|cpak|rpak # Twisted Edge Extreme Snowboarding
@@ -3304,8 +3304,8 @@ ee02c1acaf2bc8c1d525e1fbdd0e1caf ntsc|cic6102 # U64 (Chrome) Demo by Horizon64 (
 a9dba26514968ffbc12ad32169170261 ntsc|cic6102 # U64 Demo
 b0b943d582707e68ab377d3d8fe7ee9a ntsc|cic6102|eeprom512 # Uber Mario 64 by ArchangelGabriel (Demo) (SM64 Hack)
 2053e773ca520adea537ddffcd2b5d40 ntsc|cic6102|eeprom512|rpak # Uchhannanchan no Hono no Challenger - Denryu IraIra Bou
-a8944b88b5b56e9522699a3fc7b02456 ntsc|cic6102|rpak # Uchhannanchan no Hono no Challenger - Denryu IraIra Bou
-477e47dc8a41bdc491783f8217941f5c ntsc|cic6102|rpak # Uchhannanchan no Hono no Challenger - Denryu IraIra Bou
+a8944b88b5b56e9522699a3fc7b02456 ntsc|cic6102|eeprom512|rpak # Uchhannanchan no Hono no Challenger - Denryu IraIra Bou
+477e47dc8a41bdc491783f8217941f5c ntsc|cic6102|eeprom512|rpak # Uchhannanchan no Hono no Challenger - Denryu IraIra Bou
 c774357ea0b67c8df4bffcd4751ee20b ntsc|cic6102 # Ultimate Doom (Doom PC Port)
 8e0b99f21f05fe8a85cbe045b7ae48bd ntsc|cic6102 # Ultimate Doom, The
 817a54db0921945ff68fae94eafc584f ntsc|cic6102|sram32k|rpak # Ultimate Smash Bros. by Danny (Rev1.0) (SSB Hack)
@@ -3329,9 +3329,9 @@ b24dae1fae09f6404e2bf7c6db300720 ntsc|cic6102|eeprom512|rpak # V-Rally Edition 9
 86106cff1031f63e7153da91841d62bd ntsc|cic6102|eeprom512|rpak # V-Rally Edition 99
 0cc427758b16ee79f84153af59288329 pal|cic7101|eeprom512|rpak # V-Rally Edition 99
 333c585b4327a720d6893d9e48e705e9 ntsc|cic6102|eeprom512|rpak # V-Rally Edition 99
-0b2a821720335e041d166cea2f431683 ntsc|cic6102 # V64Jr 512M Backup Program by HKPhooey
+0b2a821720335e041d166cea2f431683 ntsc|cic6102|eeprom512 # V64Jr 512M Backup Program by HKPhooey
 0c19b8971916e0d8c654f3d510bfadda ntsc|cic6102 # V64Jr Backup Tool by WT_Riker
-f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102 # V64Jr Backup Tool V0.2b_Beta by RedboX
+f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102|cpak # V64Jr Backup Tool V0.2b_Beta by RedboX
 4a2636a8c7b92c80ed44ba8c63dd0e0f ntsc|cic6105 # V64Jr Flash Save Util by CrowTRobo
 04ff25b980eaf64becba7f434dc320e5 ntsc|cic6102 # Vector Demo by Destop
 a670c0b9b2668ffda601962e62020e30 ntsc|cic6102 # Vid Res Test by Chilly Willy
@@ -3358,10 +3358,10 @@ e0c3ccfa8cbc2b8b398479128f9fd43d ntsc|cic6102|cpak|rpak # Violence Killer - Turo
 22ea739dadee081c5b781834922ed967 pal|cic7101|cpak # Virtual Chess 64
 d86614e56b98ca7e3431374f8a9f77d8 pal|cic7101|cpak # Virtual Chess 64
 57c1483c42e6a7efca48b397e0f5bddf ntsc|cic6102|cpak # Virtual Chess 64
-455e2cf89e63699caee29132bfe97b57 pal|cic7101 # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
+455e2cf89e63699caee29132bfe97b57 pal|cic7101|cpak # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
 5c65ef7f93d78df9462b61d6c6193f05 ntsc|cic6102|cpak # Virtual Pool 64
 d949793964773753c03b295fd99dcd27 pal|cic7101|cpak # Virtual Pool 64
-ab6f68901f18561702b17c4a15632c53 ntsc|cic6102 # Virtual Pool 64 (LodgeNet)
+ab6f68901f18561702b17c4a15632c53 ntsc|cic6102|cpak # Virtual Pool 64 (LodgeNet)
 9b50019d3cfede661f922740a4d99275 ntsc|cic6102|sram32k|cpak|rpak # Virtual Pro Wrestling 2 - Oudou Keishou
 ea13f586b8b4f50cdf1b929f8076e3c3 ntsc|cic6102|sram32k|cpak|rpak # Virtual Pro Wrestling 2 - Oudou Keishou
 51e35de5edb8e8e3f523efb591aeeb10 ntsc|cic6102|sram32k|cpak|rpak # Virtual Pro Wrestling 2 - Oudou Keishou
@@ -3404,8 +3404,8 @@ fe046bebaaa4f489d3f2abf054fc709c ntsc|cic6102|eeprom512|cpak # Wave Race 64
 20a17ac029c65584ab21f6218ba0b494 pal|cic7101|eeprom512|cpak # Wave Race 64
 e0cf59442eba141933e4154263f2f0af ntsc|cic6102|eeprom512|cpak # Wave Race 64
 d977a08eb2cdcae0a2fee1f2e8d4e3e8 ntsc|cic6102|eeprom512|cpak|rpak # Wave Race 64 (Ch) (iQue)
-680071ac6dcfa063c5bcb3f01a6a53e6 ntsc|cic6102 # Wave Race 64 - Kawasaki Jet Ski (LodgeNet)
-ec98ffc1640735de84606677d454a1e1 ntsc|cic6102|eeprom512|cpak # Wave Race 64 - Kawasaki Jet Ski (Shindou Edition) T+Eng v1.0 Zoinkity
+680071ac6dcfa063c5bcb3f01a6a53e6 ntsc|cic6102|eeprom512|cpak # Wave Race 64 - Kawasaki Jet Ski (LodgeNet)
+ec98ffc1640735de84606677d454a1e1 ntsc|cic6102|eeprom512|cpak|rpak # Wave Race 64 - Kawasaki Jet Ski (Shindou Edition) T+Eng v1.0 Zoinkity
 9d3828f01d0a1da6262b097fe3a57b55 ntsc|cic6102|eeprom512|cpak|rpak # Wave Race 64 - Shindou Edition
 0163386bc4987d9410bd18ca27452d98 ntsc|cic6102|eeprom512|cpak|rpak # Wave Race 64 - Shindou Edition
 eea9e527fc6cdfb70e63daa49d4049f6 ntsc|cic6102 # Wave Race SRAM Uploader
@@ -3418,8 +3418,8 @@ d29f536a23bad515182dfe510bb0781b pal|cic7101|cpak # Wayne Gretzky's 3D Hockey
 aa29ac0b520a532eade2ee7cd6d35f68 ntsc|cic6102|cpak # Wayne Gretzky's 3D Hockey
 ba70a78bf0edb50436296c0136bdb215 ntsc|cic6102|cpak # Wayne Gretzky's 3D Hockey '98
 4ac3f295aa268e473a9df125cf53a3e0 pal|cic7101|cpak # Wayne Gretzky's 3D Hockey '98
-ecba297568ef6179edae896c284002d1 ntsc|cic6102 # Wayne Gretzky's 3D Hockey '98
-35aeb8a1ecbb8b7b4f4206951424c237 ntsc|cic6102 # Wayne Gretzky's 3D Hockey '98
+ecba297568ef6179edae896c284002d1 ntsc|cic6102|cpak # Wayne Gretzky's 3D Hockey '98
+35aeb8a1ecbb8b7b4f4206951424c237 ntsc|cic6102|cpak # Wayne Gretzky's 3D Hockey '98
 7dbd3e142f34d188b28ce1ab5cd8ecf0 ntsc|cic6102 # WBIMW
 8887924cfb67ef2a4af7f0b6c5d332e0 ntsc|cic6102|cpak|rpak # WCW Backstage Assault
 ab502e70891ea938626e315452083dd9 ntsc|cic6102|cpak|rpak # WCW Mayhem
@@ -3546,7 +3546,7 @@ a9b5888dd8b61d282fc7c5a4579386b3 ntsc|cic6102|eeprom2k|rpak # Yoshi's Story
 df07a18d1e5427f366954f5107053ce4 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story
 ce53cb1736d8f8ec2c0c2b1019e38eec ntsc|cic6102|eeprom2k|rpak # Yoshi's Story
 934e10619f857c1ba94bdb789a2d7b49 pal|cic7106|eeprom2k|rpak # Yoshi's Story
-01e358d386eab99ecd130d47ca1e8769 ntsc|cic6102|rpak # Yoshi's Story (En,Ja) (LodgeNet)
+01e358d386eab99ecd130d47ca1e8769 ntsc|cic6102|eeprom2k|rpak # Yoshi's Story (En,Ja) (LodgeNet)
 ef8c778a7beed8c8ad6f7f225e6326c1 pal|cic7106|eeprom2k|rpak # Yoshi's Story (Health and Eggs)
 08bf92ba3201e92134bc99c7ccb67780 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story (Health and Eggs)
 5f9f0cae9b106a2f3c5afd11d66e5ef8 ntsc|cic6102 # Yoshi's Story BootEmu
