@@ -543,7 +543,7 @@ d9e3573455cc3f2807d8ff2d7aaee6e8 ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur D
 baad8f1d9ba5279e4085f0a8564b8e79 ntsc|cic6102|eeprom512|rpak # Control Multi by Dragonsbrethren (GE Hack)
 b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
 05742a0e5030698c8f443207be14b082 ntsc|cic6102 # Controller Test Tool sanni 2012
-c7a8ec9386ab97f621dcb530e92b16b0 ntsc|cic6102 # ControllerTest
+c7a8ec9386ab97f621dcb530e92b16b0 ntsc|cic6102|cpak|rpak # ControllerTest
 ddc76e06b635c92630e40fb899895724 ntsc|cic6102|eeprom512|rpak # Courtyard by BMW (GE Hack)
 e6db5664bf3bd2b85dc9b6d8054975ac ntsc|cic6102|eeprom512|rpak # Cruis'n Exotica
 8dbe2c1fee8e1a41b0f43030b7c54d9e ntsc|cic6102|eeprom512|rpak # Cruis'n Exotica
@@ -3131,6 +3131,7 @@ bf75f1ca914dba12b0e79bf4937c0984 ntsc|cic6102 # T-Shirt Demo by Neptune and Stev
 81420232f5449f8846bb5c5f3d51ab27 pal|cic7101|cpak|rpak # Telefoot Soccer 2000
 dfaf71db8e8627dff197934846ae0849 ntsc|cic6102|eeprom512 # Temple Explorer - Blue Kappa Temple by BroDute (SM64 Hack)
 e181f58a7311f5ac4321c0f75832f0a9 ntsc|cic6102|eeprom512 # Temple Explorer - Blue Kappa Temple by BroDute (SM64 Hack)
+69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 663bca26d9ffce653d51b32c4f163cdd ntsc|cic6102 # Test by Nintendo
 93800003edc3dc8115d4c11afc076c23 ntsc|cic6102|eeprom512 # Test Worlds (SM64 Hack)
 4762aca85b659c997a33e8471a7b8e0f ntsc|cic6102|eeprom512 # Test Worlds I by Apioeus (V1.1Ger) (SM64 Hack)
