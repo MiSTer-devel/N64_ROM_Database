@@ -543,7 +543,7 @@ d9e3573455cc3f2807d8ff2d7aaee6e8 ntsc|cic6105|eeprom2k|rpak # Conker's Bad Fur D
 baad8f1d9ba5279e4085f0a8564b8e79 ntsc|cic6102|eeprom512|rpak # Control Multi by Dragonsbrethren (GE Hack)
 b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
 05742a0e5030698c8f443207be14b082 ntsc|cic6102 # Controller Test Tool sanni 2012
-c7a8ec9386ab97f621dcb530e92b16b0 ntsc|cic6102 # ControllerTest
+c7a8ec9386ab97f621dcb530e92b16b0 ntsc|cic6102|cpak|rpak|tpak # ControllerTest
 ddc76e06b635c92630e40fb899895724 ntsc|cic6102|eeprom512|rpak # Courtyard by BMW (GE Hack)
 e6db5664bf3bd2b85dc9b6d8054975ac ntsc|cic6102|eeprom512|rpak # Cruis'n Exotica
 8dbe2c1fee8e1a41b0f43030b7c54d9e ntsc|cic6102|eeprom512|rpak # Cruis'n Exotica
@@ -1838,6 +1838,7 @@ cb3c135a75957b886ff4812050170b98 ntsc|cic6102|eeprom512|cpak # Mario Kart 64 (St
 8f7f717e489f1a087b4a63107957c096 ntsc|cic6102|eeprom512|cpak # Mario Kart 64 (Super W00ting Hack)
 c749f901714fd19d7cf02a9f724ae1b1 pal|cic7101|eeprom512|cpak # Mario Kart 64 (Super W00ting Hack)
 451ed6177a8ee038cb683203973fd9cf ntsc|cic6102|eeprom512|cpak # Mario Kart 64 - Starlight by HyperHacker (Hack)
+bcb74c38310ea30c240b6bea2dc97a5f ntsc|cic6102|eeprom2k|cpak # Mario Kart 64 Amped Up (v2.96a)
 7e31c047a00f2f43d394be41c08253f6 ntsc|cic6102 # Mario no Photopi (JP - Card Bypass Patch)
 2ccf7bf1b71f45465f9d8a9336e823db ntsc|cic6102 # Mario no Photopie
 b4194f7e17a5569b8317e021c1ca71f6 ntsc|cic6102|eeprom512 # Mario on An Saoire 64 (SM64 Hack)
@@ -1942,7 +1943,6 @@ a84104c90794a0ea75a82b3da4513a57 pal|cic7101|eeprom512|rpak # Mission Impossible
 a67f7cb5285c91a528ddbebe0eaaa81f ntsc|cic6102|eeprom512|rpak # Mission Impossible
 4de3044ad2a6080e6d674b96d4d3a227 ntsc|cic6102|eeprom512|rpak # Mission Impossible
 20bb58a076dd2124dac7a899dca6898f ntsc|cic6102|eeprom512|rpak # Mission Impossible
-bcb74c38310ea30c240b6bea2dc97a5f ntsc|cic6102|eeprom2k|rpak # MK64_Amped_Up_v2
 f2125a872ba37e5c78501b0743c07ab0 ntsc|cic6102 # MMR by Count0
 e79a27d9a6329bdcad76de21c7037946 ntsc|cic6102 # MMR by Count0
 d022a4adff426e89507abb419a7378e3 ntsc|cic6102 # MOD
@@ -3131,6 +3131,7 @@ bf75f1ca914dba12b0e79bf4937c0984 ntsc|cic6102 # T-Shirt Demo by Neptune and Stev
 81420232f5449f8846bb5c5f3d51ab27 pal|cic7101|cpak|rpak # Telefoot Soccer 2000
 dfaf71db8e8627dff197934846ae0849 ntsc|cic6102|eeprom512 # Temple Explorer - Blue Kappa Temple by BroDute (SM64 Hack)
 e181f58a7311f5ac4321c0f75832f0a9 ntsc|cic6102|eeprom512 # Temple Explorer - Blue Kappa Temple by BroDute (SM64 Hack)
+69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 663bca26d9ffce653d51b32c4f163cdd ntsc|cic6102 # Test by Nintendo
 93800003edc3dc8115d4c11afc076c23 ntsc|cic6102|eeprom512 # Test Worlds (SM64 Hack)
 4762aca85b659c997a33e8471a7b8e0f ntsc|cic6102|eeprom512 # Test Worlds I by Apioeus (V1.1Ger) (SM64 Hack)
