@@ -2517,9 +2517,9 @@ c52514e687e1e130357b9f47f91caa0e ntsc|cic6102|eeprom512|rpak # Puyo Puyo Sun 64
 d7136fff174b6474e703e600477b3729 ntsc|cic6102|cpak|rpak # Puzzle Bobble 64
 a33e58e741045a4a4e18208aba8edf44 ntsc|cic6102|cpak|rpak # Puzzle Bobble 64
 87e561dbf026663a3fccd0c0d9957d93 ntsc|cic6102 # Puzzle Master 64 by Michael Searl
-e091cfba8f16b9e23dd320d3a4224ba9 ntsc|cic6102 # Pyoro 64 (Aftermarket) (Homebrew)
-49dd2dc652fbd37f46909127ddeb502e pal|cic7101 # Pyoro 64 (Italy) (Aftermarket) (Homebrew)
-c3be84913baf7ed8e004972f1c678c02 ntsc|cic6102 # Pyoro 64 (Unknown) (Aftermarket) (Homebrew)
+e091cfba8f16b9e23dd320d3a4224ba9 ntsc|cic6102|eeprom512 # Pyoro 64 (Aftermarket) (Homebrew)
+49dd2dc652fbd37f46909127ddeb502e pal|cic7101|eeprom512 # Pyoro 64 (Italy) (Aftermarket) (Homebrew)
+c3be84913baf7ed8e004972f1c678c02 ntsc|cic6102|eeprom512 # Pyoro 64 (Unknown) (Aftermarket) (Homebrew)
 45624396ca33472d4847a14fc54a08da ntsc|cic6102|cpak|rpak # Quake 64
 7aaacd065bfbdb89f2d0e1b8d3f5ed86 pal|cic7101|cpak|rpak # Quake 64
 30eeee16d8e32468e7f409af0fb74bf0 pal|cic7101|cpak|rpak # Quake 64
