@@ -649,7 +649,7 @@ b0fb08722feba34bd6898c45bef1bdc3 ntsc|cic6102 # Display List Ate My Mind Demo by
 18805e58668bfbdaa3b24af2d79286af ntsc|cic6102 # DKONG Demo
 985a740c28d96cf97cb5a90f07faeff9 ntsc|cic6102 # Dolphin Ctrl Unknown Test
 604765dabc45a77779f8a8c0b260ebf0 ntsc|cic6102 # Don't Be Square
-a4a45436f7f05292764f729fad79c501 ntsc|cic6102|eeprom512|cpak # Donald Duck - Goin' Quackers (En,Fr,De,Es,It)
+a4a45436f7f05292764f729fad79c501 pal|cic7101|eeprom512|cpak # Donald Duck - Goin' Quackers (En,Fr,De,Es,It)
 87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
 0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
 bbb17d7f2b43830b77dfb69457ee4ccd pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
@@ -2452,7 +2452,7 @@ fabd0aff44678565fbdf51a47865a65d pal|cic7101|flash128k # Pokemon Snap (GameShark
 f055591f3aaf3b33b6543b840a469e12 pal|cic7103|flash128k # Pokemon Snap (Italy)
 1b1469b4a0a7b3335eceb922afab4ee3 ntsc|cic6103|flash128k # Pokemon Snap (LodgeNet)
 eb85c743d6d493cd33b989eeee1d8c37 ntsc|cic6102|flash128k # Pokemon Snap (Save)
-a49cfa649f3256c2d5a24116ea8cab2d ntsc|cic6102|flash128k # Pokemon Snap (Save-PAL)
+a49cfa649f3256c2d5a24116ea8cab2d pal|cic7101|flash128k # Pokemon Snap (Save-PAL)
 ce4fe6b3e417a4ac44ceb2bc1da34134 ntsc|cic6103|flash128k # Pokemon Snap Station
 448ace87e5031355b49396d409a2d124 ntsc|cic6102|flash128k # Pokemon Snap Station
 a3ba6e7fec8007f6d8ea8f6c149e2991 ntsc|cic6103|flash128k|cpak|rpak|tpak # Pokemon Stadium
@@ -2701,7 +2701,7 @@ cce8ad3ae328a55804e48a030053a81b pal|cic7101|cpak|rpak # Shadow Man
 64ec5cce8bd4e98bf93505509c6fe0ba pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers
 43b70758852b0365a644b0c72cf9421b ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers
 d3230b7dcb6d5a328f741e306e6ae163 ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers
-0e7088ca35ed07be08f6157a2efa6ba9 ntsc|cic6102|cpak # Shadowgate 64 - Trials of the Four Towers (En,Es) (Beta)
+0e7088ca35ed07be08f6157a2efa6ba9 pal|cic7101|cpak # Shadowgate 64 - Trials of the Four Towers (En,Es) (Beta)
 ad7c3130a9750742403fef9d7550f28a pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers (Fre-Ger-Dut)
 4c88f44aac15bcfbf5eedc34a6e6119a pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers (Ita-Spa)
 733ce558b7cf3dee5d497b2867260ded ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers Analog Controls
