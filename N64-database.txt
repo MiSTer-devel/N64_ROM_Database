@@ -732,7 +732,7 @@ ec10bd2fa02e3325dc390df5632f1144 pal|cic7101|cpak # Dual Heroes
 72aa83d5d381ae059595860565941c16 ntsc|cic6102|cpak # Dual Heroes
 c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck
 3ea9dd62c4ad302a6a27e3a48fc5529c ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck
-36480d4c3331d3ff6dc6ca2543185d31 ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck (En,Fr,Es) (Beta)
+36480d4c3331d3ff6dc6ca2543185d31 pal|cic7101|eeprom512|rpak # Duck Dodgers Starring Daffy Duck (En,Fr,Es) (Beta)
 5ea6685e685642bd42c937540671684e ntsc|cic6102|cpak|rpak # Duke Nukem - ZER0 H0UR
 1d1233087caa9fb9c926f52e59fb5382 pal|cic7101|cpak|rpak # Duke Nukem - ZER0 H0UR
 7fb6fe475853040f2543f6600e07a931 pal|cic7101|cpak|rpak # Duke Nukem - ZER0 H0UR
@@ -1706,7 +1706,7 @@ e70f500e33a4a1c921fc7a4423495d10 pal|cic7101|eeprom512|rpak # Lode Runner 3-D
 45c35151d0d6929165177a10e9918f33 ntsc|cic6102|eeprom512|rpak # Lode Runner 3-D
 c6990d6a2a37dae59a4d0c7b85f66bf4 ntsc|cic6102|eeprom512|rpak # Lode Runner 3-D
 899a32067a1ed6ba13cc81f5f6305576 pal|cic7101|eeprom512|rpak # Looney Tunes - Duck Dodgers
-9577c2747df97deb49066ba55a34a299 ntsc|cic6102|flash128k|rpak # LoZ Majora's Mask (Europe) Aroenai 5-2017
+9577c2747df97deb49066ba55a34a299 pal|cic7101|flash128k|rpak # LoZ Majora's Mask (Europe) Aroenai 5-2017
 0498e36c1d68ded62655d79225c39a42 ntsc|cic6102|flash128k|rpak # LoZ Majora's Mask Aroenai 5-2017
 071fadf12bf5999d94f2f206d01b75da ntsc|cic6105|flash128k|rpak # LoZ Majora's Mask GC Decensorship (Hack) Aroenai 2018-04-09
 fe204a346df69bcfc0cc8fb5d25bfda4 ntsc|cic6105|flash128k|rpak # LoZ Majora's Mask GC Decensorship (Hack) Aroenai 2018-04-09
@@ -2835,7 +2835,7 @@ f1858074fd0b04b99fdb11b865374ea0 ntsc|cic6102|cpak|rpak # South Park Rally
 5cf3aa767c9645d54133e48251e5f0df ntsc|cic6102|cpak|rpak # South Park Rally (Beta)
 091c2939b4365cf6261c3769e5019e19 ntsc|cic6102|cpak|rpak # South Park Rally (Beta)
 375beef11cff086e6060f571a98ae12b pal|cic7101|cpak|rpak # South Park Rally (Europe) (Beta)
-3b7e8509d757bfd594626de502d68d6d ntsc|cic6102|cpak # South Park Rally (Europe) (Beta)
+3b7e8509d757bfd594626de502d68d6d pal|cic7101|cpak|rpak # South Park Rally (Europe) (Beta)
 7b494b0b39cbdbf61d05f7d0c557f26b ntsc|cic6102|eeprom512 # Space Dynamites
 7085e3b5113bf711f5592a193eb44ca7 ntsc|cic6102|cpak|rpak # Space Invaders
 b7268c7ac3e83bcb25b9d53699f6c2c8 ntsc|cic6102|cpak|rpak # Space Invaders
@@ -3359,7 +3359,7 @@ e0c3ccfa8cbc2b8b398479128f9fd43d ntsc|cic6102|cpak|rpak # Violence Killer - Turo
 22ea739dadee081c5b781834922ed967 pal|cic7101|cpak # Virtual Chess 64
 d86614e56b98ca7e3431374f8a9f77d8 pal|cic7101|cpak # Virtual Chess 64
 57c1483c42e6a7efca48b397e0f5bddf ntsc|cic6102|cpak # Virtual Chess 64
-455e2cf89e63699caee29132bfe97b57 ntsc|cic6102|cpak # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
+455e2cf89e63699caee29132bfe97b57 pal|cic7101|cpak # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
 5c65ef7f93d78df9462b61d6c6193f05 ntsc|cic6102|cpak # Virtual Pool 64
 d949793964773753c03b295fd99dcd27 pal|cic7101|cpak # Virtual Pool 64
 ab6f68901f18561702b17c4a15632c53 ntsc|cic6102|cpak # Virtual Pool 64 (LodgeNet)
