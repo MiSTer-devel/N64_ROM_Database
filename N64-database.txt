@@ -649,7 +649,7 @@ b0fb08722feba34bd6898c45bef1bdc3 ntsc|cic6102 # Display List Ate My Mind Demo by
 18805e58668bfbdaa3b24af2d79286af ntsc|cic6102 # DKONG Demo
 985a740c28d96cf97cb5a90f07faeff9 ntsc|cic6102 # Dolphin Ctrl Unknown Test
 604765dabc45a77779f8a8c0b260ebf0 ntsc|cic6102 # Don't Be Square
-a4a45436f7f05292764f729fad79c501 ntsc|cic6102|eeprom512 # Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)
+a4a45436f7f05292764f729fad79c501 ntsc|cic6102|eeprom512|cpak # Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)
 87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
 0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack
 bbb17d7f2b43830b77dfb69457ee4ccd pal|cic7101|eeprom512|cpak # Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)
