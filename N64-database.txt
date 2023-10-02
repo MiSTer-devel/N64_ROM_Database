@@ -273,7 +273,8 @@ ID:NDC___ cpak|rpak # SD Hiryuu no Ken Densetsu (J)
 ID:NDE___ cpak|rpak # Destruction Derby 64
 ID:NDF___ rpak # Dance Dance Revolution - Disney Dancing Museum
 ID:NDH___ cpak # Duel Heroes
-ID:NDKJ__ eeprom512 # Dark Rift [Space Dynamites (J)]
+ID:NDKJ__ eeprom512 # Space Dynamites
+ID:NDK___ # Dark Rift [Space Dynamites (J)]
 ID:NDM___ cpak # Doom 64
 ID:NDN___ cpak|rpak # Duke Nukem 64
 ID:NDO___ eeprom2k|rpak # Donkey Kong 64
@@ -324,7 +325,7 @@ ID:NGM___ cpak|rpak # Goemon's Great Adventure [Mystical Ninja 2 Starring Goemon
 ID:NGN___ cpak # Golden Nugget 64
 ID:NGP___ sram32k|cpak # Goemon: Mononoke Sugoroku
 ID:NGRE__ cpak|rpak # Top Gear Rally (U)
-ID:NGR___ ceeprom512|pak|rpak # Top Gear Rally
+ID:NGR___ eeprom512|cpak|rpak # Top Gear Rally
 ID:NGS___ cpak # Jikkyou G1 Stable
 ID:NGT___ eeprom2k|cpak|rpak # City Tour GrandPrix - Zen Nihon GT Senshuken
 ID:NGU___ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha (Sin and Punishment)
