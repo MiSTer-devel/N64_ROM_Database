@@ -275,7 +275,6 @@ ID:NDF___ rpak # Dance Dance Revolution - Disney Dancing Museum
 ID:NDH___ cpak # Duel Heroes
 ID:NDKJ__ eeprom512 # Space Dynamites
 ID:NDK___ # Dark Rift [Space Dynamites (J)]
-ID:NDL___ # Legend of Zelda, The - Majora's Mask - Preview Demo
 ID:NDM___ cpak # Doom 64
 ID:NDN___ cpak|rpak # Duke Nukem 64
 ID:NDO___ eeprom2k|rpak # Donkey Kong 64
