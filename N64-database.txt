@@ -732,7 +732,7 @@ ec10bd2fa02e3325dc390df5632f1144 pal|cic7101|cpak # Dual Heroes
 72aa83d5d381ae059595860565941c16 ntsc|cic6102|cpak # Dual Heroes
 c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck
 3ea9dd62c4ad302a6a27e3a48fc5529c ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck
-36480d4c3331d3ff6dc6ca2543185d31 pal|cic7101|eeprom512|rpak # Duck Dodgers Starring Daffy Duck (En,Fr,Es) (Beta)
+36480d4c3331d3ff6dc6ca2543185d31 ntsc|cic6102|eeprom512|rpak # Duck Dodgers Starring Daffy Duck (En,Fr,Es) (Beta)
 5ea6685e685642bd42c937540671684e ntsc|cic6102|cpak|rpak # Duke Nukem - ZER0 H0UR
 1d1233087caa9fb9c926f52e59fb5382 pal|cic7101|cpak|rpak # Duke Nukem - ZER0 H0UR
 7fb6fe475853040f2543f6600e07a931 pal|cic7101|cpak|rpak # Duke Nukem - ZER0 H0UR
@@ -2701,7 +2701,7 @@ cce8ad3ae328a55804e48a030053a81b pal|cic7101|cpak|rpak # Shadow Man
 64ec5cce8bd4e98bf93505509c6fe0ba pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers
 43b70758852b0365a644b0c72cf9421b ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers
 d3230b7dcb6d5a328f741e306e6ae163 ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers
-0e7088ca35ed07be08f6157a2efa6ba9 pal|cic7101|cpak # Shadowgate 64 - Trials of the Four Towers (En,Es) (Beta)
+0e7088ca35ed07be08f6157a2efa6ba9 ntsc|cic6102|cpak # Shadowgate 64 - Trials of the Four Towers (En,Es) (Beta)
 ad7c3130a9750742403fef9d7550f28a pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers (Fre-Ger-Dut)
 4c88f44aac15bcfbf5eedc34a6e6119a pal|cic7101|cpak # Shadowgate 64 - Trials Of The Four Towers (Ita-Spa)
 733ce558b7cf3dee5d497b2867260ded ntsc|cic6102|cpak # Shadowgate 64 - Trials Of The Four Towers Analog Controls
@@ -3359,7 +3359,7 @@ e0c3ccfa8cbc2b8b398479128f9fd43d ntsc|cic6102|cpak|rpak # Violence Killer - Turo
 22ea739dadee081c5b781834922ed967 pal|cic7101|cpak # Virtual Chess 64
 d86614e56b98ca7e3431374f8a9f77d8 pal|cic7101|cpak # Virtual Chess 64
 57c1483c42e6a7efca48b397e0f5bddf ntsc|cic6102|cpak # Virtual Chess 64
-455e2cf89e63699caee29132bfe97b57 pal|cic7101|cpak # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
+455e2cf89e63699caee29132bfe97b57 ntsc|cic6102|cpak # Virtual Chess 64 (En,Fr,Es) (LodgeNet)
 5c65ef7f93d78df9462b61d6c6193f05 ntsc|cic6102|cpak # Virtual Pool 64
 d949793964773753c03b295fd99dcd27 pal|cic7101|cpak # Virtual Pool 64
 ab6f68901f18561702b17c4a15632c53 ntsc|cic6102|cpak # Virtual Pool 64 (LodgeNet)
