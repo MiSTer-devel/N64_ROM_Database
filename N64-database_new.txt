@@ -49,12 +49,12 @@ a4a45436f7f05292764f729fad79c501 ntsc|cic6102|cpak # Disney's Donald Duck - Goin
 87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|cpak # Donald Duck - Quack Attack
 bbb17d7f2b43830b77dfb69457ee4ccd pal|cic7101|cpak # Donald Duck - Quack Attack
 0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|cpak # Donald Duck - Quack Attack
-ee207a2a00807d5d707744f9746ef09c ntsc|cic5101|eeprom512 # Donchan Puzzle Hanabi de Doon! (Aleck64)
+ee207a2a00807d5d707744f9746ef09c ntsc|cic6103|eeprom512 # Donchan Puzzle Hanabi de Doon! (Aleck64)
 81240037b77b6a0d1e7ca0e707483092 ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Kiosk Demo)
 6218e4c8b0ad79a2fcb8fa9f0d23a13a ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Kiosk Demo)
 4df8e04babc9fbf9d67b72cc3e952c8a ntsc|cic5167|rpak|tpak # Doshin The Giant 1 Save Fix v1.1 ozidual
-e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (English Translated, Rev 1)
-05b271a640d3188ed7166c2c6a357934 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (Japan) (Proto)
+e2de0cca56d2ffa4a489933d76955205 ntsc|cic6102|flash128k|cpak|rtc # Cubivore [Doubutsu Banchou (J)] (English Translated, Rev 1)
+05b271a640d3188ed7166c2c6a357934 ntsc|cic6102|flash128k|cpak|rtc # Doubutsu Banchou (Proto)
 cf77c88fe389897b348d5d1959ee13bd ntsc|cic6102 # Dynamix Intro by Widget and Immortal
 4d2e751624901b5c2863f153d8e7c6c7 ntsc|cic6102 # Dynamix Intro by Widget and Immortal
 aa22f738c387df27fa6d328db51fa793 ntsc|cic6102 # Dynamix Readme by Widget and Immortal
@@ -73,7 +73,7 @@ a43fb11b4dff63f07942cbe304b0e899 ntsc|cic6105|rpak # Jet Force Gemini (Kiosk Dem
 cfe93dea250048880f415fc5bc7188e2 ntsc|cic6105|rpak # Jet Force Gemini (Kiosk Demo)
 ece76545ef6166fc358b723976940496 ntsc|cic6102|rpak # Jet Force Gemini (Kiosk Demo) (Save)
 10c2e1fb4b4485682c48643c9fcf00f1 ntsc|cic6102|eeprom2k|rpak # Kirby 64 - The Crystal Shards
-d1103bc65cbb0b39eb7b44d15ddf3f93 ntsc|cic5101|eeprom512 # Kuru Kuru Fever (Aleck64)
+d1103bc65cbb0b39eb7b44d15ddf3f93 ntsc|cic6103|eeprom512 # Kuru Kuru Fever (Aleck64)
 318ecad8366785fbccccae62f1c8bfa2 ntsc|cic6102|rpak|tpak # Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (64drive 1.12d Compatible V1.0)
 37a73750f84bf5cae0fbec2eba033a26 ntsc|cic6102|rpak|tpak # Kyojin no Doshin (64drive 1.12d Compatible V1.0)
 a7f0268ba5dd49db0117e9c2214d5eb7 ntsc|cic6102|rpak|tpak # Kyojin no Doshin (Demo) (64drive 1.12d Compatible V1.0)
@@ -83,7 +83,7 @@ f9aa89a81a34262df3695f092b9eca23 ntsc|cic5167|rpak|tpak # Kyojin no Doshin 1 (Ki
 b23003df72a5dbc7230e1e56f9ce28f3 ntsc|cic6102 # LaC's MOD Player - The Temple Gates
 cdf5c8b9c7f0d25d70288078c16d2524 ntsc|cic6105|rpak # Legend of Zelda, The - Majora's Mask - Preview Demo
 c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|rpak # Lt. Duck Dodgers (Prototype)
-3e488fe2e3c6f44bb78bd2e359b7f0cc ntsc|cic5101|eeprom512|rpak # Magical Tetris Challenge Featuring Mickey
+3e488fe2e3c6f44bb78bd2e359b7f0cc ntsc|cic6103|eeprom512|rpak # Magical Tetris Challenge Featuring Mickey
 86482f9e82a1d5600b6481a78dda5141 ntsc|cic6102|rpak|tpak # Mario Artist - Communication Kit (64drive 1.12d Compatible V1.0)
 225d974f74402152809b33676c3dc313 ntsc|cic6102|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
 da36dcff0586350c66d3235b21101fe8 ntsc|cic6102|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
@@ -128,7 +128,7 @@ ce5eeb8d265caf02158b8cb2cd395678 ntsc|cic5167|rpak|tpak # Sim City 64 v1.1 Fixed
 69517e6224814a88b4d0ca94d1318759 ntsc|cic6102 # SMOS01 Demo by Acclaim & marshallh (PD)
 e2248995ec99eed25111270afa6d63c9 pal|cic7101|cpak|rpak # South Park
 1fb58d87cfd87ec98fe67c916f0591f1 pal|cic7101|cpak|rpak # South Park
-bbd08208cece16cb79ce35e17223239c ntsc|cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
+bbd08208cece16cb79ce35e17223239c ntsc|cic6103|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
 a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
 12086e237340e0034924407da8f69484 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
 7b551edf84d631ed68d6474d890e23e0 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
@@ -137,7 +137,7 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 f13caf119c0ce9e18d0b89889172e3f0 ntsc|cic6102|cpak|rpak # Top Gear Hyper Bike (Beta)
 c312f11c7820b77b4283cea212c12f45 pal|cic7101|cpak|rpak # Top Gear Rally 2 (Beta)
-45d621969ab0c22756bd6f6e34622119 ntsc|cic5101|eeprom512 # Tower&Shaft (Aleck64)
+45d621969ab0c22756bd6f6e34622119 ntsc|cic6103|eeprom512 # Tower & Shaft (Aleck64)
 d42dff4f1c08668c61a67821f78c18c4 ntsc|cic6102|cpak # Turok - Dinosaur Hunter
 e8f4d76f55afce0697b51173a9382a37 pal|cic7101|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
 6b65043e5a394f7c97db83773759ef55 ntsc|cic6102|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
@@ -155,7 +155,7 @@ a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Di
 9bbabdedcd717c4eded24f4e52177b96 ntsc|cic6102|eeprom512 # Viewpoint 2064 (Japan) (Proto)
 7b06e4fbf15112a88c5f9c182fa1264b ntsc|cic6102|eeprom512 # Viewpoint 2064 T+Eng v1.1 Zoinkity
 c6b3c6121313f311a22153f7b1f54a39 ntsc|cic6102|sram32k|cpak|rpak # Virtual Pro Wrestling 64
-f526f5fcb87a49425ea481dbe4cddea9 ntsc|cic5101|eeprom512 # Vivid Dolls (Aleck64)
+f526f5fcb87a49425ea481dbe4cddea9 ntsc|cic6103|eeprom512 # Vivid Dolls (Aleck64)
 094901ab50e4acf72adc410f306fe17a ntsc|cic6102|cpak # VNES64 + Galaga
 07e74c378c14673c09347b63f94b5750 ntsc|cic6102|cpak # VNES64 + Mario
 e27ca7816964d50faeeb46c191732daf ntsc|cic6102|cpak # VNES64 V0.12 by Jean-Luc Picard
@@ -608,9 +608,9 @@ ID:NYW___ sram32k|cpak # Harvest Moon 64 [Bokujou Monogatari 2]
 ID:NZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time (E)
 ID:NZO___ cpak|rpak # Battlezone - Rise of the Black Dogs
 ID:NZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen (J)]
-ID:ZCA___ cic5101 eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
-ID:ZHA___ cic5101 # Eleven Beat - World Tournament (Aleck64)
-ID:ZHB___ cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
-ID:ZSA___ cic5101|eeprom512 # Vivid Dolls (Aleck64)
-ID:ZSC___ cic5101 # Mayjinsen 3 (Aleck 64)
-ID:ZSE___ cic5101 # Super Real Mahjong VS (Aleck 64)
+ID:ZCA___ cic6103|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
+ID:ZHA___ cic6103 # Eleven Beat - World Tournament (Aleck64)
+ID:ZHB___ cic6103|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
+ID:ZSA___ cic6103|eeprom512 # Vivid Dolls (Aleck64)
+ID:ZSC___ cic6103 # Mayjinsen 3 (Aleck 64)
+ID:ZSE___ cic6103 # Super Real Mahjong VS (Aleck 64)
