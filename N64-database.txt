@@ -3472,3 +3472,115 @@ a351407a0e81ed040ae7da45d7c93d7b ntsc|cic6102|cpak|rpak # Wipeout 64
 b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 6debed294271420221177b972f240b04 pal|cic7101 # Wizard of the Board
 24da9e65cf49dc2692337db4f69cb7ee ntsc|cic6102 # Wizard of the Board - Sicko Mode
+ea1faa1d43bddb2ad4e35ef45ef8281a ntsc|cic6102 # Wolfenstein 3D - Shareware PC Version by jnmartin84
+2efae6c28a445d1eade19db7cd56199f ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+31e2442a4b24afcb7c3a01098a85b68f ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+2e0164e16672f7fc297a47816cb0a766 ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+9ff123863671a20287d5b7c5e0ab23bb ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+db981b4a0e5c90317b2e9d541104b65e ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+2ca56df177e8303aa98b14cb2add25fa ntsc|cic6102|cpak # Wonder Project J2 - Koruro no Mori no Jozet
+ab2d25a484b3d05a3262b5d07cf7e925 ntsc|cic6102|cpak # World Cup 98
+84acb930b9ba0ac44dc1fce0d768e103 pal|cic7101|cpak # World Cup 98
+842f263e1b20a62eae934892fb09c054 ntsc|cic6102|cpak|rpak # World Driver Championship
+2d3846f515f118b110bf873739028ace pal|cic7101|cpak|rpak # World Driver Championship
+7cdb22e181d90806a21f6dca8e32435f pal|cic7101|cpak|rpak # World Driver Championship
+dd6fb656b43fafbf8d9f7ac1eb93d9ce ntsc|cic6102|cpak|rpak # World Driver Championship
+d97bb83b4e264f20d42e2ab6f5a5173a ntsc|cic6102|cpak|rpak # World Driver Championship
+e1f86b00c6fe29c7bc22b842f7d8475d ntsc|cic6102|cpak|rpak # World Driver Championship
+c32a69a9d32bab867b7f11f7ca391132 ntsc|cic6102|cpak|rpak # World Driver Championship
+3705378f84bf8ed558faccfffc6713c3 ntsc|cic6102|cpak|rpak # World Driver Championship (Debugger by Zoinkity)
+3f3a6f790dd28df54ba89f37daaf337a ntsc|cic6102|eeprom512 # Worms - Armageddon
+b42b6d115b844d679691881163a3bdb8 pal|cic7101|eeprom512 # Worms - Armageddon
+13721908942b430a4f68762e75ffa064 pal|cic7101|eeprom512 # Worms - Armageddon
+1ea2579b2404fa5eb3ce5e7180d8a7da ntsc|cic6102|eeprom512|rpak # Wreck's Multi Pack (Customized Version) (GE Hack)
+2449511db88c8f68e501f4c32e43f112 ntsc|cic6102|eeprom512|rpak # Wreck's Multi Pack (Normal Version) (GE Hack)
+db1696bee887ecb018fda3acecaf4a95 ntsc|cic6102|cpak|rpak # WWF - War Zone
+24892c5bc363232d935f914358f0906e pal|cic7101|cpak|rpak # WWF - War Zone
+a9ebdd2f2acd163c3257aae693f38065 ntsc|cic6102|cpak|rpak # WWF Attitude
+e409c7636d2516350485b963123d03d3 pal|cic7101|cpak|rpak # WWF Attitude
+5bd97ba24cb6b5bd74caefec282e4e76 pal|cic7101|cpak|rpak # WWF Attitude
+cda059fcb7b745b084961d17009082f7 ntsc|cic6102|cpak|rpak # WWF Attitude
+c78b2da1dd450728102dc7d4777bf4f9 ntsc|cic6102|flash128k|cpak|rpak # WWF No Mercy
+e22de512e237bdea1561edc6df76a8c9 pal|cic7101|flash128k|cpak|rpak # WWF No Mercy
+ecccdcdded23510537407ade221ba991 pal|cic7101|flash128k|cpak|rpak # WWF No Mercy
+f9073323939d2564ac0c03a3e41e4a0f ntsc|cic6102|flash128k|cpak|rpak # WWF No Mercy
+eb05f4a070356653936957d98081adea ntsc|cic6102|flash128k|cpak|rpak # WWF No Mercy
+14455acf3e51242c67141b39de6114fd ntsc|cic6102|flash128k|cpak|rpak # WWF No Mercy (Beta)
+12bbeabc866759625c53fc21a4b4ba05 ntsc|cic6102|sram32k|cpak|rpak # WWF WrestleMania 2000
+836c43b57335504c08929a03c3978cff pal|cic7101|sram32k|cpak|rpak # WWF WrestleMania 2000
+3426fa4a9fda6a7e649f9d351e87fff3 ntsc|cic6102|sram32k|cpak|rpak # WWF WrestleMania 2000
+ba9a97d499b36a4fba70c6bde47a2135 pal|cic7101|sram32k|cpak|rpak # WWF WrestleMania 2000
+3559b43d0f6c1b9595a24666f8cac1db ntsc|cic6102 # X'treme Roller (Proto)
+82cbd4aaed062e7010dc6ae4b215e4ff ntsc|cic6102|cpak|rpak # Xena Warrior Princess - The Talisman of Fate
+d19206c39fc7ccc731966d80a8789d4c pal|cic7101|cpak|rpak # Xena Warrior Princess - The Talisman of Fate
+37d9e352d6f1a893f55c5433cbd42d86 ntsc|cic6102|cpak|rpak # Xena Warrior Princess - The Talisman of Fate
+b6f8ea2ca32c060ebfd6d07cd00341d5 ntsc|cic6102|cpak|rpak # Xena Warrior Princess - The Talisman of Fate
+5d005d7973d119e7cb48fab90c241873 ntsc|cic6102 # XenoCrisis
+3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102 # XenoCrisis_ED
+aac2130a46f92115a43569575154242f ntsc|cic6102 # Xplorer 64 (DE, Rev 1
+dde4d07e2f33595cfebb3ca77c52bfd1 ntsc|cic6102 # XtraLife Dextrose Demo by RedboX
+f3c28123697effc4ea3635ff40252a9e ntsc|cic6102 # XtraLife Dextrose Demo by RedboX
+a649ac3b9601de27b25cf5f81144057d ntsc|cic6102 # Y2K Demo by WT_Riker
+9378a732302ea8c5128921c5805768c0 ntsc|cic6102 # Y2K Demo by WT_Riker
+50e4c9824c6c6c34eba49cbc815d245e ntsc|cic6102 # Y2K Demo WT_Riker
+5c118a20804e28370a0f196aa081f696 ntsc|cic6102 # Y2K Demo WT_Riker
+2d0fae8c587e8caa81f6d889075bad73 ntsc|cic6102|eeprom512|rpak # Yakouchuu II - Satsujin Kouru
+290ebc22f6091815b26564cd6190a7cd ntsc|cic6102|eeprom512 # Year of the Plumber by Meltfire (C3 Demo) (SM64 Hack)
+f55bf23544777725825d20d34926ba9e ntsc|cic6102|eeprom512 # Year of the Plumber by Meltfire (V20130721_Beta1) (SM64 Hack)
+a70c30eb50eb075d59cd9d0113dbc16f ntsc|cic6102 # Yeti3D by Chilly Willy
+1f3585c3ae505c3e34575e37d29c4293 ntsc|cic6102 # Yeti3D Pro ChillyWilly 2012-08-17
+dd730b17c062575e849d45ff50c83ee6 ntsc|cic6106|eeprom2k|rpak # Yoshi Story
+ceb5bcac4d6e167ba40a858d66c5607a ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+e77d8a84e02e401bc8151bb0c53ac70a ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+c3c75a0303b4f3c81bc3df8652f563c2 ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+018ca0a1574c9cc7caa158847958a0e5 ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+8a947afd3013062a0ec1f94d711436ad ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+fdc353caf7ad01159132465e77f10661 ntsc|cic6102|eeprom2k|rpak # Yoshi Story
+f6b50e66333704747cb6688264bdfbb7 ntsc|cic6106|eeprom2k|rpak # Yoshi Story (Health and Eggs)
+a4f3c4f1e5c37d3790d47bf4a1a54e29 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story
+a06aef74f9ba457e982d2ffc0a4236c8 pal|cic7106|eeprom2k|rpak # Yoshi's Story
+28e8f7d0ff5a9b727ee5f31eb58bd384 pal|cic7101|eeprom2k|rpak # Yoshi's Story
+a9b5888dd8b61d282fc7c5a4579386b3 ntsc|cic6102|eeprom2k|rpak # Yoshi's Story
+76865638321bec76b5cf820f8f94935f ntsc|cic6102|eeprom2k|rpak # Yoshi's Story
+df07a18d1e5427f366954f5107053ce4 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story
+ce53cb1736d8f8ec2c0c2b1019e38eec ntsc|cic6102|eeprom2k|rpak # Yoshi's Story
+934e10619f857c1ba94bdb789a2d7b49 pal|cic7106|eeprom2k|rpak # Yoshi's Story
+01e358d386eab99ecd130d47ca1e8769 ntsc|cic6102|rpak # Yoshi's Story (En,Ja) (LodgeNet)
+ef8c778a7beed8c8ad6f7f225e6326c1 pal|cic7106|eeprom2k|rpak # Yoshi's Story (Health and Eggs)
+08bf92ba3201e92134bc99c7ccb67780 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story (Health and Eggs)
+5f9f0cae9b106a2f3c5afd11d66e5ef8 ntsc|cic6102 # Yoshi's Story BootEmu
+7cf53f952f49965ee7ebc1685b6a2312 ntsc|cic6106|eeprom2k|rpak # Yoshi's Story D-Pad Controls
+bad9b1c41c894f1f39c0f6ada8eacd39 ntsc|cic6102|eeprom512 # Yuke Yuke!! Trouble Makers
+65efa5636308f64faee63562633a94c1 ntsc|cic6102|eeprom512 # Yuke Yuke!! Trouble Makers SRAM Uploader
+ee2ce1017174c7a1c16cc6a87dec17e2 ntsc|cic6102 # Zelda 64 Boot Emu V1 by Crazy Nation
+feacab085f507071af4f45fb5d268a49 ntsc|cic6102 # Zelda 64 Boot Emu V2 by Crazy Nation
+cc9ea0993522193840c6648fcc73901a ntsc|cic6105|flash128k|rpak # Zelda Gaiden 64 - Expansion (Demo) (Early Version) (MM Hack)
+b0f842869c28ec66b1ed705f6590f8a4 ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Gaiden - Play as OoTLink by Natsu235 (Beta) (MM Hack)
+ffe89d0c1f38b8deffb302fc4c915ecd ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen
+176118dcfa54f7592b621092eb2ab944 ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen
+55476fd84bf6a98a4d53e5afaedcd1a2 ntsc|cic6102|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen
+453830f1e641df9db820c5b55f885e95 ntsc|cic6102|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen
+00e8e6f63a7ee87805c47a70ea9e59d3 ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen (Fishing Rod)
+6be4054a447e9ba047b03bfd7304eec4 ntsc|cic6102|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen (Japan) Aroenai 5-2017
+248743b97464c1baf2d93ad21db8824b ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen (MirrorShield )
+9b6639e992b6b7fee92d7da023312aed ntsc|cic6105|flash128k|rpak # Zelda no Densetsu - Mujura no Kamen - Play as Adult Link by fkualol (Hack)
+0a6dde089744d142b3a6846f25116811 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina
+d0f21efe1e4106765aa88e84a5617779 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina
+1dabdd300cf988809f06fe2522d86af3 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina
+74b5404c485d732f952ccb7cd4836d22 ntsc|cic6102|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina
+0a5008d0c7be8cc64e7a9ddfe39f1dfb ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest (Debug Version) (Boss Rush Competition by DeathBasket)
+df8c252513040dd5059a6bab781ff14b ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest (Debug Version) (Razor Sword with GI and Item Icon)
+152d05d368dc5febd2afc4c04d53dddd ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest (Debug Version) (V3.0, 25 Fixes by ChriisTiian)
+6732d00842a2a925cacbd78c416fd835 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest (Debug Version) (V3.5, 27 Fixes by ChriisTiian)
+fd38bf845650da8121e311c73faa048a ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest - Play as Kafei (OoT Debug Hack)
+6d498e2962450f1809b5cb4fe62cf632 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Master Quest - Play as Wario by Russmarrs2 (OoT Debug Hack)
+71f074da8b09f7dff2b6cbcc59d04be5 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina - Zelda Collection Version
+173a7e5a7a9032f5b11e84b2acb1a123 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina GC
+02ff8e31d97c82ca93e6e7777fd11879 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina GC Decensorship (Hack) Aroenai 2017-04-01
+212a9340bca325f34b862cec20384310 ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina GC URA
+a5cc06cd1dbb76aeac99288b13ebb3cd ntsc|cic6105|sram32k|rpak # Zelda no Densetsu - Toki no Ocarina GC Ura GC Decensorship (Hack) Aroenai 2017-04-01
+3a5e4ba02d8f518145cd37296ffcb337 ntsc|cic6105|sram32k|rpak # Zelda Project Beta Triforce - Ice Temple - Room117 by areoblast43o9 (Demo 1) (OoT Debug Hack)
+44304f9e248de16a1678d7a6db8f9e33 ntsc|cic6105|sram32k|rpak # Zelda Project Beta Triforce - Temple of Light - Room72 by areoblast43o9 (Demo1) (OoT Debug Hack)
+dc802b1a707804d9cc14f8e2f87c993f ntsc|cic6105|sram32k|rpak # zelda_ocarina_mq_dbg (patched)
+e881e32887bd196e104dc9574d78083d ntsc|cic6102|eeprom512|cpak # Zool - Majou Tsukai Densetsu
+62634e092d20d88fd4e70f286e827ac7 ntsc|cic6102|cpak # Zool - Majou Tsukai Densetsu

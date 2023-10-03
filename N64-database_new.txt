@@ -1,5 +1,4 @@
 # MD5 checksums
-b17df851db300b5e022dcdd1f44bc6b4 ntsc|cic6102|rpak # 007 - Goldfinger
 03f81f7a4f0ae2cc4e3c7422d9f79fef ntsc|cic6102 # 2 Blokes & An Armchair - N64 Remix Remix by Tesko (PD)
 ffcb018cb73cf40bc52db39d113c0ff3 ntsc|cic6102 # 3DS Model Conversion by Snake
 0949de363010f42f01ce766f60c0bf0a ntsc|cic6102 # 3DS Model Conversion by Snake
