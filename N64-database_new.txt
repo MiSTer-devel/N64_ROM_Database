@@ -1,5 +1,4 @@
 # MD5 checksums
-b17df851db300b5e022dcdd1f44bc6b4 ntsc|cic6102|rpak # 007 - Goldfinger
 03f81f7a4f0ae2cc4e3c7422d9f79fef ntsc|cic6102 # 2 Blokes & An Armchair - N64 Remix Remix by Tesko (PD)
 ffcb018cb73cf40bc52db39d113c0ff3 ntsc|cic6102 # 3DS Model Conversion by Snake
 0949de363010f42f01ce766f60c0bf0a ntsc|cic6102 # 3DS Model Conversion by Snake
@@ -84,7 +83,7 @@ f9aa89a81a34262df3695f092b9eca23 ntsc|cic5167|rpak|tpak # Kyojin no Doshin 1 (Ki
 b23003df72a5dbc7230e1e56f9ce28f3 ntsc|cic6102 # LaC's MOD Player - The Temple Gates
 cdf5c8b9c7f0d25d70288078c16d2524 ntsc|cic6105|rpak # Legend of Zelda, The - Majora's Mask - Preview Demo
 c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|rpak # Lt. Duck Dodgers (Prototype)
-3e488fe2e3c6f44bb78bd2e359b7f0cc ntsc|cic5101|rpak # Magical Tetris Challenge Featuring Mickey
+3e488fe2e3c6f44bb78bd2e359b7f0cc ntsc|cic5101|eeprom512|rpak # Magical Tetris Challenge Featuring Mickey
 86482f9e82a1d5600b6481a78dda5141 ntsc|cic6102|rpak|tpak # Mario Artist - Communication Kit (64drive 1.12d Compatible V1.0)
 225d974f74402152809b33676c3dc313 ntsc|cic6102|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
 da36dcff0586350c66d3235b21101fe8 ntsc|cic6102|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
@@ -248,7 +247,7 @@ ID:NCB___ rpak # Charlie Blast's Territory
 ID:NCC___ flash128k|rpak # Command & Conquer
 ID:NCD___ cpak|rpak # Carmageddon 64
 ID:NCE___ cpak|rpak # Nuclear Strike 64
-ID:NCF___ # Clay Fighter 63 1-3
+ID:NCF___ # Clay Fighter 63 1/3
 ID:NCG___ eeprom512|cpak|rpak|tpak # Choro Q 64 II - Hacha Mecha Grand Prix Race (J)
 ID:NCH___ eeprom512|rpak # Chopper Attack
 ID:NCK___ flash128k|rpak # NBA Courtside 2 featuring Kobe Bryant
@@ -273,7 +272,8 @@ ID:NDC___ cpak|rpak # SD Hiryuu no Ken Densetsu (J)
 ID:NDE___ cpak|rpak # Destruction Derby 64
 ID:NDF___ rpak # Dance Dance Revolution - Disney Dancing Museum
 ID:NDH___ cpak # Duel Heroes
-ID:NDKJ__ eeprom512 # Dark Rift [Space Dynamites (J)]
+ID:NDKJ__ eeprom512 # Space Dynamites
+ID:NDK___ # Dark Rift [Space Dynamites (J)]
 ID:NDM___ cpak # Doom 64
 ID:NDN___ cpak|rpak # Duke Nukem 64
 ID:NDO___ eeprom2k|rpak # Donkey Kong 64
@@ -319,12 +319,13 @@ ID:NGB___ cpak|rpak # Top Gear Hyper Bike
 ID:NGC___ eeprom2k|cpak|rpak # GT 64: Championship Edition
 ID:NGD___ cpak|rpak # Gauntlet Legends (J)
 ID:NGE___ eeprom512|rpak # GoldenEye 007
+ID:NGF___ rpak # 007 - Goldfinger
 ID:NGL___ eeprom512|cpak|rpak # Getter Love!!
 ID:NGM___ cpak|rpak # Goemon's Great Adventure [Mystical Ninja 2 Starring Goemon]
 ID:NGN___ cpak # Golden Nugget 64
 ID:NGP___ sram32k|cpak # Goemon: Mononoke Sugoroku
 ID:NGRE__ cpak|rpak # Top Gear Rally (U)
-ID:NGR___ ceeprom512|pak|rpak # Top Gear Rally
+ID:NGR___ eeprom512|cpak|rpak # Top Gear Rally
 ID:NGS___ cpak # Jikkyou G1 Stable
 ID:NGT___ eeprom2k|cpak|rpak # City Tour GrandPrix - Zen Nihon GT Senshuken
 ID:NGU___ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha (Sin and Punishment)
@@ -337,6 +338,7 @@ ID:NHB___ # Nintama Rantarou 64 Game Gallery
 ID:NHC___ cpak|rpak # Hercules - The Legendary Journeys
 ID:NHF___ eeprom512 # 64 Hanafuda: Tenshi no Yakusoku
 ID:NHG___ cpak # F-1 Pole Position 64
+ID:NHH___ eeprom512|cpak # Mario Kart 64 (Super W00ting Hack)
 ID:NHK___ cpak|rpak # Hiryuu no Ken Twin
 ID:NHL___ cpak|rpak # NHL Breakaway '98
 ID:NHM___ cpak|rpak # Mia Hamm Soccer 64
@@ -352,7 +354,7 @@ ID:NHY___ sram32k|cpak|rpak # Hybrid Heaven (J)
 ID:NIB___ sram32k|rpak # Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!
 ID:NIC___ eeprom512|rpak # Indy Racing 2000
 ID:NIJ___ eeprom512|rpak # Indiana Jones and the Infernal Machine
-ID:NIM___ eeprom2k|break; # Ide Yosuke no Mahjong Juku
+ID:NIM___ eeprom2k # Ide Yosuke no Mahjong Juku
 ID:NIR___ eeprom512|rpak # Utchan Nanchan no Hono no Challenger: Denryuu Ira Ira Bou
 ID:NIS___ cpak|rpak # International Superstar Soccer 2000 
 ID:NIV___ cpak|rpak # Space Invaders
@@ -406,6 +408,7 @@ ID:NMK___ # Mortal Kombat Trilogy
 ID:NMLJ__ eeprom512|rpak # Mickey no Racing Challenge USA (J)
 ID:NML___ eeprom512|rpak|tpak # Mickey's Speedway USA [Mickey no Racing Challenge USA]
 ID:NMM___ cpak # Mahjong Master
+ID:NMN___ # Mini Racers (Prototype)
 ID:NMO___ eeprom512 # Monopoly
 ID:NMP___ # Mario no Photopie
 ID:NMQ___ flash128k|rpak # Paper Mario
@@ -447,13 +450,13 @@ ID:NPB___ cpak|rpak # Puzzle Bobble 64 (J)
 ID:NPC___ cpak # Pachinko 365 Nichi (J)
 ID:NPD___ eeprom2k|cpak|rpak|tpak # Perfect Dark
 ID:NPE___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu Basic Ban 2001
-ID:NPF___ flash128k|break; # Pokemon Snap [Pocket Monsters Snap (J)]
+ID:NPF___ flash128k # Pokemon Snap [Pocket Monsters Snap (J)]
 ID:NPG___ eeprom512|rpak # Hey You, Pikachu! [Pikachu Genki Dechu (J)]
 ID:NPH___ flash128k # Pokemon Snap Station
 ID:NPK___ cpak # Chou Kuukan Night Pro Yakyuu King (J)
 ID:NPL___ cpak # Power League 64 (J)
 ID:NPM___ sram32k|cpak # Premier Manager 64
-ID:NPN___ flash128k|break; # Pokemon Puzzle League
+ID:NPN___ flash128k # Pokemon Puzzle League
 ID:NPO___ flash128k|tpak # Pokemon Stadium
 ID:NPP___ eeprom2k|cpak # Parlor! Pro 64: Pachinko Jikki Simulation Game
 ID:NPQ___ # Powerpuff Girls, The - Chemical X-Traction
@@ -526,7 +529,7 @@ ID:NT2___ cpak|rpak # Turok 2 - Seeds of Evil [Violence Killer - Turok New Gener
 ID:NT3___ sram32k|cpak # Shin Nihon Pro Wrestling - Toukon Road 2 - The Next Generation (J)
 ID:NT4___ cpak|rpak # CyberTiger
 ID:NT6___ eeprom512 # Tetris 64
-ID:NT9___ flash128k|break; # Tigger's Honey Hunt
+ID:NT9___ flash128k # Tigger's Honey Hunt
 ID:NTA___ cpak|rpak # Disney's Tarzan
 ID:NTB___ eeprom512|rpak|tpak # Transformers: Beast Wars Metals 64 (J)
 ID:NTC___ eeprom512|rpak # 64 Trump Collection
@@ -605,3 +608,9 @@ ID:NYW___ sram32k|cpak # Harvest Moon 64 [Bokujou Monogatari 2]
 ID:NZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time (E)
 ID:NZO___ cpak|rpak # Battlezone - Rise of the Black Dogs
 ID:NZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen (J)]
+ID:ZCA___ cic5101 eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
+ID:ZHA___ cic5101 # Eleven Beat - World Tournament (Aleck64)
+ID:ZHB___ cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
+ID:ZSA___ cic5101|eeprom512 # Vivid Dolls (Aleck64)
+ID:ZSC___ cic5101 # Mayjinsen 3 (Aleck 64)
+ID:ZSE___ cic5101 # Super Real Mahjong VS (Aleck 64)
