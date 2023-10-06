@@ -614,3 +614,59 @@ ID:ZHB___ cic6103|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
 ID:ZSA___ cic6103|eeprom512 # Vivid Dolls (Aleck64)
 ID:ZSC___ cic6103 # Mayjinsen 3 (Aleck 64)
 ID:ZSE___ cic6103 # Super Real Mahjong VS (Aleck 64)
+
+# Homebrew (libdragon / Everdrive special header flag)
+ID:_ED_11 eeprom512|cpak|rpak|rtc
+ID:_ED_21 eeprom2k|cpak|rpak|rtc
+ID:_ED_31 sram32k|cpak|rpak|rtc
+ID:_ED_41 sram96k|cpak|rpak|rtc
+ID:_ED_51 flash128k|cpak|rpak|rtc
+ID:_ED_13 eeprom512|cpak|rpak|rtc
+ID:_ED_23 eeprom2k|cpak|rpak|rtc
+ID:_ED_33 sram32k|cpak|rpak|rtc
+ID:_ED_43 sram96k|cpak|rpak|rtc
+ID:_ED_53 flash128k|cpak|rpak|rtc
+ID:_ED_15 eeprom512|cpak|rpak|rtc
+ID:_ED_25 eeprom2k|cpak|rpak|rtc
+ID:_ED_35 sram32k|cpak|rpak|rtc
+ID:_ED_45 sram96k|cpak|rpak|rtc
+ID:_ED_55 flash128k|cpak|rpak|rtc
+ID:_ED_17 eeprom512|cpak|rpak|rtc
+ID:_ED_27 eeprom2k|cpak|rpak|rtc
+ID:_ED_37 sram32k|cpak|rpak|rtc
+ID:_ED_47 sram96k|cpak|rpak|rtc
+ID:_ED_57 flash128k|cpak|rpak|rtc
+ID:_ED_19 eeprom512|cpak|rpak|rtc
+ID:_ED_29 eeprom2k|cpak|rpak|rtc
+ID:_ED_39 sram32k|cpak|rpak|rtc
+ID:_ED_49 sram96k|cpak|rpak|rtc
+ID:_ED_59 flash128k|cpak|rpak|rtc
+ID:_ED_1B eeprom512|cpak|rpak|rtc
+ID:_ED_2B eeprom2k|cpak|rpak|rtc
+ID:_ED_3B sram32k|cpak|rpak|rtc
+ID:_ED_4B sram96k|cpak|rpak|rtc
+ID:_ED_5B flash128k|cpak|rpak|rtc
+ID:_ED_1D eeprom512|cpak|rpak|rtc
+ID:_ED_2D eeprom2k|cpak|rpak|rtc
+ID:_ED_3D sram32k|cpak|rpak|rtc
+ID:_ED_4D sram96k|cpak|rpak|rtc
+ID:_ED_5D flash128k|cpak|rpak|rtc
+ID:_ED_1F eeprom512|cpak|rpak|rtc
+ID:_ED_2F eeprom2k|cpak|rpak|rtc
+ID:_ED_3F sram32k|cpak|rpak|rtc
+ID:_ED_4F sram96k|cpak|rpak|rtc
+ID:_ED_5F flash128k|cpak|rpak|rtc
+ID:_ED__1 cpak|rpak|rtc
+ID:_ED__3 cpak|rpak|rtc
+ID:_ED__5 cpak|rpak|rtc
+ID:_ED__7 cpak|rpak|rtc
+ID:_ED__9 cpak|rpak|rtc
+ID:_ED__B cpak|rpak|rtc
+ID:_ED__D cpak|rpak|rtc
+ID:_ED__F cpak|rpak|rtc
+ID:_ED_1_ eeprom512|cpak|rpak
+ID:_ED_2_ eeprom2k|cpak|rpak
+ID:_ED_3_ sram32k|cpak|rpak
+ID:_ED_4_ sram96k|cpak|rpak
+ID:_ED_5_ flash128k|cpak|rpak
+ID:_ED___ cpak|rpak
