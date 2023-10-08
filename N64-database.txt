@@ -2495,6 +2495,7 @@ afe8911262b7c208105355067869c55e ntsc|cic6102 # Pong by Oman
 1d7f5fce38bb5d1fa67acb0483b52394 ntsc|cic6102 # Pong by Oman
 9d31c3fb5e190b9c81f483421db51b92 ntsc|cic6102 # Pong V0.01 by Omsk
 13d91c51e7ecb2504df8fd2d28990d32 ntsc|cic6102 # Portal
+52b452f7c07cb9f9734d98c203244ce1 ntsc|cic6102|sram32k # Portal (0.11) >
 e468378c218897ea452c55b340889604 ntsc|cic6102|cpak # Power League 64
 4e70449030308373ed3e4cc1979d0189 ntsc|cic6102|cpak # Power Rangers - Lightspeed Rescue
 1d4a7dbe8fdbda98594fc77a74401bbc pal|cic7101|cpak # Power Rangers - Lightspeed Rescue
