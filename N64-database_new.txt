@@ -656,17 +656,8 @@ ID:_ED_2F eeprom2k|cpak|rpak|rtc
 ID:_ED_3F sram32k|cpak|rpak|rtc
 ID:_ED_4F sram96k|cpak|rpak|rtc
 ID:_ED_5F flash128k|cpak|rpak|rtc
-ID:_ED__1 cpak|rpak|rtc
-ID:_ED__3 cpak|rpak|rtc
-ID:_ED__5 cpak|rpak|rtc
-ID:_ED__7 cpak|rpak|rtc
-ID:_ED__9 cpak|rpak|rtc
-ID:_ED__B cpak|rpak|rtc
-ID:_ED__D cpak|rpak|rtc
-ID:_ED__F cpak|rpak|rtc
 ID:_ED_1_ eeprom512|cpak|rpak
 ID:_ED_2_ eeprom2k|cpak|rpak
 ID:_ED_3_ sram32k|cpak|rpak
 ID:_ED_4_ sram96k|cpak|rpak
 ID:_ED_5_ flash128k|cpak|rpak
-ID:_ED___ cpak|rpak
