@@ -33,6 +33,9 @@ c03f0d8f37eea7d72f85d9a8d7b49cdf ntsc|cic6102|cpak # Berney Must Die! by Nop_
 0d0039a42fa356bfea06159649e0125f ntsc|cic6102 # Bike Race '98 V1.0 by NAN
 f1aae1ac9b406726398bef360de8f80a ntsc|cic6102 # Bike Race '98 V1.2 by NAN
 62c1c8738ac652dce0c8df79f5dd53a6 ntsc|cic6102 # Bike Race '98 V1.2 by NAN
+fe3119cc47334e64faedf1435517078d ntsc|cic6102 # Caribbean Nights by Megahawks Inc
+8d3673f9de172ab98e345b21ae1a39b1 ntsc|cic6102 # Caribbean Nights MegaHawks
+29bacb5a777f9b2cb9b1cc194d26f9f5 ntsc|cic6102 # Caribbean Nights MegaHawks
 75cd95d338f72d7946768c32bc87958d pal|cic7101|cpak|rpak # Carmageddon 64 (Eng-Spa-Fre-Ger)
 317085e9fcd8df3f70f11468e5611418 ntsc|cic6102|eeprom2k # Cave Story (Release Demo 1)
 24066da301c3e6f86966debfb892551f ntsc|cic6102 # Coco Demo (PD)
