@@ -180,7 +180,6 @@ ID:CP2___ flash128k|tpak # Pocket Monsters Stadium 2 (J)
 ID:CPS___ sram32k|tpak # Pocket Monsters Stadium (J)
 ID:CPY___ eeprom512|rpak # Puyo Puyo Sun 64
 ID:CZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time [Zelda no Densetsu - Toki no Ocarina (J)]
-ID:EPY___ eeprom512|rpak # Puyo Puyo Sun 64
 ID:N22___ cpak|rpak # Ready 2 Rumble Boxing - Round 2
 ID:N2M___ cpak|rpak # Madden Football 2002
 ID:N2P___ cpak|rpak # Rampage 2 - Universal Tour
