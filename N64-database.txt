@@ -611,12 +611,13 @@ ID:NYW___ sram32k|cpak # Harvest Moon 64 [Bokujou Monogatari 2]
 ID:NZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time (E)
 ID:NZO___ cpak|rpak # Battlezone - Rise of the Black Dogs
 ID:NZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen (J)]
-ID:ZCA___ cic6103|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
-ID:ZHA___ cic6103 # Eleven Beat - World Tournament (Aleck64)
-ID:ZHB___ cic6103|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
-ID:ZSA___ cic6103|eeprom512 # Vivid Dolls (Aleck64)
-ID:ZSC___ cic6103 # Mayjinsen 3 (Aleck 64)
-ID:ZSE___ cic6103 # Super Real Mahjong VS (Aleck 64)
+ID:ZCA___ cic5101|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
+ID:ZHA___ cic5101 # Eleven Beat - World Tournament (Aleck64)
+ID:ZHB___ cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
+ID:ZSA___ cic5101|eeprom512 # Vivid Dolls (Aleck64)
+ID:ZSC___ cic5101 # Mayjinsen 3 (Aleck 64)
+ID:ZSE___ cic5101 # Super Real Mahjong VS (Aleck 64)
+ID:Z_____ cic5101 # Aleck 64
 
 # Homebrew (libdragon / Everdrive special header flag)
 ID:_ED_01 cpak|rpak|rtc
