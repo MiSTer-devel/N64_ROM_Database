@@ -53,8 +53,8 @@ f64eb0451d772a0a806ef038abe35c52 ntsc|cic6102 # Absolute Crap #2 by Lem
 ff1ff9ad4cceed4a22ce21cf338abdbf ntsc|cic6102 # Absolute Crap Intro #1 by Kid Stardust
 45aee9ae64d338bc6a106498a5f90f60 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
 06b9992af56c7c71731b6b4285b7302a ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
-93ca3185b7734087ff7edb9e9d8bad26 ntsc|cic6102|eeprom512|cpak|rpak # Airboarder 64
-010f78a515aaa060485246e3711353b7 ntsc|cic6102|eeprom512|cpak|rpak # Airboarder 64
+93ca3185b7734087ff7edb9e9d8bad26 ntsc|cic6102|eeprom512|rpak|cpak # Airboarder 64
+010f78a515aaa060485246e3711353b7 ntsc|cic6102|eeprom512|rpak|cpak # Airboarder 64
 655b8fc59605f5d03c5ae7ca651452f0 ntsc|cic6102 # Alienstyle Intro by Renderman
 e1ab235d2fc0dafba8f6334a2757ad46 ntsc|cic6102 # Alienstyle Intro by Renderman
 863786a16713014b29262c02d58350ce ntsc|cic6102 # Alleycat 64 by Dosin
@@ -98,7 +98,7 @@ cf77c88fe389897b348d5d1959ee13bd ntsc|cic6102 # Dynamix Intro by Widget and Immo
 4d2e751624901b5c2863f153d8e7c6c7 ntsc|cic6102 # Dynamix Intro by Widget and Immortal
 aa22f738c387df27fa6d328db51fa793 ntsc|cic6102 # Dynamix Readme by Widget and Immortal
 0d5249ebf21cd05a8734a590514425f3 ntsc|cic6102|cpak # Eikou no Saint Andrews
-7fcd7b02d8fff45d57a949cec0ec3caf ntsc|cic6103|eeprom2k|cpak|rpak # Excitebike 64 (Kiosk Demo)
+7fcd7b02d8fff45d57a949cec0ec3caf ntsc|cic6103|eeprom2k|rpak|cpak # Excitebike 64 (Kiosk Demo)
 67939e51cdf144a894526e01eb1f23d2 ntsc|cic6102|cpak|rpak # Extreme-G
 267d133677537dd13bca33afff1c6033 ntsc|cic6102 # Fire Demo by Lac
 74f7699867312aa9e43e0797ade063cd ntsc|cic6102|cpak # Frogger 2 (Alpha)
@@ -208,7 +208,7 @@ f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Obl
 a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
 9bbabdedcd717c4eded24f4e52177b96 ntsc|cic6102|eeprom512 # Viewpoint 2064 (Japan) (Proto)
 7b06e4fbf15112a88c5f9c182fa1264b ntsc|cic6102|eeprom512 # Viewpoint 2064 T+Eng v1.1 Zoinkity
-c6b3c6121313f311a22153f7b1f54a39 ntsc|cic6102|sram32k|cpak|rpak # Virtual Pro Wrestling 64
+c6b3c6121313f311a22153f7b1f54a39 ntsc|cic6102|sram32k|rpak|cpak # Virtual Pro Wrestling 64
 f526f5fcb87a49425ea481dbe4cddea9 ntsc|cic6103|eeprom512 # Vivid Dolls (Aleck64)
 094901ab50e4acf72adc410f306fe17a ntsc|cic6102|cpak # VNES64 + Galaga
 07e74c378c14673c09347b63f94b5750 ntsc|cic6102|cpak # VNES64 + Mario
@@ -219,6 +219,8 @@ a104cbee34d1a6ab7e127b6b27eadf6f pal|cic7101 # Wet Dreams Readme by Immortal
 b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 6debed294271420221177b972f240b04 pal|cic7101 # Wizard of the Board
 24da9e65cf49dc2692337db4f69cb7ee ntsc|cic6102 # Wizard of the Board - Sicko Mode
+5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|sram32k|cpak|rpak # Xeno Crisis
+3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|sram32k|cpak|rpak # Xeno Crisis (Everdrive)
 
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
@@ -241,7 +243,7 @@ ID:N3HJ__ sram32k|rpak # Ganbare! Nippon! Olympics 2000
 ID:N3H___ cpak|rpak # International Track & Field 2000 [Summer Games]
 ID:N3P___ cpak|rpak # Triple Play 2000
 ID:N3T___ cpak|rpak # Tony Hawk's Pro Skater 3
-ID:N4W___ eeprom512|cpak|rpak # 40 Winks
+ID:N4W___ eeprom512|rpak|cpak # 40 Winks
 ID:N64___ cpak|rpak # Kira to Kaiketsu! 64 Tanteidan
 ID:N7I___ cpak # FIFA Soccer 64 [FIFA 64]
 ID:N8I___ cpak # FIFA - Road to World Cup 98 [World Cup e no Michi]
@@ -252,8 +254,8 @@ ID:N9C___ cpak|rpak # Nascar '99
 ID:N9F___ cpak # FIFA 99
 ID:N9H___ cpak|rpak # NHL '99
 ID:N9M___ cpak|rpak # Madden Football '99
-ID:NA2___ sram32k|cpak|rpak # Virtual Pro Wrestling 2
-ID:NAB___ eeprom512|cpak|rpak # Air Boarder 64
+ID:NA2___ sram32k|rpak|cpak # Virtual Pro Wrestling 2
+ID:NAB___ eeprom512|rpak|cpak # Air Boarder 64
 ID:NAC___ cpak|rpak # Army Men - Air Combat
 ID:NAD___ eeprom512 # Worms Armageddon
 ID:NAF___ flash128k|cpak|rtc # Doubutsu no Mori [Animal Forest]
@@ -284,14 +286,14 @@ ID:NBJ___ cpak # Bakushou Jinsei 64 - Mezase! Resort Ou
 ID:NBK___ eeprom512|rpak # Banjo-Kazooie [Banjo to Kazooie no Daiboken]
 ID:NBL___ cpak|rpak # Buck Bumble
 ID:NBM___ eeprom512|cpak # Bomberman 64 [Baku Bomberman]
-ID:NBN___ eeprom512|cpak|rpak # Bakuretsu Muteki Bangaioh
+ID:NBN___ eeprom512|rpak|cpak # Bakuretsu Muteki Bangaioh
 ID:NBO___ cpak # Bottom of the 9th
 ID:NBP___ cpak|rpak # Blues Brothers 2000
 ID:NBQ___ cpak|rpak # Battletanx - Global Assault
 ID:NBR___ cpak|rpak # Milo's Astro Lanes
 ID:NBS___ cpak|rpak # All-Star Baseball '99
 ID:NBU___ cpak # Bust-A-Move 2 - Arcade Edition
-ID:NBV___ eeprom512|cpak|rpak # Bomberman 64: The Second Attack! [Baku Bomberman 2]
+ID:NBV___ eeprom512|rpak|cpak # Bomberman 64: The Second Attack! [Baku Bomberman 2]
 ID:NBW___ cpak|rpak # Super Bowling
 ID:NBX___ cpak|rpak # Battletanx
 ID:NBY___ cpak|rpak # Bug's Life, A
@@ -302,7 +304,7 @@ ID:NCC___ flash128k|rpak # Command & Conquer
 ID:NCD___ cpak|rpak # Carmageddon 64
 ID:NCE___ cpak|rpak # Nuclear Strike 64
 ID:NCF___ # Clay Fighter 63 1/3
-ID:NCG___ eeprom512|cpak|rpak|tpak # Choro Q 64 II - Hacha Mecha Grand Prix Race
+ID:NCG___ eeprom512|rpak|cpak|tpak # Choro Q 64 II - Hacha Mecha Grand Prix Race
 ID:NCH___ eeprom512|rpak # Chopper Attack
 ID:NCK___ flash128k|rpak # NBA Courtside 2 featuring Kobe Bryant
 ID:NCL___ cpak|rpak # California Speed
@@ -338,7 +340,7 @@ ID:NDS___ cpak # J.League Dynamite Soccer 64
 ID:NDT___ cpak|rpak # South Park
 ID:NDU___ eeprom512|rpak # Duck Dodgers starring Daffy Duck
 ID:NDW___ cpak|rpak # Daikatana, John Romero's
-ID:NDY___ eeprom512|cpak|rpak # Diddy Kong Racing
+ID:NDY___ eeprom512|rpak|cpak # Diddy Kong Racing
 ID:NDZ___ cpak|rpak # Duke Nukem - Zero Hour
 ID:NEA___ eeprom512 # PGA European Tour
 ID:NEG___ cpak|rpak # Extreme-G
@@ -353,7 +355,7 @@ ID:NF9___ cpak # Fox Sports College Hoops '99
 ID:NFB___ cpak|rpak # NFL Blitz 2001
 ID:NFD___ cpak|rpak # Flying Dragon
 ID:NFF___ cpak|rpak # Fighting Force 64
-ID:NFG___ eeprom512|cpak|rpak # Fighter Destiny 2
+ID:NFG___ eeprom512|rpak|cpak # Fighter Destiny 2
 ID:NFH___ eeprom512|rpak # In-Fisherman Bass Hunter 64 
 ID:NFL___ cpak|rpak # Madden Football 2001
 ID:NFO___ cpak|rpak # Forsaken 64
@@ -363,25 +365,25 @@ ID:NFS___ cpak # Famista 64
 ID:NFU___ eeprom2k|rpak # Conker's Bad Fur Day
 ID:NFW___ eeprom512|rpak # F-1 World Grand Prix
 ID:NFX___ eeprom512|rpak # Star Fox 64 [Lylat Wars]
-ID:NFY___ eeprom512|cpak|rpak # Kakutou Denshou: F-Cup Maniax
+ID:NFY___ eeprom512|rpak|cpak # Kakutou Denshou: F-Cup Maniax
 ID:NFZ___ sram32k|rpak # F-Zero X
 ID:NG2___ cpak|rpak # Extreme-G XG2
 ID:NG5___ cpak|rpak # Ganbare Goemon - Neo Momoyama Bakufu no Odori [Mystical Ninja Starring Goemon]
 ID:NG6___ sram32k|rpak # Ganmare Goemon: Dero Dero Douchuu Obake Tenkomori
 ID:NGA___ cpak|rpak # Deadly Arts [G.A.S.P!! Fighter's NEXTream]
 ID:NGB___ cpak|rpak # Top Gear Hyper Bike
-ID:NGC___ eeprom2k|cpak|rpak # GT 64: Championship Edition
+ID:NGC___ eeprom2k|rpak|cpak # GT 64: Championship Edition
 ID:NGD___ cpak|rpak # Gauntlet Legends
 ID:NGE___ eeprom512|rpak # GoldenEye 007
 ID:NGF___ rpak # 007 - Goldfinger
-ID:NGL___ eeprom512|cpak|rpak # Getter Love!!
+ID:NGL___ eeprom512|rpak|cpak # Getter Love!!
 ID:NGM___ cpak|rpak # Goemon's Great Adventure [Mystical Ninja 2 Starring Goemon]
 ID:NGN___ cpak # Golden Nugget 64
 ID:NGP___ sram32k|cpak # Goemon: Mononoke Sugoroku
 ID:NGRE__ cpak|rpak # Top Gear Rally
-ID:NGR___ eeprom512|cpak|rpak # Top Gear Rally
+ID:NGR___ eeprom512|rpak|cpak # Top Gear Rally
 ID:NGS___ cpak # Jikkyou G1 Stable
-ID:NGT___ eeprom2k|cpak|rpak # City Tour GrandPrix - Zen Nihon GT Senshuken
+ID:NGT___ eeprom2k|rpak|cpak # City Tour GrandPrix - Zen Nihon GT Senshuken
 ID:NGU___ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha [Sin and Punishment]
 ID:NGV___ eeprom512 # Glover
 ID:NGX___ cpak|rpak # Gauntlet Legends
@@ -404,7 +406,7 @@ ID:NHT___ cpak|rpak # Hydro Thunder
 ID:NHV___ cpak|rpak # Hybrid Heaven
 ID:NHW___ cpak|rpak # Hot Wheels Turbo Racing
 ID:NHX___ cpak # Hexen
-ID:NHY___ sram32k|cpak|rpak # Hybrid Heaven
+ID:NHY___ sram32k|rpak|cpak # Hybrid Heaven
 ID:NIB___ sram32k|rpak # Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!
 ID:NIC___ eeprom512|rpak # Indy Racing 2000
 ID:NIJ___ eeprom512|rpak # Indiana Jones and the Infernal Machine
@@ -428,9 +430,9 @@ ID:NK2___ eeprom512|rpak # Snowboard Kids 2 [Chou Snobow Kids]
 ID:NK4J00 sram32k|rpak # Kirby 64: The Crystal Shards [Hoshi no Kirby 64]
 ID:NK4J01 sram32k|rpak # Kirby 64: The Crystal Shards [Hoshi no Kirby 64]
 ID:NK4___ eeprom2k|rpak # Kirby 64
-ID:NKA___ eeprom512|cpak|rpak # Fighters Destiny [Fighting Cup]
+ID:NKA___ eeprom512|rpak|cpak # Fighters Destiny [Fighting Cup]
 ID:NKE___ rpak # Knife Edge - Nose Gunner
-ID:NKG___ sram32k|cpak|rpak # Major League Baseball featuring Ken Griffey Jr.
+ID:NKG___ sram32k|rpak|cpak # Major League Baseball featuring Ken Griffey Jr.
 ID:NKI___ eeprom512|cpak # Killer Instinct Gold
 ID:NKJ___ flash128k|rpak # Ken Griffey Jr.'s Slugfest
 ID:NKK___ cpak|rpak # Knockout Kings 2000
@@ -454,7 +456,7 @@ ID:NMD___ cpak|rpak # Madden Football 2000
 ID:NME___ # Mace - The Dark Age
 ID:NMF___ sram32k|rpak|tpak # Mario Golf 64
 ID:NMGD__ cpak|rpak # Racing Simulation 2
-ID:NMG___ eeprom512|cpak|rpak # Monaco Grand Prix [Racing Simulation 2]
+ID:NMG___ eeprom512|rpak|cpak # Monaco Grand Prix [Racing Simulation 2]
 ID:NMH___ # Mahjong Hourouki Classic
 ID:NMI___ eeprom512|rpak # Mission: Impossible
 ID:NMJ___ cpak # Mahjong 64
@@ -466,20 +468,20 @@ ID:NMN___ # Mini Racers (Prototype)
 ID:NMO___ eeprom512 # Monopoly
 ID:NMP___ # Mario no Photopie
 ID:NMQ___ flash128k|rpak # Paper Mario
-ID:NMR___ eeprom512|cpak|rpak # Multi-Racing Championship
+ID:NMR___ eeprom512|rpak|cpak # Multi-Racing Championship
 ID:NMSE__ cpak|rpak # Duke Nukem 64 (Beta)
 ID:NMS___ eeprom512|cpak # Morita Shougi 64
 ID:NMT___ rpak # Magical Tetris Challenge
-ID:NMU___ eeprom512|cpak|rpak # Big Mountain 2000
+ID:NMU___ eeprom512|rpak|cpak # Big Mountain 2000
 ID:NMV___ eeprom2k|rpak # Mario Party 3
 ID:NMW___ eeprom512|rpak # Mario Party 2
-ID:NMX___ eeprom2k|cpak|rpak # Excitebike 64
+ID:NMX___ eeprom2k|rpak|cpak # Excitebike 64
 ID:NMY___ cpak|rpak # Mortal Kombat Mythologies - Sub-Zero
 ID:NMZ___ eeprom512|cpak # Zool - Majou Tsukai Densetsu
 ID:NN2___ cpak|rpak # Nascar 2000
 ID:NN6___ eeprom512 # Dr. Mario 64
 ID:NNA___ eeprom512|rpak # Star Wars Episode I: Battle for Naboo
-ID:NNB___ eeprom2k|cpak|rpak # Kobe Bryant in NBA Courtside
+ID:NNB___ eeprom2k|rpak|cpak # Kobe Bryant in NBA Courtside
 ID:NNC___ cpak|rpak # Nightmare Creatures
 ID:NNL___ cpak|rpak # NBA Live 2000
 ID:NNM___ cpak # Namco Museum 64
@@ -492,9 +494,9 @@ ID:NOB___ sram32k|cpak # Ogre Battle 64: Person of Lordly Caliber
 ID:NOF___ cpak|rpak # Offroad Challenge
 ID:NOH___ rpak|tpak # Transformers Beast Wars - Transmetals
 ID:NOM___ cpak # Onegai Monsters
-ID:NOS___ eeprom512|cpak|rpak # 64 Oozumou
+ID:NOS___ eeprom512|rpak|cpak # 64 Oozumou
 ID:NOW___ cpak # Brunswick Circuit Pro Bowling
-ID:NP2___ eeprom512|cpak|rpak # Chou Kuukan Night Pro Yakyuu King 2
+ID:NP2___ eeprom512|rpak|cpak # Chou Kuukan Night Pro Yakyuu King 2
 ID:NP3___ flash128k|tpak # Pokémon Stadium 2 [Pocket Monsters Stadium - Kin Gin]
 ID:NP4___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu 4
 ID:NP6___ sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
@@ -502,7 +504,7 @@ ID:NP9___ cpak|rpak # Ms. Pac-Man - Maze Madness
 ID:NPA___ sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 2000
 ID:NPB___ cpak|rpak # Puzzle Bobble 64
 ID:NPC___ cpak # Pachinko 365 Nichi
-ID:NPD___ eeprom2k|cpak|rpak|tpak # Perfect Dark
+ID:NPD___ eeprom2k|rpak|cpak|tpak # Perfect Dark
 ID:NPE___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu Basic Ban 2001
 ID:NPF___ flash128k # Pokémon Snap [Pocket Monsters Snap]
 ID:NPG___ eeprom512|rpak # Hey You, Pikachu! [Pikachu Genki Dechu]
@@ -515,7 +517,7 @@ ID:NPO___ flash128k|tpak # Pokémon Stadium
 ID:NPP___ eeprom2k|cpak # Parlor! Pro 64: Pachinko Jikki Simulation Game
 ID:NPQ___ # Powerpuff Girls, The - Chemical X-Traction
 ID:NPR___ cpak|rpak # South Park Rally
-ID:NPS___ sram32k|cpak|rpak # Jikkyou J.League 1999: Perfect Striker 2
+ID:NPS___ sram32k|rpak|cpak # Jikkyou J.League 1999: Perfect Striker 2
 ID:NPT___ eeprom512|rpak|tpak # Puyo Puyon Party
 ID:NPU___ cpak # Power Rangers - Lightspeed Rescue
 ID:NPW___ eeprom512 # Pilotwings 64
@@ -532,7 +534,7 @@ ID:NR2___ cpak|rpak # Rush 2 - Extreme Racing USA
 ID:NR3___ cpak|rpak # Stunt Racer 64
 ID:NR6___ cpak|rpak # Tom Clancy's Rainbow Six
 ID:NR7___ eeprom2k|tpak # Robot Poncots 64: 7tsu no Umi no Caramel
-ID:NRA___ eeprom512|cpak|rpak # Rally '99
+ID:NRA___ eeprom512|rpak|cpak # Rally '99
 ID:NRC___ eeprom512|rpak # Top Gear Overdrive
 ID:NRD___ cpak|rpak # Ready 2 Rumble Boxing
 ID:NRE___ sram32k|rpak # Resident Evil 2
@@ -567,7 +569,7 @@ ID:NSK___ cpak|rpak # Snowboard Kids [Snobow Kids]
 ID:NSL___ cpak|rpak # Spider-Man
 ID:NSM_03 eeprom512|rpak # Super Mario 64 - Shindou Edition 
 ID:NSM___ eeprom512 # Super Mario 64
-ID:NSN___ eeprom512|cpak|rpak # Snow Speeder
+ID:NSN___ eeprom512|rpak|cpak # Snow Speeder
 ID:NSO___ cpak # NBA Showtime - NBA on NBC
 ID:NSP___ cpak|rpak # Superman
 ID:NSQ___ flash128k|rpak # StarCraft 64
@@ -599,7 +601,7 @@ ID:NTN___ eeprom512 # All Star Tennis '99
 ID:NTO___ cpak # Shin Nihon Pro Wrestling - Toukon Road - Brave Spirits
 ID:NTP___ eeprom512 # Tetrisphere
 ID:NTQ___ cpak|rpak # Tony Hawk's Pro Skater 2
-ID:NTR___ eeprom512|cpak|rpak # Top Gear Rally
+ID:NTR___ eeprom512|rpak|cpak # Top Gear Rally
 ID:NTS___ cpak # Centre Court Tennis [Let's Smash]
 ID:NTT___ cpak # Tonic Trouble
 ID:NTU___ cpak # Turok: Dinosaur Hunter [Turok: Jikuu Senshi]
@@ -608,7 +610,7 @@ ID:NTX___ eeprom512|rpak # Taz Express
 ID:NUB_2_ eeprom2k|cpak # Mario Kart 64 - Amped Up v.2.96A
 ID:NUB___ eeprom2k|cpak|tpak # PD Ultraman Battle Collection 64
 ID:NUM___ sram32k|rpak|tpak # Nushi Zuri 64: Shiokaze ni Notte
-ID:NUT___ sram32k|cpak|rpak|tpak # Nushi Zuri 64
+ID:NUT___ sram32k|rpak|cpak|tpak # Nushi Zuri 64
 ID:NV2___ cpak|rpak # Chameleon Twist 2
 ID:NV3___ cpak|rpak # Micro Machines 64 Turbo
 ID:NV8___ cpak|rpak # Vigilante 8
@@ -616,12 +618,12 @@ ID:NVB___ sram32k|rpak # Bass Rush - ECOGEAR PowerWorm Championship
 ID:NVC___ cpak # Virtual Chess 64
 ID:NVG___ cpak|rpak # Vigilante 8 - Second Offense
 ID:NVL___ eeprom512|rpak # V-Rally Edition '99
-ID:NVP___ sram32k|cpak|rpak # Virtual Pro Wrestling 64
+ID:NVP___ sram32k|rpak|cpak # Virtual Pro Wrestling 64
 ID:NVR___ cpak # Virtual Pool 64
 ID:NVY___ eeprom512|rpak # V-Rally Edition '99
 ID:NW2___ sram32k|rpak # WCW-nWo Revenge
 ID:NW3___ cpak|rpak # WCW: Nitro
-ID:NW4___ flash128k|cpak|rpak # WWF No Mercy
+ID:NW4___ flash128k|rpak|cpak # WWF No Mercy
 ID:NW8___ cpak # Wayne Gretzky's 3D Hockey '98
 ID:NWA___ # War Gods
 ID:NWB___ cpak|rpak # Iggy's Reckin' Balls [Iggy-kun no Bura Bura Poyon]
@@ -637,8 +639,8 @@ ID:NWM___ cpak|rpak # WCW: Mayhem
 ID:NWN___ cpak|rpak # WCW vs. nWo - World Tour
 ID:NWO___ cpak|rpak # World Driver Championship
 ID:NWP___ cpak|rpak # Wipeout 64
-ID:NWQ___ eeprom512|cpak|rpak # Rally Challenge 2000
-ID:NWR_02 eeprom512|cpak|rpak # Wave Race 64 Shindou Edition
+ID:NWQ___ eeprom512|rpak|cpak # Rally Challenge 2000
+ID:NWR_02 eeprom512|rpak|cpak # Wave Race 64 Shindou Edition
 ID:NWR___ eeprom512|cpak # Wave Race 64
 ID:NWS___ cpak # International Superstar Soccer '98 [Jikkyo World Soccer - World Cup France '98]
 ID:NWTJ__ eeprom512 # Wetrix
@@ -646,14 +648,15 @@ ID:NWT___ cpak # Wetrix
 ID:NWU___ eeprom512 # Worms Armageddon
 ID:NWV___ cpak|rpak # WCW: Backstage Assault
 ID:NWW___ cpak|rpak # WWF: War Zone
-ID:NWX___ sram32k|cpak|rpak # WWF WrestleMania 2000
+ID:NWX___ sram32k|rpak|cpak # WWF WrestleMania 2000
 ID:NWZ___ cpak|rpak # NBA In the Zone 2000
 ID:NX2___ cpak # Gex 64 - Enter the Gecko
 ID:NX3___ cpak|rpak # Gex 3 - Deep Cover Gecko
 ID:NXF___ cpak|rpak # Xena Warrior Princess - The Talisman of Fate
 ID:NXG___ cpak # NBA Hangtime
 ID:NXO___ eeprom512|rpak # Cruis'n Exotica
-ID:NX7___ eeprom2k|cpak|rpak|tpak # GoldenEye - X
+ID:NX7___ eeprom2k|rpak|cpak|tpak # GoldenEye - X
+ID:NXC___ sram32k|cpak|rpak # Xeno Crisis
 ID:NY2___ cpak # Rayman 2 - The Great Escape
 ID:NYK___ eeprom512|rpak # Yakouchuu II: Satsujin Kouro
 ID:NYP___ cpak|rpak # Paperboy
