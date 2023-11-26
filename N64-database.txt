@@ -104,6 +104,8 @@ aa22f738c387df27fa6d328db51fa793 ntsc|cic6102 # Dynamix Readme by Widget and Imm
 74f7699867312aa9e43e0797ade063cd ntsc|cic6102|cpak # Frogger 2 (Alpha)
 889a13034a7a89ffab06de10ddd69a9b ntsc|cic6102|cpak # Frogger 2 (Prototype 1)
 df2e40e7b204caaf1880537d3e57e462 ntsc|cic6102 # Glover (Prototype)
+e3299486f1b9ca7460b41abfaeb0dc3a ntsc|cic5101 # Hi Pai Paradise (Aleck64)
+8f73978d7ba53e8db716d41dca075f72 ntsc|cic5101 # Hi Pai Paradise 2 (Aleck64)
 e41621a8783c05493251469e7a30b033 pal|cic7101|cpak # International Superstar Soccer 64
 80262256f5aa05d48f89c516be16420a ntsc|cic5167|rpak|tpak # Japan Pro Golf Tour 64
 d02f4df5c9ba0f5a10a2434af11f5cf1 ntsc|cic6102|rpak|tpak # Japan Pro Golf Tour 64 (64drive 1.12d Compatible V1.0)
@@ -142,6 +144,7 @@ c749f901714fd19d7cf02a9f724ae1b1 pal|cic7101|eeprom512|cpak # Mario Kart 64 (Sup
 bcb74c38310ea30c240b6bea2dc97a5f ntsc|cic6102|eeprom2k|cpak # Mario Kart 64 Amped Up (v2.96a)
 df40527062e24ddf3679d506793f554a ntsc|cic6102 # Megahawks Inc Musicdisk 1 (PD)
 34480812285442a4c6a3230364ccf02b ntsc|cic6102 # Melon Demo (PD)
+d4e0b1929db4fa1e5e711bf57241e23e ntsc|cic6102 # Mirror House Cornflakes
 207fdbd1d5b3990a8fe741e1e9e67d84 ntsc|cic6102|rpak|tpak # N64DD IPLROM
 2ece451a1250fcfa54eca3e042ca2338 ntsc|cic6102|rpak|tpak # NDDT Monitor
 120134d4066a6828ab628f42cf373b59 ntsc|cic6102|rpak|tpak # Nintendo 64DD IPL (Japan) (v1.0) (Beta)
@@ -188,6 +191,7 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 7b551edf84d631ed68d6474d890e23e0 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta)
 9296ea2c78a6b10bb01fd14e14fc729e ntsc|cic6102|flash128k|rpak # StarCraft 64 (Beta) (Country Code)
 33c4d0041e03a2d14216a80c5cec31d8 ntsc|cic6102|eeprom512 # Super Mario 64
+75a2381e2510c4519737d8ce4dffcef6 ntsc|cic6102 # Tamiya Racing 64 (Proto)
 69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 f13caf119c0ce9e18d0b89889172e3f0 ntsc|cic6102|cpak|rpak # Top Gear Hyper Bike (Beta)
 c312f11c7820b77b4283cea212c12f45 pal|cic7101|cpak|rpak # Top Gear Rally 2 (Beta)
@@ -202,7 +206,7 @@ b4515d4cb78ad023293e4af5e299da78 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Obl
 a2078ab139fbd1e909e719a7a1c28a19 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 f88630ca78e2466fcf78202554a389fd pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
-03d67ad8740d56aaed87f99b5d31160f pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Europe) (Beta)
+03d67ad8740d56aaed87f99b5d31160f pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 7d132d5d7aa80f35fed15f800f84d686 ntsc|cic6102 # Ultrafox 64 by Megahawks
 7ecf0f0bd2236a38e0abd0b65089d94f ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-AA (Hack) v1 ElectronAsh
 a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
@@ -670,6 +674,6 @@ ID:ZCA___ ntsc|cic5101|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
 ID:ZHA___ ntsc|cic5101 # Eleven Beat - World Tournament (Aleck64)
 ID:ZHB___ ntsc|cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
 ID:ZSA___ ntsc|cic5101|eeprom512 # Vivid Dolls (Aleck64)
-ID:ZSC___ ntsc|cic5101 # Mayjinsen 3 (Aleck 64)
-ID:ZSE___ ntsc|cic5101|eeprom512 # Super Real Mahjong VS (Aleck 64)
-ID:Z_____ ntsc|cic5101|eeprom512 # Aleck 64
+ID:ZSC___ ntsc|cic5101 # Mayjinsen 3 (Aleck64)
+ID:ZSE___ ntsc|cic5101|eeprom512 # Super Real Mahjong VS (Aleck64)
+ID:Z_____ ntsc|cic5101|eeprom512 # Aleck64
