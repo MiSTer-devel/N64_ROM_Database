@@ -51,8 +51,9 @@ cf8d8deecf27ccb0a13af043011d179b ntsc|cic6102 # 64drive USB Input Demo (PD)
 f64eb0451d772a0a806ef038abe35c52 ntsc|cic6102 # Absolute Crap #2 by Lem
 9b0175c06a57804c94a500a552698d22 ntsc|cic6102 # Absolute Crap Intro #1 by Kid Stardust
 ff1ff9ad4cceed4a22ce21cf338abdbf ntsc|cic6102 # Absolute Crap Intro #1 by Kid Stardust
-45aee9ae64d338bc6a106498a5f90f60 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
+45aee9ae64d338bc6a106498a5f90f60 ntsc|cic6102 # Aidyn Chronicles - The First Mage (Pre-alpha)
 06b9992af56c7c71731b6b4285b7302a ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
+dc2eef29878ce045c19660b512c54383 ntsc|cic6102|cpak # Aidyn Chronicles - The First Mage (Beta)
 93ca3185b7734087ff7edb9e9d8bad26 ntsc|cic6102|eeprom512|rpak|cpak # Airboarder 64
 010f78a515aaa060485246e3711353b7 ntsc|cic6102|eeprom512|rpak|cpak # Airboarder 64
 655b8fc59605f5d03c5ae7ca651452f0 ntsc|cic6102 # Alienstyle Intro by Renderman
@@ -104,6 +105,8 @@ aa22f738c387df27fa6d328db51fa793 ntsc|cic6102 # Dynamix Readme by Widget and Imm
 74f7699867312aa9e43e0797ade063cd ntsc|cic6102|cpak # Frogger 2 (Alpha)
 889a13034a7a89ffab06de10ddd69a9b ntsc|cic6102|cpak # Frogger 2 (Prototype 1)
 df2e40e7b204caaf1880537d3e57e462 ntsc|cic6102 # Glover (Prototype)
+a7b2cf78361392884000317a1220aa39 ntsc|cic6102|eeprom2k # Glover 2 (Prototype 1)
+661f550f1512d72e2ee3e51d5ddd6967 ntsc|cic6102|eeprom2k # Glover 2 (Prototype 2)
 e3299486f1b9ca7460b41abfaeb0dc3a ntsc|cic5101 # Hi Pai Paradise (Aleck64)
 8f73978d7ba53e8db716d41dca075f72 ntsc|cic5101 # Hi Pai Paradise 2 (Aleck64)
 e41621a8783c05493251469e7a30b033 pal|cic7101|cpak # International Superstar Soccer 64
@@ -123,7 +126,7 @@ f9aa89a81a34262df3695f092b9eca23 ntsc|cic5167|rpak|tpak # Kyojin no Doshin 1 (Ki
 9f8baba5c495a9f7b6dcbc3408a73b47 ntsc|cic5167|rpak # Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou
 b23003df72a5dbc7230e1e56f9ce28f3 ntsc|cic6102 # LaC's MOD Player - The Temple Gates
 cdf5c8b9c7f0d25d70288078c16d2524 ntsc|cic6105|rpak # Legend of Zelda, The - Majora's Mask - Preview Demo
-c0becb0e60c63204dddfa33fce91ef07 ntsc|cic6102|rpak # Lt. Duck Dodgers (Prototype)
+36480d4c3331d3ff6dc6ca2543185d31 ntsc|cic6102|rpak # Lt. Duck Dodgers (Prototype)
 3e488fe2e3c6f44bb78bd2e359b7f0cc ntsc|cic6103|eeprom512|rpak # Magical Tetris Challenge Featuring Mickey
 86482f9e82a1d5600b6481a78dda5141 ntsc|cic6102|rpak|tpak # Mario Artist - Communication Kit (64drive 1.12d Compatible V1.0)
 225d974f74402152809b33676c3dc313 ntsc|cic6102|rpak|tpak # Mario Artist - Paint Studio (64drive 1.12d Compatible V1.1)
@@ -223,8 +226,8 @@ a104cbee34d1a6ab7e127b6b27eadf6f pal|cic7101 # Wet Dreams Readme by Immortal
 b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 6debed294271420221177b972f240b04 pal|cic7101 # Wizard of the Board
 24da9e65cf49dc2692337db4f69cb7ee ntsc|cic6102 # Wizard of the Board - Sicko Mode
-5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|sram32k|cpak|rpak # Xeno Crisis
-3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|sram32k|cpak|rpak # Xeno Crisis (Everdrive)
+5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|cpak|rpak # Xeno Crisis
+3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|cpak|rpak # Xeno Crisis (Everdrive)
 
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
