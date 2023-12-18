@@ -84,10 +84,8 @@ e09272dcb2a26b97d20f198dd8729abc ntsc|cic6102 # Dexanoid R1 by Protest Design
 851ea9517e35244af04ecc2c767c6d2f ntsc|cic6102 # Dexanoid R1 by Protest Design
 f5284557f228c69f0ddc948bb5f736a5 ntsc|cic6102 # Dexanoid R1 by Protest Design
 0b2fdaa1b9500685b323c3ed64a4df1d ntsc|cic6102|sram32k # Diddy Kong Racing SRAM by Group5
-a4a45436f7f05292764f729fad79c501 ntsc|cic6102|cpak # Disney's Donald Duck - Goin' Quackers
 604765dabc45a77779f8a8c0b260ebf0 ntsc|cic6102 # Don't Be Square (PD)
 87b06dd1a6df5c8ea09870d84b352b9a pal|cic7101|cpak # Donald Duck - Quack Attack
-bbb17d7f2b43830b77dfb69457ee4ccd pal|cic7101|cpak # Donald Duck - Quack Attack
 0a3938e8a2e6c6a416bb26346991f22e pal|cic7101|cpak # Donald Duck - Quack Attack
 ee207a2a00807d5d707744f9746ef09c ntsc|cic6103|eeprom512 # Donchan Puzzle Hanabi de Doon! (Aleck64)
 81240037b77b6a0d1e7ca0e707483092 ntsc|cic6102|eeprom2k|rpak # Donkey Kong 64 (Kiosk Demo)
@@ -198,7 +196,8 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 f13caf119c0ce9e18d0b89889172e3f0 ntsc|cic6102|cpak|rpak # Top Gear Hyper Bike (Beta)
 c312f11c7820b77b4283cea212c12f45 pal|cic7101|cpak|rpak # Top Gear Rally 2 (Beta)
-45d621969ab0c22756bd6f6e34622119 ntsc|cic6103|eeprom512 # Tower & Shaft (Aleck64)
+45d621969ab0c22756bd6f6e34622119 ntsc|cic6103|eeprom512 # Tower & Shaft (Aleck 64)
+fcfe6fe9aa46e12f2d980d39c220f26a ntsc|cic5101|eeprom512 # Tower & Shaft (Aleck 64) T+En v1.0 Zoinkity
 d42dff4f1c08668c61a67821f78c18c4 ntsc|cic6102|cpak # Turok - Dinosaur Hunter
 e8f4d76f55afce0697b51173a9382a37 pal|cic7101|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
 6b65043e5a394f7c97db83773759ef55 ntsc|cic6102|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
@@ -210,6 +209,9 @@ a2078ab139fbd1e909e719a7a1c28a19 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Obl
 f88630ca78e2466fcf78202554a389fd pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 03d67ad8740d56aaed87f99b5d31160f pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
+3cc5c7d1bbd1d575d9cff4c50ebc62cf pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
+11cc092c89f489faa7c70ec0566e7b88 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
+3cc5c7d1bbd1d575d9cff4c50ebc62cf ntsc|cic6102|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
 7d132d5d7aa80f35fed15f800f84d686 ntsc|cic6102 # Ultrafox 64 by Megahawks
 7ecf0f0bd2236a38e0abd0b65089d94f ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-AA (Hack) v1 ElectronAsh
 a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
@@ -229,13 +231,100 @@ b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|cpak|rpak # Xeno Crisis
 3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|cpak|rpak # Xeno Crisis (Everdrive)
 
+; No-Intro
+26ac0f95174efdff337b81ed81bf03a9 ntsc|cic6102|cpak|rpak # Bassmasters 2000 (Beta)
+86152829275aea9079f359308977c302 pal|cic7101|cpak|rpak # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
+86152829275aea9079f359308977c302 pal|cic7101|cpak|rpak # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
+b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
+4e31128b4e137e896fa570f4ca25c2b1 ntsc|cic6102|cpak|rpak # Destruction Derby 64 (Beta)
+2219aa730527144e59b7b676be84f64f ntsc|cic6102 # Die Hard 64 (Prototype) (Level 1)
+f45a23e2258c5037b6f65b46ad96b318 ntsc|cic6102 # Die Hard 64 (Prototype) (Level 2)
+51bdb432abe666f656a5ded8c51d2555 ntsc|cic6102 # Die Hard 64 (Prototype) (Level 3)
+013516134774103a6f0a0dc98421abf2 pal|cic7101 # Dragon Sword 64 (Europe) (Proto)
+a5fd41368b2e044bf26a29c6ecd708c1 ntsc|cic6102 # Dragon Sword 64 (Proto)
+ef89d9a74354a4362a580fdb4d85bbd4 ntsc|cic6102|cpak|rpak # ECW Hardcore Revolution (Beta)
+a92c4e967c70f1981662d04c3b62fb17 ntsc|cic6102 # EEPROM & SRAM Erase Program (v1.2) (LodgeNet)
+916d49b78b18b43c05f78cb2d6606b35 ntsc|cic6102 # Freak Boy (Unknown) (Proto)
+ce0cd2d582e267995d0bff60d1b926a2 ntsc|cic6102|cpak|rpak # Hercules - The Legendary Journeys (Beta 1)
+2a37d85abe593191496d000e6ef38fda pal|cic7101|cpak # International Superstar Soccer '98 (Europe) (Beta)
+112795f8e116b7a5de0ec8539018f686 ntsc|cic6102|cpak # Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta)
+fc3d11333060d992b9c2c01106361a92 ntsc|cic6102 # Mace - The Dark Age (Beta)
+cc6f204f67c81507b004d036bc0bf68d ntsc|cic6102 # Mega Man 64 (Beta)
+3550bf494f5907e191a86297d2eb88a1 pal|cic7101|cpak|rpak # Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)
+08d48a07b0898995caf54319e2dee7a6 ntsc|cic6102 # Mini Racers (Proto) Texture Repair v1 Zoinkity
+8e4fed6211f4e4ef80f33b1f68001d15 ntsc|cic6102 # Mortal Kombat Trilogy (Beta)
+e445b6d900da37fcb33b4748dbcc6b5d ntsc|cic6102|cpak|rpak # Nuclear Strike 64 (Beta)
+206f899ef3b8582c427d7151a053ae8f ntsc|cic6102|cpak|rpak # Nuclear Strike 64 (Beta) (Earlier)
+0e277bca2f03a8a46d8ffc80ed0b012e ntsc|cic6102|cpak|rpak # Road Rash 64 (Beta 1)
+2a687f794fe5dbb5c1ee2230d4c09260 ntsc|cic6102 # Robotech - Crystal Dreams (Proto 1)
+ce90b4bf03613fef5830b0516f27b0c7 ntsc|cic6102 # Robotech - Crystal Dreams (Beta)
+a9319f35bf304457abf751d1d7a07972 ntsc|cic6102|rpak # Rugrats - Scavenger Hunt (Beta)
+fd3afcd61cb899a0e290e74dcc69e56d ntsc|cic6102 # SimCopter 64 (Proto)
+375beef11cff086e6060f571a98ae12b pal|cic7101|cpak|rpak # South Park Rally (Europe) (Beta)
+befd912104180e15b8d86e2435de82cd ntsc|cic6102|cpak|rpak # Superman (Beta)
+2a8b22f504b8724a5ca332bc79923503 pal|cic7101 # Sydney 2000 (Prototype)
+a41f00c60fd8160d0e13a664f2cd43d4 ntsc|cic6102 # Sydney 2000 (Prototype)
+131c1916d96c36c114b1cb7634a35541 ntsc|cic6102 # Tommy Thunder (Prototype)
+7e000313211bd8ef782d9effb70d32db ntsc|cic6102|cpak|rpak # Tony Hawk's Pro Skater 2 (Beta)
+fb48a88526653cc38cb74aee6d1f58e4 ntsc|cic6102|cpak|rpak # Tony Hawk's Pro Skater 2 (v012) (Beta)
+7548b94ee72323c38350e6f899121e52 ntsc|cic6102 # Toon Panic (Prototype)
+6de1eb1acbbc30efdbcf8290e3d640cd ntsc|cic6102|eeprom512|rpak # Top Gear Overdrive (Beta)
+8c074194bb7b4bc3d3bc7edd938d27f1 ntsc|cic6102|cpak # Turok - Dinosaur Hunter (Demo) (Kiosk, E3 1997)
+a53480ca15de32396a49587a206b655a ntsc|cic6102|cpak|rpak # Turok 3 - Shadow of Oblivion (Beta)
+33ca0b0b6a707b927a410a2278a25536 ntsc|cic6102 # Whack 'n' Roll (Beta)
+84208cabe4193c578ee2d744a148d219 ntsc|cic6102 # Wide-Boy64 AGB (World) (v0.00b) (Beta)
+898cb5ccec35b0d248c14dacf753286c ntsc|cic6102 # Wide-Boy64 AGB (World) (v0.02c)
+c0a8aa061465852b8405b07d2e717251 ntsc|cic6102 # Wide-Boy64 AGB (World) (v0.04c)
+64ef32cdf9622b1e5383077b8278ba55 ntsc|cic6102 # Wide-Boy64 CGB (World) (v1.02)
+5d300758c84c4ecdfb50b898dcc10d57 ntsc|cic6102 # Wildwaters (Prototype)
+14455acf3e51242c67141b39de6114fd ntsc|cic6102|flash128k|cpak|rpak # WWF No Mercy (Beta)
+3559b43d0f6c1b9595a24666f8cac1db ntsc|cic6102 # X'treme Roller (Proto)
+
+; EverDrive 64 2023-05-15
+0a0dbf1db4b06aa654a2d75227821ee7 ntsc|cic6102 # 64Doom - Doom Port Jnmartin84 2020-04-11
+fa88a0246ed159ff0e50b9c09211e593 ntsc|cic6102 # Asteroid Shooter v1 Garrison Brown
+c7db512acdce80b08eec16ac1ffd0f44 ntsc|cic6102 # Chip8 C64 Emulator v1 Garrison Brown
+07da4c7f3c9d3e709663e299cf895d47 ntsc|cic6102 # Evil Australians v3 gameblabla
+37bb6f46faf55e37a0bd829674950574 ntsc|cic6102 # Flappy Bird v1 Christopher Bonhage
+a08c0fd9e30d2ed90d0acd753a612d76 ntsc|cic6102 # Funnelcube v1 Marshall
+3b0c741e217d5026c1eba4289457a9a2 ntsc|cic6102 # MAME 64 Beta 3
+3e0e1d7f09455c722bb31f245cabdc15 ntsc|cic6102 # MAME 64 PAL Paladin Beta 3
+9ec3828ee65237e0c8a8e6d6d1601168 ntsc|cic6102 # Shuffle Puck 64
+4026f35e3e4bdd58bde8a8901ee0ad4e ntsc|cic6102 # Sporting Clays by Charles Doty
+03b3c414217462e8db13e81d7c0641ef ntsc|cic6102 # Super Bomberman 2 by Rider
+fcdd758bc44f7bfefe092c77d893fa79 ntsc|cic6102 # Swoop 64, The (World) (Homebrew)
+1f3585c3ae505c3e34575e37d29c4293 ntsc|cic6102 # Yeti3D Pro ChillyWilly 2012-08-17
+05742a0e5030698c8f443207be14b082 ntsc|cic6102 # Controller Test Tool sanni 2012
+394e77f04e991ffce9acfd16b2449de8 ntsc|cic6102 # UltraCIC II Test Rom saturnu 2016
+739f5426873487d0669a3515bc2957f2 ntsc|cic8401 # Nintendo 64DD Tool IPL (Japan) (Beta)
+5986dc8104cc8451b9e875602baa7636 ntsc|cic6102 # Eurasia First N64 Intro by Sispeo
+d89e2e17247d1f3bf860b315eaf62a66 ntsc|cic6102 # Fireworks Demo by CrowTRobo
+dc39dc958ae9053c3664342d5ea18454 ntsc|cic6102 # Fogworld USA Demo by Horizon64
+689464c7e2c5a886c41ee1575d01ff96 ntsc|cic6102 # HS N64 Index Intro by Stage
+e3ce3b5ae1010317201f0a699507f93b ntsc|cic6102 # High Society Intro High Society
+679043bd654039693f7ca64e4f873edb ntsc|cic6102 # MGC 2011 Retroactive
+4c5991026487cc907f3624e33bf87e7d ntsc|cic6102 # Money Creates Taste Demo by Count0
+be1e5722665f815ea3610c33938fc1dc ntsc|cic6102 # SPLiT's Nacho64 by SPLiT
+a806d962077b812d82f8053aba47ce0c ntsc|cic6102 # Hard Pom '99 Demo by TS_Garp
+5079e9c0623b8872513c5e5e555e668e ntsc|cic6102 # TRSI Intro by Ayatollah
+b26a5c0c966eb2f68c18e6b4bc9cab23 ntsc|cic6102 # TheMuscularDemo by megahawks
+0fd29e542adbda2964ba80acafa6f8e3 ntsc|cic6102 # Nintendo Family by CALi
+d0797a7980d2b6a98148cc7ec753e05c pal|cic7101 # Wet Dreams Madeiragames Demo by Immortal
+2cf2c5c249d68bf971a897993fc0cc96 pal|cic7101 # Wet Dreams Main Demo by Immortal
+7370d477eff87f123b340850e74596b7 pal|cic7101 # Wet Dreams Can Beta Demo by Immortal
+a649ac3b9601de27b25cf5f81144057d ntsc|cic6102 # Y2K Demo by WT_Riker
+4a38a6f6a2c13ff004a2546fad3f15b1 ntsc|cic6102 # Doom 2 (Doom PC Port)
+fec0cfc3a10d04a8473231050eb79abc ntsc|cic6102 # Doom Plutonia (Doom PC Port)
+605982cb0d775bbe740d511950976bb6 ntsc|cic6102 # Doom TNT (Doom PC Port)
+c774357ea0b67c8df4bffcd4751ee20b ntsc|cic6102 # Ultimate Doom (Doom PC Port)
+
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
 ID:CD6___ eeprom2k|rpak|tpak # Densha de Go! 64
 ID:CDZ___ sram96k|rpak # Dezaemon 3D
 ID:CFZ___ sram32k|rpak # F-Zero X
 ID:CLB___ eeprom512|rpak # Mario Party
-ID:CMD___ # Nintendo 64 Modem
+ID:CMD___ cic8303 # Nintendo 64 Modem
 ID:CP2___ flash128k|tpak # Pocket Monsters Stadium 2
 ID:CPS___ sram32k|tpak # Pocket Monsters Stadium
 ID:CPY___ eeprom512|rpak # Puyo Puyo Sun 64
