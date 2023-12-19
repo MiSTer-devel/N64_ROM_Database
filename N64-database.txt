@@ -197,7 +197,8 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 f13caf119c0ce9e18d0b89889172e3f0 ntsc|cic6102|cpak|rpak # Top Gear Hyper Bike (Beta)
 c312f11c7820b77b4283cea212c12f45 pal|cic7101|cpak|rpak # Top Gear Rally 2 (Beta)
-45d621969ab0c22756bd6f6e34622119 ntsc|cic6103|eeprom512 # Tower & Shaft (Aleck 64)
+45d621969ab0c22756bd6f6e34622119 ntsc|cic5101|eeprom512 # Tower & Shaft (Aleck 64)
+4cda7c0c2c9379a0e0112ccba5568228 ntsc|cic5101|eeprom512 # Tower & Shaft (Translated) (Aleck64)
 fcfe6fe9aa46e12f2d980d39c220f26a ntsc|cic5101|eeprom512 # Tower & Shaft (Aleck 64) T+En v1.0 Zoinkity
 d42dff4f1c08668c61a67821f78c18c4 ntsc|cic6102|cpak # Turok - Dinosaur Hunter
 e8f4d76f55afce0697b51173a9382a37 pal|cic7101|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
