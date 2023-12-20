@@ -33,7 +33,6 @@
 ; rpak - Rumble Pak
 ; tpak - Transfer Pak
 ; rtc - Real-Time Clock
-; wide - Wide-Screen
 
 ; MD5 Checksums
 03f81f7a4f0ae2cc4e3c7422d9f79fef ntsc|cic6102 # 2 Blokes & An Armchair - N64 Remix Remix by Tesko (PD)
@@ -197,8 +196,7 @@ a10468fa587e42ae87ab4ba57599b835 ntsc|cic6102|flash128k|rpak # StarCraft 64 (Bet
 69e9cf25cd6b9a7cc3cffa88ec1f75c1 ntsc|cic6102|rpak # Test Cart Runtime V2 by Nintendo
 f13caf119c0ce9e18d0b89889172e3f0 ntsc|cic6102|cpak|rpak # Top Gear Hyper Bike (Beta)
 c312f11c7820b77b4283cea212c12f45 pal|cic7101|cpak|rpak # Top Gear Rally 2 (Beta)
-45d621969ab0c22756bd6f6e34622119 ntsc|cic5101|eeprom512 # Tower & Shaft (Aleck 64)
-4cda7c0c2c9379a0e0112ccba5568228 ntsc|cic5101|eeprom512 # Tower & Shaft (Translated) (Aleck64)
+45d621969ab0c22756bd6f6e34622119 ntsc|cic6103|eeprom512 # Tower & Shaft (Aleck 64)
 fcfe6fe9aa46e12f2d980d39c220f26a ntsc|cic5101|eeprom512 # Tower & Shaft (Aleck 64) T+En v1.0 Zoinkity
 d42dff4f1c08668c61a67821f78c18c4 ntsc|cic6102|cpak # Turok - Dinosaur Hunter
 e8f4d76f55afce0697b51173a9382a37 pal|cic7101|cpak|rpak # Turok 2 - Seeds of Evil (Kiosk Demo)
@@ -232,7 +230,7 @@ b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|cpak|rpak # Xeno Crisis
 3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|cpak|rpak # Xeno Crisis (Everdrive)
 
-; No-Intro
+;No-Intro EXTRAS
 26ac0f95174efdff337b81ed81bf03a9 ntsc|cic6102|cpak|rpak # Bassmasters 2000 (Beta)
 86152829275aea9079f359308977c302 pal|cic7101|cpak|rpak # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
 b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
@@ -288,7 +286,7 @@ c7db512acdce80b08eec16ac1ffd0f44 ntsc|cic6102 # Chip8 C64 Emulator v1 Garrison B
 37bb6f46faf55e37a0bd829674950574 ntsc|cic6102 # Flappy Bird v1 Christopher Bonhage
 a08c0fd9e30d2ed90d0acd753a612d76 ntsc|cic6102 # Funnelcube v1 Marshall
 3b0c741e217d5026c1eba4289457a9a2 ntsc|cic6102 # MAME 64 Beta 3
-3e0e1d7f09455c722bb31f245cabdc15 ntsc|cic6102 # MAME 64 PAL Paladin Beta 3
+3e0e1d7f09455c722bb31f245cabdc15 pal|cic7101 # MAME 64 PAL Paladin Beta 3
 9ec3828ee65237e0c8a8e6d6d1601168 ntsc|cic6102 # Shuffle Puck 64
 4026f35e3e4bdd58bde8a8901ee0ad4e ntsc|cic6102 # Sporting Clays by Charles Doty
 03b3c414217462e8db13e81d7c0641ef ntsc|cic6102 # Super Bomberman 2 by Rider
@@ -801,7 +799,7 @@ b21d99dabfc749e7ca3a05c1a284264d ntsc|cic6102 # SMPlayer
 3e897ff874bc14404da0386b899ffa8f ntsc|cic6102 # SPC-N64 (Test)
 f79c3c8cca56eb45e15c935b8223ce16 ntsc|cic6102 # SRAM Manager V1.0 Beta
 2a856ce1b7919838b4a31356780bfe16 ntsc|cic6102 # SRAM Manager V1.0 Beta (32Mbit)
-4da631c4b1c66337cfa2a49d9df5dff8 ntsc|cic6102 # SRAM Manager V1.0 PAL Beta
+4da631c4b1c66337cfa2a49d9df5dff8 pal|cic7101 # SRAM Manager V1.0 PAL Beta
 89cb773438bdc14a75c57297f463236d ntsc|cic6102 # SRAM Manager V2.0
 dfc3a2a18e4d9b7425808cc9d1fd8df8 ntsc|cic6102 # SRAM Manager V2.0
 32e8ff26a02f92bc41a7bb0db5764040 ntsc|cic6102 # SRAM Manager V2.0
@@ -824,6 +822,35 @@ eea9e527fc6cdfb70e63daa49d4049f6 ntsc|cic6102 # Wave Race SRAM Uploader
 65efa5636308f64faee63562633a94c1 ntsc|cic6102|eeprom512 # Yuke Yuke!! Trouble Makers SRAM Uploader
 ee2ce1017174c7a1c16cc6a87dec17e2 ntsc|cic6102 # Zelda 64 Boot Emu V1 by Crazy Nation
 feacab085f507071af4f45fb5d268a49 ntsc|cic6102 # Zelda 64 Boot Emu V2 by Crazy Nation
+78a08221d11a664846f62329f8643d5b ntsc|cic6102 # Cliffi's Little Intro by Cliffi (POM '99) (PD) [b1]
+f59095ace14aa71c3566ecab5eedc391 ntsc|cic6102 # HiRes CFB Demo by Fractal (PD)
+5125519b579ff74d6ca3f6ca6197732a ntsc|cic6102 # HSD Quick Intro (PD)
+8b47dddc3b8065a33aabd62598a024c7 ntsc|cic6102 # Light Force First N64 Demo by Fractal (PD)
+893bd306fcc42511cae24c1f660f2916 ntsc|cic6102 # N64 Seminar Demo - CPU by ZoRAXE (PD)
+6dd2184f2f8194ad01839085bd1008ff ntsc|cic6102 # N64 Seminar Demo - RSP by ZoRAXE (PD)
+b7f080eeafc6a6b6fc17e9805644ee72 ntsc|cic6102 # NBCG First Intro by CALi (PD)
+7eadd06f5663dadfd44fb5dfc40a1268 ntsc|cic6102 # NBCrew 2 Demo (PD)
+e3022c72f687af3ae7d11c9e8f800596 ntsc|cic6102 # Plasma Demo (PD)
+ba950364bd3ffea66cf0c2817a6d6423 ntsc|cic6102 # Sinus Demo by Silo (PD)
+8ae6a3fd5eacf11fceaeff3c48f01b71 pal|cic7101 # Game Boy 64 + Super Mario 3 (PD)
+31bd90325cddedfd4a108548dc33e68f pal|cic7101 # GBlator by David Clous (PD) [f1] (CD64-NTSC)
+15646b070a980b82e775e8771b6ee8af pal|cic7101 # GBlator by David Clous (PD) [f1] (CD64-PAL)
+25588b42c5446f8084981646bbbf142b ntsc|cic6102 # GBlator for NTSC Doctor V64 by _Sage_ (PD)
+e0d76f710e5bc84a048311322516cbcc pal|cic7101 # GBlator for PAL Doctor V64 by _Sage_ (PD)
+9560e9c7ccf3d2b9d1c7d7b1e4bdd716 ntsc|cic6102 # God Knows Who! by NDT (Demo) (PD)
+246dd7f02a436725c6ee5fafd93907d7 ntsc|cic6102 # Manic Miner - Hidden Levels by RedBoX (PD)
+6500bea6c5c8ce445333803771161b7a ntsc|cic6102 # Manic Miner by RedBoX (PD)
+aff5c2f379910c4bd5b9eb06b3b3cd44 ntsc|cic6102 # Twintris by Twinsen (POM '98) (PD)
+40b61520947486966443aca5ded9e718 ntsc|cic6102 # CD64 SIMM Memory Tester by Elgar (PD)
+65ad3871ec2917d08189bdaf873bc37c ntsc|cic6102 # DS1 Manager by R. Bubba Magillicutty (V1.0) (PD)
+5c8ddd5b1ee3773bc1a687cd9ee1b66a ntsc|cic6102 # DS1 Manager by R. Bubba Magillicutty (V1.1) (PD) [T+Ita]
+07429249cda176835c03d82a87502e58 ntsc|cic6102 # DS1 Manager by R. Bubba Magillicutty (V1.1) (PD)
+82b7abff9941d78da55c5ecf2a40f507 ntsc|cic6102 # DS1 SRAM Manager by _Sage_ (V1.1) (PD)
+88fc4de8168d5dd2989cdd551342d207 ntsc|cic6102 # Neo N64 Myth Menu by Chilly Willy (V0.1Demo) (PD)
+0b2a821720335e041d166cea2f431683 ntsc|cic6102 # V64Jr 512M Backup Program by HKPhooey (PD)
+f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102 # V64Jr Backup Tool by RedBoX (V0.2b_Beta) (PD)
+7be963b99f2bec86caf00dab4f400533 ntsc|cic6102 # Cube Demo by MSFTUG (PD) [a1]
+7f308b5c67bd1313bad91cd2f24b4170 pal|cic7101 # Memory Manager by R. Bubba Magillicutty (V1.0b) (PD) (PAL)
 
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
