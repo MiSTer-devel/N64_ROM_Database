@@ -160,17 +160,13 @@ c61e9aa1ffb68908153fc23563be2d09 ntsc|cic6102 # Pong by Oman
 c4fafcb4e3e4a9141a9019a8abbd1570 ntsc|cic6102 # Portal64 v0.2
 f24c8eb9f979fe46c32706e61410fc47 ntsc|cic6102 # Portal64 v0.3
 59a7a09fb9d4aaba0e57a79e2586d879 ntsc|cic6102 # Portal64 v0.4
-a15f752b659931bb1936bcddc4b8cf02 ntsc|cic6102 # Portal64 v0.5.1
 1a205884ee69f52bd42208128e906bc0 ntsc|cic6102 # Portal64 v0.5
-f93e1fcfb5374608d86e221af4885c5a ntsc|cic6102 # Portal64 v0.6.0
-f2985638b5062ff33158d25cd324cce6 ntsc|cic6102 # Portal64 v0.6.5
-bf76798e17cbc51b26153e4343a334a3 ntsc|cic6102 # Portal64 v0.7.0
-52d491b5ec2f31c00c429642bc366047 ntsc|cic6102 # Portal64 v0.8.0
-c314d03cfabb09f451ce75fb4a956474 ntsc|cic6102 # Portal64 v0.9.0
-13d91c51e7ecb2504df8fd2d28990d32 ntsc|cic6102|sram32k # Portal64 v0.10.0
-d127657142c5cff45aa77501db794aff ntsc|cic6102|sram32k # Portal64 v0.11.0
-52b452f7c07cb9f9734d98c203244ce1 ntsc|cic6102|sram32k # Portal64 v0.12.0
-a1cc17627435a9bb10210d513b70143f ntsc|cic6102|sram32k|rpak # Portal64 v0.13.0
+a15f752b659931bb1936bcddc4b8cf02 ntsc|cic6102 # Portal64 v0.5.1
+f93e1fcfb5374608d86e221af4885c5a ntsc|cic6102 # Portal64 v0.6
+f2985638b5062ff33158d25cd324cce6 ntsc|cic6102 # Portal64 v0.6
+bf76798e17cbc51b26153e4343a334a3 ntsc|cic6102 # Portal64 v0.7
+52d491b5ec2f31c00c429642bc366047 ntsc|cic6102 # Portal64 v0.8
+c314d03cfabb09f451ce75fb4a956474 ntsc|cic6102 # Portal64 v0.9, every following version use a "Advanced Homebrew ROM Header"
 87e561dbf026663a3fccd0c0d9957d93 ntsc|cic6102 # Puzzle Master 64 by Michael Searl
 e297dead1568583f3a607636c0b23868 ntsc|cic6102|cpak|rpak # Quake 64
 e1b63ebb35b2c3293380344e7e4f56ec ntsc|cic6102 # Raycast Demo (PD)
@@ -231,7 +227,7 @@ b0fc9208a2bf873396a9e670e154cbff ntsc|cic6102 # Wizard of the Board
 5d005d7973d119e7cb48fab90c241873 ntsc|cic6102|cpak|rpak # Xeno Crisis
 3e55a65dccb7f7859d8bee8371cea00b ntsc|cic6102|cpak|rpak # Xeno Crisis (Everdrive)
 
-;No-Intro EXTRAS
+; No-Intro EXTRAS
 26ac0f95174efdff337b81ed81bf03a9 ntsc|cic6102|cpak|rpak # Bassmasters 2000 (Beta)
 86152829275aea9079f359308977c302 pal|cic7101|cpak|rpak # Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)
 b120ce4f830e65f1849829677ae089f5 ntsc|cic6102 # Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)
@@ -855,15 +851,10 @@ f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102 # V64Jr Backup Tool by RedBoX (V0.
 
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
-ID:CD6___ eeprom2k|rpak|tpak # Densha de Go! 64
 ID:CDZ___ sram96k|rpak # Dezaemon 3D
-ID:CFZ___ sram32k|rpak # F-Zero X
-ID:CLB___ eeprom512|rpak # Mario Party
 ID:CMD___ cic8303 # Nintendo 64 Modem
 ID:CP2___ flash128k|tpak # Pocket Monsters Stadium 2
 ID:CPS___ sram32k|tpak # Pocket Monsters Stadium
-ID:CPY___ eeprom512|rpak # Puyo Puyo Sun 64
-ID:CZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time [Zelda no Densetsu - Toki no Ocarina]
 ID:N22___ cpak|rpak # Ready 2 Rumble Boxing - Round 2
 ID:N2M___ cpak|rpak # Madden Football 2002
 ID:N2P___ cpak|rpak # Rampage 2 - Universal Tour
@@ -953,7 +944,7 @@ ID:ND3J__ eeprom2k|rpak # Akumajou Dracula Mokushiroku
 ID:ND3___ cpak # Castlevania
 ID:ND4J__ eeprom2k|rpak # Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell
 ID:ND4___ cpak # Castlevania - Legacy of Darkness
-ID:ND6___ eeprom2k|rpak # Densha de Go! 64
+ID:_D6___ eeprom2k|rpak # Densha de Go! 64
 ID:NDA___ flash128k|cpak # Derby Stallion 64
 ID:NDC___ cpak|rpak # SD Hiryuu no Ken Densetsu
 ID:NDE___ cpak|rpak # Destruction Derby 64
@@ -977,7 +968,7 @@ ID:NEA___ eeprom512 # PGA European Tour
 ID:NEG___ cpak|rpak # Extreme-G
 ID:NEL___ # Sesame Street - Elmo's Letter Adventure
 ID:NEN___ # Sesame Street - Elmo's Number Journey
-ID:NEP___ eeprom2k|rpak # Star Wars Episode I: Racer
+ID:_EP___ eeprom2k|rpak # Star Wars Episode I: Racer
 ID:NER___ eeprom512|rpak # Aero Fighters Assault [Sonic Wings Assault]
 ID:NET___ cpak # Quest 64 [Eltale Monsters, Holy Magic Century]
 ID:NEV___ eeprom2k|rpak # Neon Genesis Evangelion
@@ -997,7 +988,7 @@ ID:NFU___ eeprom2k|rpak # Conker's Bad Fur Day
 ID:NFW___ eeprom512|rpak # F-1 World Grand Prix
 ID:NFX___ eeprom512|rpak # Star Fox 64 [Lylat Wars]
 ID:NFY___ eeprom512|rpak|cpak # Kakutou Denshou: F-Cup Maniax
-ID:NFZ___ sram32k|rpak # F-Zero X
+ID:_FZ___ sram32k|rpak # F-Zero X
 ID:NG2___ cpak|rpak # Extreme-G XG2
 ID:NG5___ cpak|rpak # Ganbare Goemon - Neo Momoyama Bakufu no Odori [Mystical Ninja Starring Goemon]
 ID:NG6___ sram32k|rpak # Ganmare Goemon: Dero Dero Douchuu Obake Tenkomori
@@ -1071,7 +1062,7 @@ ID:NKM___ cpak # Pro Mahjong Kiwame 64
 ID:NKR___ cpak # Rakuga Kids
 ID:NKT___ eeprom512|cpak # Mario Kart 64
 ID:NL2___ cpak|rpak # Top Gear Rally 2
-ID:NLB___ eeprom512|rpak # Mario Party
+ID:_LB___ eeprom512|rpak # Mario Party
 ID:NLC___ cpak|rpak # Automobili Lamborghini [Super Speed Race 64]
 ID:NLG___ cpak|rpak # LEGO Racers
 ID:NLL___ eeprom512|rpak # Last Legion UX
@@ -1153,7 +1144,7 @@ ID:NPT___ eeprom512|rpak|tpak # Puyo Puyon Party
 ID:NPU___ cpak # Power Rangers - Lightspeed Rescue
 ID:NPW___ eeprom512 # Pilotwings 64
 ID:NPX___ cpak|rpak # Polaris SnoCross
-ID:NPY___ eeprom512|rpak # Puyo Puyo Sun 64
+ID:_PY___ eeprom512|rpak # Puyo Puyo Sun 64
 ID:NPZ___ cpak|rpak # Susume! Taisen Puzzle Dama Toukon! Marumata Chou
 ID:NQ2___ cpak|rpak # Quake 2
 ID:NQ8___ cpak|rpak # NFL Quarterback Club '98
@@ -1209,7 +1200,7 @@ ID:NST___ cpak # Eikou no Saint Andrews
 ID:NSU___ eeprom512|rpak # Rocket: Robot on Wheels
 ID:NSV___ eeprom512|rpak|noepak # Space Station Silicon Valley
 ID:NSW___ eeprom512 # Star Wars: Shadows of the Empire [Teikoku no Kage]
-ID:NSX___ cpak|rpak # Supercross 2000
+ID:_SX___ cpak|rpak # Supercross 2000
 ID:NSY___ cpak # Scooby-Doo! - Classic Creep Capers
 ID:NSZ___ cpak|rpak # NFL Blitz - Special Edition
 ID:NT2___ cpak|rpak # Turok 2 - Seeds of Evil [Violence Killer - Turok New Generation]
@@ -1238,7 +1229,7 @@ ID:NTT___ cpak # Tonic Trouble
 ID:NTU___ cpak # Turok: Dinosaur Hunter [Turok: Jikuu Senshi]
 ID:NTW___ eeprom512|cpak # 64 de Hakken!! Tamagotchi
 ID:NTX___ eeprom512|rpak # Taz Express
-ID:NUB_2_ eeprom2k|cpak # Mario Kart 64 - Amped Up v.2.96A
+ID:NUB_2_ eeprom2k|cpak # Mario Kart 64 - Amped Up
 ID:NUB___ eeprom2k|cpak|tpak # PD Ultraman Battle Collection 64
 ID:NUM___ sram32k|rpak|tpak # Nushi Zuri 64: Shiokaze ni Notte
 ID:NUT___ sram32k|rpak|cpak|tpak # Nushi Zuri 64
@@ -1287,14 +1278,14 @@ ID:NXF___ cpak|rpak # Xena Warrior Princess - The Talisman of Fate
 ID:NXG___ cpak # NBA Hangtime
 ID:NXO___ eeprom512|rpak # Cruis'n Exotica
 ID:NX7___ eeprom2k|rpak|cpak|tpak # GoldenEye - X
-ID:NXC___ sram32k|cpak|rpak # Xeno Crisis
+ID:NXC___ cpak|rpak # Xeno Crisis
 ID:NY2___ cpak # Rayman 2 - The Great Escape
 ID:NYK___ eeprom512|rpak # Yakouchuu II: Satsujin Kouro
 ID:NYP___ cpak|rpak # Paperboy
 ID:NYS___ eeprom2k|rpak # Yoshi's Story
 ID:NYWJ__ cpak # Bokujou Monogatari 2
 ID:NYW___ sram32k|cpak # Harvest Moon 64 [Bokujou Monogatari 2]
-ID:NZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time
+ID:_ZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time [Zelda no Densetsu - Toki no Ocarina]
 ID:NZO___ cpak|rpak # Battlezone - Rise of the Black Dogs
 ID:NZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen]
 ID:ZCA___ ntsc|cic5101|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
