@@ -77,6 +77,7 @@ fe3119cc47334e64faedf1435517078d ntsc|cic6102 # Caribbean Nights by Megahawks In
 317085e9fcd8df3f70f11468e5611418 ntsc|cic6102|eeprom2k # Cave Story (Release Demo 1)
 24066da301c3e6f86966debfb892551f ntsc|cic6102 # Coco Demo (PD)
 c7a8ec9386ab97f621dcb530e92b16b0 ntsc|cic6102|cpak|rpak|tpak # ControllerTest
+527a117bebff661f3546522200e63dab ntsc|cic5167|eeprom2k|rpak|tpak # Densha de Go! 64 (English v 1.01)
 76f40c0b400800f2084d48cb0eb80272 ntsc|cic6102|flash128k|cpak # Derby Stallion 64 (Beta)
 e3cc7b27dbd77b44370550543be0b19a ntsc|cic6102 # Dexanoid R1 by Protest Design
 e09272dcb2a26b97d20f198dd8729abc ntsc|cic6102 # Dexanoid R1 by Protest Design
