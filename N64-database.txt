@@ -997,7 +997,7 @@ ID:NGB___ cpak|rpak # Top Gear Hyper Bike
 ID:NGC___ eeprom2k|rpak|cpak # GT 64: Championship Edition
 ID:NGD___ cpak|rpak # Gauntlet Legends
 ID:NGE___ eeprom512|rpak # GoldenEye 007
-ID:NGF___ rpak # 007 - Goldfinger
+ID:NGF___ eeprom512|rpak # 007 - Goldfinger
 ID:NGL___ eeprom512|rpak|cpak # Getter Love!!
 ID:NGM___ cpak|rpak # Goemon's Great Adventure [Mystical Ninja 2 Starring Goemon]
 ID:NGN___ cpak # Golden Nugget 64
