@@ -850,6 +850,31 @@ f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102 # V64Jr Backup Tool by RedBoX (V0.
 7be963b99f2bec86caf00dab4f400533 ntsc|cic6102 # Cube Demo by MSFTUG (PD) [a1]
 7f308b5c67bd1313bad91cd2f24b4170 pal|cic7101 # Memory Manager by R. Bubba Magillicutty (V1.0b) (PD) (PAL)
 
+; N64 game patches to increase N64 Core compatibility
+; Source: https://misterfpga.org/viewtopic.php?t=8078
+a5ee8a6c34863e3d0eb8c06ae8668b30 pal|cic7101|rpak|p4:080d0000|p5:5f81bb9d|p1cab0:84020000 # Batman Beyond - Return of the Joker [Batman of the Future - Return of the Joker] (Europe) (En,Fr,De)
+a08676124b326b1035b202c83a97468f ntsc|cic6102|rpak|p5:6a8d2e60|pb45f:8c010000 # Batman Beyond - Return of the Joker (USA)
+997fd8f79cd6f3cd1c1c1fd21e358717 ntsc|cic6102|cpak|rpak|p4:42008400|p5:2b1d7193|p2778:6120e700 # Blues Brothers 2000 (USA)
+baaf237e71aa7526c9b2f01c08b68a53 pal|cic7105|flash128k|rpak|p4:85035a65|p5:a06de792|p28043:1f006315|p28047:1b008314|p2804a:1800c314|p2804d:15004004|p2804f:1300401c|p28056:0c006014|p2805c:03006014|p2805f:03004010 # Jet Force Gemini (Europe) (En,Fr,De,Es)
+ca28a3645fc7ad969ebd75c5d6506e7a ntsc|cic6105|flash128k|rpak|p4:9a005af5|p5:6f0b382b|p27f57:1f006315|p27f5b:1b008314|p27f5e:1800c314|p27f61:15004004|p27f63:1300401c|p27f6a:0c006014|p27f70:03006014|p27f73:03004010 # Jet Force Gemini [Star Twins] (Japan)
+772cc6eab2620d2d3cdc17bbc26c4f68 ntsc|cic6105|flash128k|rpak|p4:853f30b5|p5:2e13d8f9|p27fa7:1f006315|p27fab:1b008314|p27fae:1800c314|p27faf:021b0500|p27fb1:15004004|p27fb3:1300401c|p27fba:0c006014|p27fc0:03006014|p27fc3:03004010 # Jet Force Gemini (USA)
+8fad1e4fa7baf1443b7f21ad1947b429 pal|cic7101|eeprom512|cpak|p4:ec0400f2:t|p5:581e3409:t|p987:560220a9:t|pa1d:560240a9:t # Mario Kart 64 (Europe)
+2bb149a583fdefea96805f628fe42fd9 pal|cic7101|eeprom512|cpak|p4:e40500f2:t|p5:b028cc09:t|p987:760120a9:t|pa1d:760140a9:t # Mario Kart 64 (Europe) (Rev 1)
+bf964ceca78a13a82055ebda80b95cca ntsc|cic6102|eeprom512|cpak|p4:074e022e:t|p5:03efe32a:t|p987:06db20a9:t|pa1d:06db40a9:t # Mario Kart 64 (Japan)
+60535265bae43ddfcbdb0d71594b1693 ntsc|cic6102|eeprom512|cpak|p4:edb101fe:t|p5:138a788d:t|p987:eec820a9:t|pa1d:eec840a9:t # Mario Kart 64 (Japan) (Rev 1)
+3a67d9986f54eb282924fca4cd5f6dff ntsc|cic6102|eeprom512|cpak|p4:f91dc302:t|p5:fccb41ad:t|p98e:17800018:t|p98f:160120a9:t|pa24:17800018:t|pa25:160140a9:t # Mario Kart 64 (USA)
+d31a94a5685a21a932cc886d64cc9b21 pal|cic7101|rpak|p4:15794fc5|p5:8070926b|p64ce:c8ff0000|p64d5:1280043c|p64d6:08d4848c|p64d7:1980053c|p64d8:577f1abb|p64d9:1100309b|p64da:3200b5ab|p64db:0600b6ab|p64dc:2000172f|p64dd:2700b49f|p64de:2800b58f|p64df:2c00122f|p64e0:3000b78f|p64e1:b3ffe013|p64e2:5000bd27|p5ec31:3f000000 # Knife Edge - Nose Gunner (Europe)
+436ba873e9466aab237d9429348a5f70 ntsc|cic6102|rpak|p4:517e56c5|p5:206476e7|p6472:c8ff0000|p6479:1280043c|p647a:88d2848c|p647b:1980053c|p647c:f77d1abb|p647d:1100309b|p647e:3200b5ab|p647f:0600b6ab|p6480:2000172f|p6481:2700b49f|p6482:2800b58f|p6483:2c00122f|p6484:3000b78f|p6485:b3ffe013|p6486:5000bd27|p60185:2f000000 # Knife Edge - Nose Gunner (Japan)
+8043d829fcd4f8f72dd81e5c6dde916f ntsc|cic6102|rpak|p4:1c1d3645|p5:8a33a7a9|p648a:c8ff0000|p6491:1280043c|p6492:98d2848c|p6493:1980053c|p6494:3b7b1abb|p6495:1100309b|p6496:3200b5ab|p6497:0600b6ab|p6498:2000172f|p6499:2700b49f|p649a:2800b58f|p649b:2c00122f|p649c:3000b78f|p649d:b3ffe013|p649e:5000bd27|p5e8e0:1f000000 # Knife Edge - Nose Gunner (USA)
+b04957d052ef850c5edece69db7377b3 ntsc|cic6102|p4:984ea9fc|p5:f9d548ec|p7de9:9e38e013|p7ded:9a38e013|pb680:01008430|pb681:06008010|pb684:ff7f0e24|pb685:ffffce21|pb686:feffc015|pb688:0800e003 # Nintama Rantarou 64 Game Gallery (Japan)
+bbdc4c4f1c474298189312008a1768c4 ntsc|cic6102|cpak|rpak|p4:04f091fe|p5:3614d9de|pfe74:01008430|pfe75:06008010|pfe78:ff070224|pfe79:ffff4220|pfe7a:feff4014|pfe7c:0800e003|p10686:e5f7e013 # Polaris SnoCross (USA)
+b04f298721223a22e1150cebc712ee6a pal|cic7101|sram32k|rpak|p4:fbfb57a3|p5:1c71c65a|p277c:00100320|p277d:ffff6320|p277e:feff6014|p2780:0800e003|p399e:d5ede013 # Resident Evil 2 (Europe) (En,Fr)
+f77d70959222276491222f31ebff3bf1 ntsc|cic6102|sram32k|rpak|p4:baff5b7f|p5:967cdce6|p27a0:00100320|p27a1:ffff6320|p27a2:feff6014|p27a4:0800e003|p39c2:d5ede013 # Resident Evil 2 [Biohazard 2] (Japan)
+dd21150cbc21c05420304599ec57411c ntsc|cic6102|sram32k|rpak|p4:faff79ab|p5:cb4f8da7|p2784:00100320|p2785:ffff6320|p2786:feff6014|p2788:0800e003|p39a6:d5ede013 # Resident Evil 2 (USA)
+1add2c0217662b307cdfd876b35fbf7a ntsc|cic6102|sram32k|rpak|p4:82ffd961|p5:713a8c42|p2784:00100320|p2785:ffff6320|p2786:feff6014|p2788:0800e003|p39a6:d5ede013 # Resident Evil 2 (USA) (Rev 1)
+229089089661f517c863242d6bb77746 pal|cic7101|rpak|p4:f00fda66|p5:66611777|p146ec:00200324|p146ed:ffff6320|p146ee:feff6014|p146f0:0800e003|p14abe:21fce013|p14cbe:21fae013 # Rugrats in Paris - The Movie (Europe)
+207efe58c7c221dbdfff285ab80126c1 ntsc|cic6102|rpak|p4:c9dd9d84|p5:d9c1a7b4|p146b8:00200324|p146b9:ffff6320|p146ba:feff6014|p146bc:0800e003|p14a8e:2dfce013|p14c8e:2dfae013 # Rugrats in Paris - The Movie (USA)
+
 ; Cart-IDs
 ID:BPY___ eeprom512 # Pyoro 64
 ID:CDZ___ sram96k|rpak # Dezaemon 3D
@@ -1120,7 +1145,7 @@ ID:NOM___ cpak # Onegai Monsters
 ID:NOS___ eeprom512|rpak|cpak # 64 Oozumou
 ID:NOW___ cpak # Brunswick Circuit Pro Bowling
 ID:NP2___ eeprom512|rpak|cpak # Chou Kuukan Night Pro Yakyuu King 2
-ID:NP3___ flash128k|tpak # Pokémon Stadium 2 [Pocket Monsters Stadium - Kin Gin]
+ID:NP3___ flash128k|tpak # PokÃ©mon Stadium 2 [Pocket Monsters Stadium - Kin Gin]
 ID:NP4___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu 4
 ID:NP6___ sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
 ID:NP9___ cpak|rpak # Ms. Pac-Man - Maze Madness
@@ -1129,14 +1154,14 @@ ID:NPB___ cpak|rpak # Puzzle Bobble 64
 ID:NPC___ cpak # Pachinko 365 Nichi
 ID:NPD___ eeprom2k|rpak|cpak|tpak # Perfect Dark
 ID:NPE___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu Basic Ban 2001
-ID:NPF___ flash128k # Pokémon Snap [Pocket Monsters Snap]
+ID:NPF___ flash128k # PokÃ©mon Snap [Pocket Monsters Snap]
 ID:NPG___ eeprom512|rpak # Hey You, Pikachu! [Pikachu Genki Dechu]
-ID:NPH___ flash128k # Pokémon Snap Station
+ID:NPH___ flash128k # PokÃ©mon Snap Station
 ID:NPK___ cpak # Chou Kuukan Night Pro Yakyuu King
 ID:NPL___ cpak # Power League 64
 ID:NPM___ sram32k|cpak # Premier Manager 64
-ID:NPN___ flash128k # Pokémon Puzzle League
-ID:NPO___ flash128k|tpak # Pokémon Stadium
+ID:NPN___ flash128k # PokÃ©mon Puzzle League
+ID:NPO___ flash128k|tpak # PokÃ©mon Stadium
 ID:NPP___ eeprom2k|cpak # Parlor! Pro 64: Pachinko Jikki Simulation Game
 ID:NPQ___ # Powerpuff Girls, The - Chemical X-Traction
 ID:NPR___ cpak|rpak # South Park Rally
