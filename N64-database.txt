@@ -1145,7 +1145,7 @@ ID:NOM___ cpak # Onegai Monsters
 ID:NOS___ eeprom512|rpak|cpak # 64 Oozumou
 ID:NOW___ cpak # Brunswick Circuit Pro Bowling
 ID:NP2___ eeprom512|rpak|cpak # Chou Kuukan Night Pro Yakyuu King 2
-ID:NP3___ flash128k|tpak # PokÃ©mon Stadium 2 [Pocket Monsters Stadium - Kin Gin]
+ID:NP3___ flash128k|tpak # Pokémon Stadium 2 [Pocket Monsters Stadium - Kin Gin]
 ID:NP4___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu 4
 ID:NP6___ sram32k|cpak|tpak # Jikkyou Powerful Pro Yakyuu 6
 ID:NP9___ cpak|rpak # Ms. Pac-Man - Maze Madness
@@ -1154,14 +1154,14 @@ ID:NPB___ cpak|rpak # Puzzle Bobble 64
 ID:NPC___ cpak # Pachinko 365 Nichi
 ID:NPD___ eeprom2k|rpak|cpak|tpak # Perfect Dark
 ID:NPE___ sram32k|cpak # Jikkyou Powerful Pro Yakyuu Basic Ban 2001
-ID:NPF___ flash128k # PokÃ©mon Snap [Pocket Monsters Snap]
+ID:NPF___ flash128k # Pokémon Snap [Pocket Monsters Snap]
 ID:NPG___ eeprom512|rpak # Hey You, Pikachu! [Pikachu Genki Dechu]
-ID:NPH___ flash128k # PokÃ©mon Snap Station
+ID:NPH___ flash128k # Pokémon Snap Station
 ID:NPK___ cpak # Chou Kuukan Night Pro Yakyuu King
 ID:NPL___ cpak # Power League 64
 ID:NPM___ sram32k|cpak # Premier Manager 64
-ID:NPN___ flash128k # PokÃ©mon Puzzle League
-ID:NPO___ flash128k|tpak # PokÃ©mon Stadium
+ID:NPN___ flash128k # Pokémon Puzzle League
+ID:NPO___ flash128k|tpak # Pokémon Stadium
 ID:NPP___ eeprom2k|cpak # Parlor! Pro 64: Pachinko Jikki Simulation Game
 ID:NPQ___ # Powerpuff Girls, The - Chemical X-Traction
 ID:NPR___ cpak|rpak # South Park Rally
