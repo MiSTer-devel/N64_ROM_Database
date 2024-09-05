@@ -982,7 +982,7 @@ ID:NDM___ cpak # Doom 64
 ID:NDN___ cpak|rpak # Duke Nukem 64
 ID:NDO___ eeprom2k|rpak # Donkey Kong 64
 ID:NDP___ flash128k|rpak # Dinosaur Planet
-ID:NDQ___ cpak| # Disney's Donald Duck - Goin' Quackers [Quack Attack]
+ID:NDQ___ cpak # Disney's Donald Duck - Goin' Quackers [Quack Attack]
 ID:NDR___ eeprom512 # Doraemon: Nobita to 3tsu no Seireiseki
 ID:NDS___ cpak # J.League Dynamite Soccer 64
 ID:NDT___ cpak|rpak # South Park
