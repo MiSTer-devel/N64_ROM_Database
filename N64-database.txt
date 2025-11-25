@@ -218,6 +218,7 @@ f243e960436e0211bdf47aa0bc564ad3 pal|cic7101|cpak|rpak # Turok 3 - Shadow of Obl
 a0806dea83c6ae2d211bc815d43e33de ntsc|cic6102|eeprom512 # Viewpoint 2064 - No-Dither+No-AA (Hack) v1 ElectronAsh
 9bbabdedcd717c4eded24f4e52177b96 ntsc|cic6102|eeprom512 # Viewpoint 2064 (Japan) (Proto)
 7b06e4fbf15112a88c5f9c182fa1264b ntsc|cic6102|eeprom512 # Viewpoint 2064 T+Eng v1.1 Zoinkity
+61896b034c7630f8c8ead81d4b334165 ntsc|cic6102|eeprom512|rpak # Viewpoint 2064 (Japan) (New Proto - Final Version)
 c6b3c6121313f311a22153f7b1f54a39 ntsc|cic6102|sram32k|rpak|cpak # Virtual Pro Wrestling 64
 f526f5fcb87a49425ea481dbe4cddea9 ntsc|cic6103|eeprom512 # Vivid Dolls (Aleck64)
 094901ab50e4acf72adc410f306fe17a ntsc|cic6102|cpak # VNES64 + Galaga
