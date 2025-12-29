@@ -858,7 +858,8 @@ f25ad011df54065768c3a3cabf41d4b3 ntsc|cic6102 # V64Jr Backup Tool by RedBoX (V0.
 ; Source: https://misterfpga.org/viewtopic.php?t=8078
 a5ee8a6c34863e3d0eb8c06ae8668b30 pal|cic7101|rpak|p4:080d0000|p5:5f81bb9d|p1cab0:84020000 # Batman Beyond - Return of the Joker [Batman of the Future - Return of the Joker] (Europe) (En,Fr,De)
 a08676124b326b1035b202c83a97468f ntsc|cic6102|rpak|p5:6a8d2e60|pb45f:8c010000 # Batman Beyond - Return of the Joker (USA)
-997fd8f79cd6f3cd1c1c1fd21e358717 ntsc|cic6102|cpak|rpak|p4:42008400|p5:2b1d7193|p2778:6120e700 # Blues Brothers 2000 (USA)
+31b4a8ed52b48e756b344c9f22736e50 pal|cic7101|cpak|rpak|p16:0140705c75713f86|p43841:e72061|p44549:372b37 # Blues Brothers 2000 (Europe) (En,Fr,De,It,Nl,Es)
+997fd8f79cd6f3cd1c1c1fd21e358717 ntsc|cic6102|cpak|rpak|p17:60704ce7364a4b|p40417:e72061|p41125:372b37 # Blues Brothers 2000 (USA)
 baaf237e71aa7526c9b2f01c08b68a53 pal|cic7105|flash128k|rpak|p4:85035a65|p5:a06de792|p28043:1f006315|p28047:1b008314|p2804a:1800c314|p2804d:15004004|p2804f:1300401c|p28056:0c006014|p2805c:03006014|p2805f:03004010 # Jet Force Gemini (Europe) (En,Fr,De,Es)
 ca28a3645fc7ad969ebd75c5d6506e7a ntsc|cic6105|flash128k|rpak|p4:9a005af5|p5:6f0b382b|p27f57:1f006315|p27f5b:1b008314|p27f5e:1800c314|p27f61:15004004|p27f63:1300401c|p27f6a:0c006014|p27f70:03006014|p27f73:03004010 # Jet Force Gemini [Star Twins] (Japan)
 772cc6eab2620d2d3cdc17bbc26c4f68 ntsc|cic6105|flash128k|rpak|p4:853f30b5|p5:2e13d8f9|p27fa7:1f006315|p27fab:1b008314|p27fae:1800c314|p27faf:021b0500|p27fb1:15004004|p27fb3:1300401c|p27fba:0c006014|p27fc0:03006014|p27fc3:03004010 # Jet Force Gemini (USA)
