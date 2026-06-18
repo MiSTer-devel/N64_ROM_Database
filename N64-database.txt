@@ -39,7 +39,7 @@
 ffcb018cb73cf40bc52db39d113c0ff3 ntsc|cic6102 # 3DS Model Conversion by Snake
 0949de363010f42f01ce766f60c0bf0a ntsc|cic6102 # 3DS Model Conversion by Snake
 41f99942de80d05e3e990fef05dfd8f0 ntsc|cic6102|eeprom512|cpak # 64 de Hakken!! Tamagotchi Minna de Tamagotchi World
-f08b3f4a3d0d817d07b12b1a328838d8 ntsc|cic6102|rpak|tpak # 64DD IPL
+f08b3f4a3d0d817d07b12b1a328838d8 ntsc|cicddus|rpak|tpak # 64DD IPL
 b4891d8c08890281c680929f71768fca ntsc|cic8303|rpak|tpak # 64DD IPL
 082ffe637e1c04d14fe3393156294fbc ntsc|cic8303|rpak|tpak # 64DD IPLROM BIOS (for UltraHLE)
 cf8d8deecf27ccb0a13af043011d179b ntsc|cic6102 # 64drive USB Input Demo (PD)
